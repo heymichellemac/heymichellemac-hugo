@@ -1,0 +1,15 @@
+<ul>
+    {{ $pages := site.RegularPages }}
+    {{ $projectPosts := where $pages "Params.categories" "intersect" (slice "Project") }}
+    {{ range first 5 $projectPosts }}
+    <li class="hx-flex hx-flex-row hx-pb-4 hx-items-center hx-justify-between hx-py-5">
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a><br>
+        <span style="font-size: 0.9em;">
+          {{ with (findRE ".*?\\." (.Summary | plainify)) }}
+            {{ index . 0 }}
+          {{ end }}
+        </span>
+    </li>
+    {{ end }}
+</ul>
+  

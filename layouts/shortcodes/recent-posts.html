@@ -1,0 +1,10 @@
+<ul>
+    {{ $pages := site.RegularPages }}
+    {{ $blogPosts := where $pages "Params.categories" "intersect" (slice "Blog Post") }}
+    {{ range first 5 $blogPosts }}
+      <li class="hx-flex hx-flex-row hx-pb-4 hx-items-center hx-justify-between hx-py-5">
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+        <span style="font-size: 0.9em;">{{ .Date.Format "Jan 2, 2006" }}</span>
+      </li>
+    {{ end }}
+</ul>

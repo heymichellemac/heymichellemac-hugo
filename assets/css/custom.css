@@ -1,0 +1,6 @@
+:root {
+    --primary-hue: 330deg;
+    --primary-saturation: 81%;
+    --primary-lightness: 60%;
+    font-size: 18px; /* sets base font size */
+}
