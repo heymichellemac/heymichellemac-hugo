@@ -1,6 +1,25 @@
 :root {
-    --primary-hue: 330deg;
-    --primary-saturation: 81%;
-    --primary-lightness: 60%;
+    --primary-hue: 190deg;  /* Teal Blue */
+    --primary-saturation: 70%;
+    --primary-lightness: 50%;
     font-size: 18px; /* sets base font size */
+}
+
+/* Center footer content across all screen sizes */
+footer > div a {
+    text-decoration: underline;
+}
+footer > div > div {
+    align-items: center !important;
+    text-align: center !important;
+}
+  footer > div {
+    padding-top: 1rem !important;
+    padding-bottom: 1rem !important;
+}
+  footer .hx-mt-6 {
+    margin-top: 0.5rem !important; /* Same as hx-mt-2 */
+}
+footer .hx-text-xs {
+    font-size: 1rem !important; /* Same as Tailwind's text-base */
 }

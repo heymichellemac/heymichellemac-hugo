@@ -1,24 +1,24 @@
 ---
 title: "Gaming Backlog Tracker"
 date: 2022-08-17
-draft: false
+type: "blog"
 categories:
-- Project
+  - project
 ---
 
 This project is a list of the games in my PlayStation backlog.
 
-I recently subscribed to the new [Playstation Plus Extra](https://www.playstation.com/en-gb/ps-plus/#subscriptions){:target="_blank"}{:rel="noopener noreferrer"} tier to be able to avail of all the games this plan has to offer. So as you can imagine my backlog grew enormously overnight.
+I recently subscribed to the new [Playstation Plus Extra](https://www.playstation.com/en-gb/ps-plus/#subscriptions) tier to be able to avail of all the games this plan has to offer. So as you can imagine my backlog grew enormously overnight.
 
 It became a chore to look through a list and try to find my next game to play as I couldn't get a sense of the games I could play. 
 
 My brain loves organization and pretty things so I thought about building my own tracker but didn't get anywhere with it so stayed using my Google Sheet to track my games.
 
-By accident, I stumbled across [this thread](https://gaming.stackexchange.com/questions/365295/is-there-a-public-list-of-the-ps4-games-i-own#:~:text=My%20PlayStation%20Account,with%20all%20of%20your%20trophies){:target="_blank"}{:rel="noopener noreferrer"} which inspired me to try building this project once again, and I succeeded (for the most part).
+By accident, I stumbled across [this thread](https://gaming.stackexchange.com/questions/365295/is-there-a-public-list-of-the-ps4-games-i-own#:~:text=My%20PlayStation%20Account,with%20all%20of%20your%20trophies) which inspired me to try building this project once again, and I succeeded (for the most part).
 
 Turns out you can grab a JSON list of the games you've purchased via PSN. The coders out there know the value of a JSON list of data so you'll understand how happy I was after discovering this. 
 
-I already track my games in an excel sheet ([which you can download here for free btw](https://heymichellemac.com/video-game-trackers){:target="_blank"}{:rel="noopener noreferrer"}) so I already had a good amount of data to work with and manipulate.
+I already track my games in an excel sheet ([which you can download here for free btw](https://heymichellemac.com/video-game-trackers)) so I already had a good amount of data to work with and manipulate.
 
 The tech stack for this project is Jekyll, Tailwind CSS, and Netlify; pretty much my go to stack at the moment for fun projects like this.
 
@@ -28,7 +28,7 @@ Some things I'd like to experiment with adding in the near future:
 
 - Adding PS3 games to the list.
 - More automation to update the list more automatically.
-- Experiment with web scraping a bit more to be able to pull trophy data from PSN profiles (if you have any advice on this part please [send me a message on Twitter](https://twitter.com/heymichellemac){:target="_blank"}{:rel="noopener noreferrer"}).
+- Experiment with web scraping a bit more to be able to pull trophy data from PSN profiles (if you have any advice on this part please [send me a message on Twitter](https://twitter.com/heymichellemac)).
 
 <div class="flex pt-4">
 <a style="text-decoration:none;" href="https://backlog.heymichellemac.com" class="flex items-center bg-pink-500 px-4 py-2 rounded-md font-medium text-white shadow-md transition-all border-2 border-pink-500 hover:border-white" target="_blank" rel="noopener noreferrer">

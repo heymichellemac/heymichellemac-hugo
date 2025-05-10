@@ -1,0 +1,16 @@
+{{ $pages := .Site.RegularPages }}
+{{ $recent := first 5 (where $pages "Params.categories" "intersect" (slice "project")) }}
+<div class="hx-flex hx-flex-col hx-gap-2" style="padding-top:24px;">
+  {{ range $recent }}
+    <div class="hx-flex hx-py-3" style="align-items:baseline;">
+      <div class="hx-text-sm">
+        {{ .Date.Format "Jan 2, 2006" }}
+      </div>
+      <div style="margin-left: 16px;"> <!-- Inline style to create a gap -->
+        <a href="{{ .RelPermalink }}" class="hx-text-lg hx-font-semibold hover:hx-underline">
+          {{ .Title }}
+        </a>
+      </div>
+    </div>
+  {{ end }}
+</div>
