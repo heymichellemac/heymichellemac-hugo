@@ -5,6 +5,7 @@ date: '2023-01-23'
 tag:
 - Creation
 title: A creative's secret power up - the power of noticing
+width: wide
 ---
 
 *This article was re-posted from my weekly newsletter. Want to read it a week early? Subscribe to [Design Insight](https://designinsight.substack.com/).*

@@ -5,6 +5,7 @@ date: '2021-10-18'
 tag:
 - Creation
 title: 10 Ways I Use Figma As A Creator
+width: wide
 ---
 
 As a creator, I use Figma every day and I can honestly say it's 10x'ed my creation process. 

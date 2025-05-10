@@ -5,6 +5,7 @@ date: '2021-04-26'
 tag:
 - Productivity
 title: How To Make Your Productivity Systems More Efficient
+width: wide
 ---
 
 How we live our lives and the systems we use to keep on top of things is always changing.

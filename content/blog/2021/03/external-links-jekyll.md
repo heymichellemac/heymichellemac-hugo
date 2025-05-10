@@ -5,6 +5,7 @@ date: '2021-03-31'
 tag:
 - Coding
 title: Jekyll - Creating External Links That Open In A New Tab
+width: wide
 ---
 
 A common convention for external links is that they open in a new tab. The idea behind this is that you can easily go back to the previous tab if you need to. This makes it easy for users to return to your website.

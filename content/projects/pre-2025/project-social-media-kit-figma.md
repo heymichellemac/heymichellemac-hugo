@@ -1,11 +1,12 @@
 ---
-type: "blog"
 categories:
-  - project
+- project
 date: '2021-04-07'
 title: Social Media Kit - Figma
 tools:
 - Figma
+type: blog
+width: wide
 ---
 
 This social media kit is a useful quickstart for anyone looking to build a presence on social media.
@@ -49,4 +50,3 @@ You just need to focus on building your brand and creating eye-catching visuals.
 ## Get Access To This Now
 
 [Download this free resource](https://www.figma.com/community/file/1120355768700379120)
-

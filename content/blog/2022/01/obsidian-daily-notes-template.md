@@ -5,6 +5,7 @@ date: '2022-01-17'
 tag:
 - Knowledge-Management
 title: My Obsidian Daily Note Template 2022
+width: wide
 ---
 
 This article is about how I use the Daily Notes feature in Obsidian to manage my day. 

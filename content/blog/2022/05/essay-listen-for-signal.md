@@ -5,6 +5,7 @@ date: '2022-05-23'
 tag:
 - Creation
 title: Are You Following Your Life Signals? Here's A Framework To Help You
+width: wide
 ---
 
 So many great opportunities will pass you by if you don't look out for them. 

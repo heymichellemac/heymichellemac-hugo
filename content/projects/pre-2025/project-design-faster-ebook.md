@@ -1,11 +1,12 @@
 ---
-type: "blog"
 categories:
-  - project
+- project
 date: '2021-09-01'
 title: Design Faster, Design Better
 tools:
 - Docs
+type: blog
+width: wide
 ---
 
 In this book, I share with you everything I've learned as a productive designer over the last 10 years. 

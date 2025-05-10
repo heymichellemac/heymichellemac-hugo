@@ -5,6 +5,7 @@ date: '2021-07-19'
 tag:
 - Creation
 title: How To Never Be Bored Again
+width: wide
 ---
 
 Feeling "bored" can result in a complete lack of motivation. You don't have the drive to pick something from your list of chores. You can't bring yourself to do anything except watch YouTube mindlessly.

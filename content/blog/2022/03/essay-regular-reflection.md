@@ -5,6 +5,7 @@ date: '2022-03-12'
 tag:
 - Design
 title: How Regular Reflection Makes You A Better Designer
+width: wide
 ---
 
 Constantly moving from one project to the next leaves little time to think about the big picture. It can be tough to find the time to ask yourself questions like:

@@ -5,6 +5,7 @@ date: '2022-02-14'
 tag:
 - Design
 title: These 5 Tips Will Improve Your Designer To Developer Communications Today
+width: wide
 ---
 
 As a designer, communicating with developers can be challenging. Throw in remote communication and you might find yourself struggling to reach out in the first place.

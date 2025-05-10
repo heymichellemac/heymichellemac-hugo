@@ -5,6 +5,7 @@ date: '2022-09-28'
 tag:
 - Knowledge-Management
 title: Here's How To Get Your Bookmarks Out Of Twitter And Actually Use Them
+width: wide
 ---
 
 I'm going to show you how I get my bookmarks out of Twitter so I can review them at my own pace.

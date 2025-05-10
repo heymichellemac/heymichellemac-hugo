@@ -5,6 +5,7 @@ date: '2021-03-05'
 tag:
 - Book-Notes
 title: Don't Make Me Think by Steve Krug - Book Notes, Summary, Review
+width: wide
 ---
 
 Don't Make Me Think was a transformative reading experience for me. It boils down a lot of complex and indepth usability research and best practices into easy to understand advice with examples.

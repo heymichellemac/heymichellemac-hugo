@@ -5,6 +5,7 @@ date: '2020-11-25'
 tag:
 - Book-Notes
 title: Show Your Work by Austin Kleon – Book Notes, Summary, Review
+width: wide
 ---
 
 Reading Show Your Work unlocked the motivation I needed to be more confident in sharing my thoughts with the world. This is a helpful book for content creators, knowledge workers, and creatives alike.

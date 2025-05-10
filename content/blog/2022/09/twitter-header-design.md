@@ -6,6 +6,7 @@ tag:
 - Design
 title: Creating A Great Twitter Header Shouldn't Take Weeks. Here's How To Design
   One In Under An Hour
+width: wide
 ---
 
 When you're done reading this, you'll know exactly how to design a captivating Twitter header in under an hour without any design experience.

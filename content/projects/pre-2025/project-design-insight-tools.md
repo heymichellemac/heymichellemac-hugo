@@ -1,11 +1,12 @@
 ---
-type: "blog"
 categories:
-  - project
+- project
 date: '2021-09-26'
 title: Design Insight Tools + Resources
 tools:
 - Notion
+type: blog
+width: wide
 ---
 
 This is a collection of the tools + resources I include in Design Insight each week.

@@ -6,6 +6,7 @@ tag:
 - Creation
 - Gaming
 title: I Use These Tools to Gamify My Habits so I Can Stay Creative and Healthy
+width: wide
 ---
 
 I'm a gamer I admit it.

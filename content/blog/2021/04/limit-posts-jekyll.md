@@ -5,6 +5,7 @@ date: '2021-04-07'
 tag:
 - Coding
 title: Jekyll - How To Limit Posts During The Build Process
+width: wide
 ---
 
 As your Jekyll blog grows in size over time, you might find that the build process takes longer to run.

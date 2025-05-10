@@ -1,9 +1,10 @@
 ---
-title: "Gaming Backlog Tracker"
-date: 2022-08-17
-type: "blog"
 categories:
-  - project
+- project
+date: 2022-08-17
+title: Gaming Backlog Tracker
+type: blog
+width: wide
 ---
 
 This project is a list of the games in my PlayStation backlog.

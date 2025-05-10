@@ -5,6 +5,7 @@ date: '2023-02-22'
 tag:
 - Creation
 title: The use of color in Better Call Saul
+width: wide
 ---
 
 *This article was re-posted from my weekly newsletter. Want to read it a week early? Subscribe to [Design Insight]  .*

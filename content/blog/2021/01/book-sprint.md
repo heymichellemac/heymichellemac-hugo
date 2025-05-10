@@ -5,6 +5,7 @@ date: '2021-01-08'
 tag:
 - Book-Notes
 title: Sprint by Jake Knapp – Book Notes, Summary, Review
+width: wide
 ---
 
 Running a sprint is an excellent way to test out a solution to a problem without sinking lots of time and money into it.

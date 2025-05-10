@@ -5,10 +5,9 @@ date: '2023-03-31'
 tag:
 - Knowledge-Management
 title: A simple format to distil what you learn
+width: wide
 ---
 
-*A version of this post first appeared in my newsletter. [Subscribe](https://designinsight.substack.com/) to receive posts like this in your inbox every Friday.*
- 
 It's surprising and fascinating how our minds can make unconscious connections we don't realize.
 
 I was going through some random notes in my Obsidian vault and came across this one: *ICE Method For Active Note Taking* ([Source](https://forum.obsidian.md/t/the-ice-method-idea-concept-execution/15294)) 

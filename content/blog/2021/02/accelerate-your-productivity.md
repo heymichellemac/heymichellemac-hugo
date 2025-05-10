@@ -4,6 +4,7 @@ categories:
 date: '2021-02-01'
 tag: Productivity
 title: How Task Batching Can Accelerate Your Productivity
+width: wide
 ---
 
 As someone who writes blog posts pretty consistently and as a content creator in general, I find that I end up working on a lot of the same types of tasks quite regularly.

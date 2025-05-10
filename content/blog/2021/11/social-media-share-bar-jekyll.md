@@ -5,6 +5,7 @@ date: '2021-11-01'
 tag:
 - Coding
 title: How To Add A Social Media Share Bar In Jekyll
+width: wide
 ---
 
 Adding a social media share bar at the beginning or end of each post is a great way to encourage readers to share your content on social media.
@@ -23,7 +24,7 @@ This type of component is great to include on your website as it encourages read
 
 Here's a screenshot of what this looks like on my website:
 
-![Social Media Share Bar](/assets/images/2021/share-bar.png){:style="border:2px solid #DB2777;"}
+![Social Media Share Bar](/assets/images/2021/share-bar.png)
 
 This is what we'll be implementing using the code below.
 

@@ -6,6 +6,7 @@ tag:
 - Design
 - Coding
 title: You Learn More Effectively By Practicing
+width: wide
 ---
 
 I recently started back into building up my web development skills. A lot has changed in the time since I last actively made an effort to advance my knowledge of HTML, CSS, and JavaScript so I needed to catch up!

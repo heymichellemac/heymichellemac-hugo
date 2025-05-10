@@ -5,6 +5,7 @@ date: '2022-10-05'
 tag:
 - Knowledge-Management
 title: How I Reframed My Digital Life After Reading Building a Second Brain
+width: wide
 ---
 
 **Building A Second Brain by Tiago Forte** is an excellent distillation of the methodology of the same name.

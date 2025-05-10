@@ -5,6 +5,7 @@ date: '2021-01-22'
 tag:
 - Book-Notes
 title: How To Read A Book by Mortimer Adler – Book Notes, Summary, Review
+width: wide
 ---
 
 You might think you know how to read a book but you’re probably not remembering much of what you’re reading. That’s where this book comes in. It describes the different levels of reading and how you can get much more out of the books you read.

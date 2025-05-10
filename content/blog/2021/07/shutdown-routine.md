@@ -5,6 +5,7 @@ date: '2021-07-05'
 tag:
 - Productivity
 title: Establish A Shut Down Routine For Maximum Clarity
+width: wide
 ---
 
 A shutdown routine is something you do at the end of your workday that tells your brain, I'm finished with work today.

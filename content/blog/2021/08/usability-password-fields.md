@@ -5,6 +5,7 @@ date: '2021-08-23'
 tag:
 - Design
 title: How To Improve The Usability Of Password Fields
+width: wide
 ---
 
 Password fields are a necessity if you're designing a login or sign-up form for your application. As common as these types of fields are, they can be frustrating to interact with when poorly designed.

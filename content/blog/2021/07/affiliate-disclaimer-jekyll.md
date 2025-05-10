@@ -5,6 +5,7 @@ date: '2021-07-12'
 tag:
 - Coding
 title: Jekyll - Add An Affiliate Disclaimer To Specific Posts
+width: wide
 ---
 
 On this website some of the links used are affiliate links. To let people know this, I include a disclaimer at the top of relevant pages.

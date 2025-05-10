@@ -6,6 +6,7 @@ tag:
 - Design
 title: These 4 Typography-Related UI Issues Are Costing You Money! Here's How To Fix
   Them
+width: wide
 ---
 
 Simple UI issues in your website can be the difference between a conversion and a bounce.

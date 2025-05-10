@@ -5,6 +5,7 @@ date: '2021-04-12'
 tag:
 - Creation
 title: Overcoming The Blank Page As A Creator
+width: wide
 ---
 
 As I sit down to write this article, I'm not starting from scratch. 

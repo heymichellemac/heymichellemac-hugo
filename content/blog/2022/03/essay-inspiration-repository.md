@@ -5,6 +5,7 @@ date: '2022-03-30'
 tag:
 - Knowledge-Management
 title: Create An Inspiration Repository To Generate Unique Ideas
+width: wide
 ---
 
 As a designer, it's hard to constantly generate new ideas.

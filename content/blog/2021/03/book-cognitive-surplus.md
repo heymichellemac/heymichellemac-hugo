@@ -5,6 +5,7 @@ date: '2021-03-26'
 tag:
 - Book-Notes
 title: Cognitive Surplus by Clay Shirky - Book Notes, Summary, Review
+width: wide
 ---
 
 Cognitive Surplus was a thought-provoking but enjoyable book to read. It raised a lot of great points about the world we currently live in. A world where people are actively consuming media and have lots of "free time" when compared with previous generations.

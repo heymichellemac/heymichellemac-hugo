@@ -5,9 +5,8 @@ date: '2023-04-12'
 tag:
 - Creation
 title: The fun world of collage
+width: wide
 ---
-
-_A version of this post first appeared in my newsletter. [Subscribe](https://designinsight.substack.com/){:target="\_blank"}{:rel="noopener noreferrer"} to receive posts like this in your inbox every Friday._
 
 ![My first attempt at Collage
 ](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F31f4b07c-7fbb-45c5-83d1-44c388932f60_859x859.jpeg)
@@ -17,7 +16,7 @@ I finally took the leap recently and started Collaging.
 
 The whole process is a super relaxing way to spend a few hours. It's a manual craft that allows me to completely tune out the world.
 
-Every time I work on a Collage I enter a [flow state](<https://en.wikipedia.org/wiki/Flow_(psychology)>){:target="\_blank"}{:rel="noopener noreferrer"}. Time passes like magic and an hour feels like a few minutes.
+Every time I work on a Collage I enter a [flow state](<https://en.wikipedia.org/wiki/Flow_(psychology)>). Time passes like magic and an hour feels like a few minutes.
 
 I'm always looking for activities that take me away from my computer screen and allow me to "be creative".
 
@@ -39,15 +38,15 @@ There is no one right way to Collage and there's no wrong way to Collage. Create
 
 Some of the best YouTube videos I watched on Collage and its many forms:
 
-- [WHY I MAKE GLUE BOOKS and Why You Should Too](https://youtu.be/sR7PMBF7Rcs){:target="\_blank"}{:rel="noopener noreferrer"}
-- [How To - 002 - How to Cut Out Images for Collaging - YouTube](https://youtu.be/EfliO_D78QE){:target="\_blank"}{:rel="noopener noreferrer"}
-- [Magazine Tape Transfer Tutorial for Translucent Mixed Media Collage - YouTube](https://youtu.be/DahegbsLBLI){:target="\_blank"}{:rel="noopener noreferrer"}
-- [A Pretty Normal Day with Collage Artist Luis Martin - YouTube](https://youtu.be/EdW_kw6SlY8){:target="\_blank"}{:rel="noopener noreferrer"}
-- [Watch this artist turn pages of magazines into surreal collages - YouTube](https://youtu.be/rzh607-fwUM){:target="\_blank"}{:rel="noopener noreferrer"}
-- [Surreal Collage Techniques - YouTube](https://youtu.be/1hgPInGRJEg){:target="\_blank"}{:rel="noopener noreferrer"}
+- [WHY I MAKE GLUE BOOKS and Why You Should Too](https://youtu.be/sR7PMBF7Rcs)
+- [How To - 002 - How to Cut Out Images for Collaging - YouTube](https://youtu.be/EfliO_D78QE)
+- [Magazine Tape Transfer Tutorial for Translucent Mixed Media Collage - YouTube](https://youtu.be/DahegbsLBLI)
+- [A Pretty Normal Day with Collage Artist Luis Martin - YouTube](https://youtu.be/EdW_kw6SlY8)
+- [Watch this artist turn pages of magazines into surreal collages - YouTube](https://youtu.be/rzh607-fwUM)
+- [Surreal Collage Techniques - YouTube](https://youtu.be/1hgPInGRJEg)
 
 ![A Collage I made watching a Resident Evil 4 Remake stream
-](https://substackcdn.com/image/fetch/w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa571f122-8172-4d3c-afcd-079fd2d950b1_583x923.jpeg){:style="margin:8px auto;"}
+](https://substackcdn.com/image/fetch/w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa571f122-8172-4d3c-afcd-079fd2d950b1_583x923.jpeg)
 _A Collage I made watching a Resident Evil 4 Remake stream_
 
 ## Collage as a hobby

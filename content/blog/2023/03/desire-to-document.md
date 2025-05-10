@@ -5,10 +5,9 @@ date: '2023-03-08'
 tag:
 - Creation
 title: The desire to document and collect
+width: wide
 ---
 
-*A version of this post first appeared in my newsletter. [Subscribe](https://designinsight.substack.com/) to receive posts like this in your inbox every Friday.*
- 
 The desire to document and collect must be something in our nature as humans.
 
 I recently watched the [Pamela Anderson documentary on Netflix](https://www.netflix.com/ie/title/81590934) and was struck by everything she kept over the years. Every diary, scrap of paper, videotape, piece of clothing, and shoes (lots of shoes). Every memory was saved and stored away in plastic boxes which she delved through during the filming.

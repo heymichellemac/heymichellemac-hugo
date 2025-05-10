@@ -5,6 +5,7 @@ date: '2022-01-24'
 tag:
 - Productivity
 title: How To Add A Pomodoro Timer In Obsidian Without A Plugin
+width: wide
 ---
 
 This article outlines how to set up a Pomodoro timer in Obsidian without installing any extra plugins. 

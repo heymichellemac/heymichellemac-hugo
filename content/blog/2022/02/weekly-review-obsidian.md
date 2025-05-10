@@ -5,6 +5,7 @@ date: '2022-02-21'
 tag:
 - Knowledge-Management
 title: How I Do My Weekly Review In Obsidian
+width: wide
 ---
 
 If I didn't have a weekly review process I simply wouldn't make consistent progress towards my goals.

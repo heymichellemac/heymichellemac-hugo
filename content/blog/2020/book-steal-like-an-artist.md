@@ -5,6 +5,7 @@ date: '2020-12-04'
 tag:
 - Book-Notes
 title: Steal Like An Artist by Austin Kleon – Book Notes, Summary, Review
+width: wide
 ---
 
 From reading Steal Like An Artist, I learned how to become more confident in sharing the work that I create. By learning that nothing is truly original, simply a mashup of other ideas, I learned how to harness my creativity to generate ideas that are unique to me.

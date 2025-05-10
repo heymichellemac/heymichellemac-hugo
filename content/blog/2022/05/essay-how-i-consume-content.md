@@ -5,6 +5,7 @@ date: '2022-05-16'
 tag:
 - Knowledge-Management
 title: How I Consume Content To Build A Massively Helpful Vault Of Knowledge
+width: wide
 ---
 
 Over the last year, I've developed a system for how I consume different types of content. 

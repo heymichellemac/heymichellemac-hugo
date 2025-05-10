@@ -5,6 +5,7 @@ date: '2021-08-30'
 tag:
 - Design
 title: UI Design Patterns - Character Limits
+width: wide
 ---
 
 Character limits are used on text fields to indicate the maximum amount of characters that can be entered into that field.

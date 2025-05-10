@@ -6,6 +6,7 @@ tag:
 - Coding
 - Design
 title: Don’t Underestimate The Benefits Of A Day Job
+width: wide
 ---
 
 In today's day and age, many people can become their own boss by being a "content creator" or "knowledge worker". The internet is full of ambitious and creative people that make their living solely online. 

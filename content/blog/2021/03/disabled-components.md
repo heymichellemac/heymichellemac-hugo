@@ -5,6 +5,7 @@ date: '2021-03-03'
 tag:
 - Design
 title: UI Design Patterns - How To Handle Disabled Components
+width: wide
 ---
 
 I recently had to do some research to figure out how to properly handle disabled fields and buttons (I'm collectively calling them components). This design pattern is quite often used across my designs so I wanted to be sure I was implementing it correctly.

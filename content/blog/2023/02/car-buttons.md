@@ -5,6 +5,7 @@ date: '2023-02-08'
 tag:
 - Design
 title: Button or no button?
+width: wide
 ---
 
 *This article was re-posted from my weekly newsletter. Want to read it a week early? Subscribe to [Design Insight](https://designinsight.substack.com/).*

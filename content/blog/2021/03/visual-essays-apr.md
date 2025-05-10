@@ -5,6 +5,7 @@ date: '2021-03-29'
 tag:
 - Creation
 title: Visual Essays - March + April
+width: wide
 ---
 
 Here you'll find a collection of my visual essays for March + April.

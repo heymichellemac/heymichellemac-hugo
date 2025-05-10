@@ -5,6 +5,7 @@ date: '2021-02-05'
 tag:
 - Book-Notes
 title: Peak by Anders Ericsson - Book Notes, Summary, Review
+width: wide
 ---
 
 Reading Peak was an extremely motivational experience for me. The idea that everyone can improve with deliberate practice no matter how old you are is a really great message.

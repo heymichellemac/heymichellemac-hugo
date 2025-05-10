@@ -5,6 +5,7 @@ date: '2021-05-01'
 tag:
 - Creation
 title: Visual Essays - May
+width: wide
 ---
 
 Here you'll find a collection of my visual essays for May.

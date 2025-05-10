@@ -5,6 +5,7 @@ date: 2020-04-01
 tag:
 - Coding
 title: How To Make A Digital Photo Frame With A Raspberry Pi
+width: wide
 ---
 
 The idea of a digital photo frame really appealed to me as I tend to take lots of photos but am reluctant to print them all.

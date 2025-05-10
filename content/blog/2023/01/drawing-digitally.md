@@ -5,6 +5,7 @@ date: '2023-01-04'
 tag:
 - Creation
 title: How to get started learning to draw with an iPad and Apple Pencil
+width: wide
 ---
 
 Drawing is something I've always loved doing since I was a kid. 

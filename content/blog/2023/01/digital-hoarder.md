@@ -5,6 +5,7 @@ date: '2023-01-11'
 tag:
 - Knowledge-Management
 title: Help! I'm a digital hoarder
+width: wide
 ---
 
 I've been obsessively watching the TV show Hoarders over the last few weeks and it's been pretty eye-opening to see the commonalities between the different episodes.

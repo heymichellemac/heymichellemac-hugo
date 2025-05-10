@@ -5,6 +5,7 @@ date: '2021-05-17'
 tag:
 - Creation
 title: The Creator's Philosophy - Create Once Use Many Times
+width: wide
 ---
 
 In the world of content creation, we're always creating new things. New blog posts, new videos, podcasts, and social media posts. 

@@ -5,6 +5,7 @@ date: '2022-02-07'
 tag:
 - Design
 title: These 7 Newsletters Are A Must Read For All Designers
+width: wide
 ---
 
 As a designer, I am always taking in different sources of inspiration to fuel my creative work. Newsletters in particular are a great source of knowledge and ideas. They contain curated articles, design tips, mental models, and links to design resources I would never have found otherwise.

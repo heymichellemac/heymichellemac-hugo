@@ -4,6 +4,7 @@ categories:
 date: '2020-12-21'
 tag: Knowledge-Management
 title: How To Build A Flow Diagram In Obsidian Using Mermaid
+width: wide
 ---
 
 As an avid Obsidian user, I am always curious to learn how I can get the most out of this application. 

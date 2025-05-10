@@ -6,6 +6,7 @@ tag:
 - Creation
 - Design
 title: Why You Should Schedule Time For Creativity
+width: wide
 ---
 
 The whole idea of creativity and being creative is underestimated in today's world.

@@ -5,6 +5,7 @@ date: '2021-07-26'
 tag:
 - Coding
 title: Jekyll - Add Related Posts At The End Of A Post
+width: wide
 ---
 
 At the end of a blog post, it's a good idea to recommend similar posts to your readers. This helps them to find more great content on your website easily.

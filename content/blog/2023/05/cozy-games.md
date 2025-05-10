@@ -5,9 +5,8 @@ date: '2023-05-17'
 tag:
 - Gaming
 title: Doing nothing but playing cozy games
+width: wide
 ---
-
-_A version of this post first appeared in my newsletter. [Subscribe](https://designinsight.substack.com/){:target="\_blank"}{:rel="noopener noreferrer"} to receive posts like this in your inbox every Friday._
 
 Cozy games offer a retreat from the stresses of everyday life.
 
@@ -34,7 +33,7 @@ The gameplay is repetitive but enjoyable and everything is low-stakes. You gener
 
 The aesthetics of cozy games are also typically the same with soft colors and chill music.
 
-Cozy games are on the opposite end of the scale when compared to high-octane games like Call of Duty or Dark Souls. In fact, the epitome of this contrast came during the Pandemic when [Animal Crossing: New Horizons and Doom Eternal were released on the exact same date](https://www.polygon.com/2020/2/24/21150803/animal-crossing-isabelle-doomguy-doom-eternal-new-horizons){:target="\_blank"}{:rel="noopener noreferrer"}. It created a truly happy moment on the internet when people really needed it.
+Cozy games are on the opposite end of the scale when compared to high-octane games like Call of Duty or Dark Souls. In fact, the epitome of this contrast came during the Pandemic when [Animal Crossing: New Horizons and Doom Eternal were released on the exact same date](https://www.polygon.com/2020/2/24/21150803/animal-crossing-isabelle-doomguy-doom-eternal-new-horizons). It created a truly happy moment on the internet when people really needed it.
 
 ## **Common mechanics in cozy games**
 

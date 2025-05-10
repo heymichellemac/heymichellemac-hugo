@@ -4,6 +4,7 @@ categories:
 date: '2021-01-11'
 tag: Productivity
 title: Restarting The Weekly Review Process
+width: wide
 ---
 
 The start of a new year brings with it the chance to review and refine our routines. 
@@ -116,4 +117,4 @@ After spending some time reviewing and optimizing my weekly review process recen
 
 ## Conclusion
 
-I hope you enjoyed reading this article and making it all the way to the end. 
+I hope you enjoyed reading this article and making it all the way to the end.

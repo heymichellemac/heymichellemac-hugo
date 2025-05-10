@@ -6,6 +6,7 @@ tag:
 - Creation
 title: Here's What Over 100 Creatives on Twitter Taught Me About Overcoming Creative
   Block
+width: wide
 ---
 
 Creative block is something I struggle with quite often as a creative.

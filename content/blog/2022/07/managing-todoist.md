@@ -5,6 +5,7 @@ date: '2022-07-25'
 tag:
 - Knowledge Management
 title: How I Use Todoist As A Creative To Manage My Work And Get More Done
+width: wide
 ---
 
 Imagine having a system that allows you to find and focus on your most important tasks easily. 

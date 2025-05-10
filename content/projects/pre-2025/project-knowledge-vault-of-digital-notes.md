@@ -1,11 +1,12 @@
 ---
-type: "blog"
 categories:
-  - project
+- project
 date: '2021-02-01'
 title: Knowledge Vault Of Digital Notes
 tools:
 - Notion
+type: blog
+width: wide
 ---
 
 Jumpstart your Knowledge Management System with my hand-crafted vault of literature notes.

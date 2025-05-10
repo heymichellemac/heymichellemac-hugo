@@ -1,11 +1,12 @@
 ---
-type: "blog"
 categories:
-  - project
+- project
 date: '2021-05-26'
 title: Blank Screen - eBook
 tools:
 - Figma
+type: blog
+width: wide
 ---
 
 Learn how to overcome the dreaded blank page with this free eBook.

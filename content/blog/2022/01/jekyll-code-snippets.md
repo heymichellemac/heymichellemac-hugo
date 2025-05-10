@@ -5,6 +5,7 @@ date: '2022-01-31'
 tag:
 - Coding
 title: How To Include Jekyll Liquid Tags in Code Snippets
+width: wide
 ---
 
 When I write about Jekyll on my website I often include code snippets to provide more context for how something works. You can easily copy these code snippets and paste them into your own Jekyll website to make them work for you. This is the advantage of being able to include code snippets in a how to article.

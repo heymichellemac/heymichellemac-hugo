@@ -5,6 +5,7 @@ date: '2021-10-25'
 tag:
 - Coding
 title: How To Add Related Posts In Jekyll To Increase Engagement
+width: wide
 ---
 
 Including links to related posts at the end of each post is a great way to keep users engaged with your content. 
@@ -21,7 +22,7 @@ This is a great way to encourage users to stay on your site and engage with your
 
 Here's a screenshot of what this looks like on my website:
 
-![Related Posts](/assets/images/2021/related-posts-screenshot.png){:style="border:2px solid #DB2777;"}
+![Related Posts](/assets/images/2021/related-posts-screenshot.png)
 This is what we'll be implementing using the code below.
 
 ## Related Posts Setup - Jekyll Environment

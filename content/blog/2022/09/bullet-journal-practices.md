@@ -5,6 +5,7 @@ date: '2022-09-21'
 tag:
 - Productivity
 title: 5 Practices I Follow Consistently After Reading The Bullet Journal Method
+width: wide
 ---
 
 Every time I read **[The Bullet Journal Method by Ryder Carroll](/bullet-journal-method-ryder-carroll)**, I come away with a new nugget of insight that changes my mindset around my creative practice.

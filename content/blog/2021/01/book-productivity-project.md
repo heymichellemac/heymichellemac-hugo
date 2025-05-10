@@ -5,6 +5,7 @@ date: '2021-01-15'
 tag:
 - Book-Notes
 title: The Productivity Project by Chris Bailey – Book Notes, Summary, Review
+width: wide
 ---
 
 Reading The Productivity Project showed me that being busy isn’t the same thing as being productive. When we are productive we are accomplishing the right things that we intentionally set out to work on.

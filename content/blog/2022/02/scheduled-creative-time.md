@@ -5,6 +5,7 @@ date: '2022-02-28'
 tag:
 - Creation
 title: I Scheduled My Creative Time For The Last 4 Weeks, Here's What I Learned
+width: wide
 ---
 
 Scheduled creative time is something I read about but never thought to try until recently.

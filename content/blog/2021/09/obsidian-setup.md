@@ -5,6 +5,7 @@ date: '2021-09-20'
 tag:
 - Knowledge-Management
 title: A Walkthrough Of My Obsidian Setup
+width: wide
 ---
 
 I last wrote about my Obsidian Setup [way back in March](/obsidian-setup-2021). I was still finding my feet with Obsidian and trying lots of different things to see what worked well for me.

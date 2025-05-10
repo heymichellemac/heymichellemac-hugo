@@ -5,6 +5,7 @@ date: '2020-06-04'
 tag:
 - Design
 title: A Starter Guide - Color Theory For Web Designers
+width: wide
 ---
 
 Color theory is a fundamental concept used in a wide variety of disciplines, from artists to architects to web designers.

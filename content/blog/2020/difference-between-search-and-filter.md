@@ -4,6 +4,7 @@ categories:
 date: '2020-12-11'
 tag: Design
 title: UI Design Patterns - What’s The Difference Between Search and Filter?
+width: wide
 ---
 
 As a UI designer at the company where I work, I am often tasked with creating new designs for complex systems that manage a lot of data. 

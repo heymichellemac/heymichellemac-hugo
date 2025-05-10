@@ -5,6 +5,7 @@ date: '2021-02-22'
 tag:
 - Productivity
 title: Can A Rubik's Cube Help With Your Focus?
+width: wide
 ---
 
 I recently wrote about the act of [continuous learning](/effective-way-to-learn-every-day/) and made a case for learning from and being inspired by others.
@@ -77,4 +78,4 @@ If that doesn't sound particularly appealing to you, then I still encourage you 
 
 Once you can achieve mastery over that thing you'll be hooked and will continue to learn and improve.
 
-I hope you enjoyed reading this article and found it interesting to read. 
+I hope you enjoyed reading this article and found it interesting to read.

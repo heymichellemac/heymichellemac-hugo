@@ -5,6 +5,7 @@ date: '2022-08-15'
 tag:
 - Design
 title: These 4 Common UI Gotchas Are So Easy To Fix But Cost You Users Right Now!
+width: wide
 ---
 
 Let's face it, websites can be challenging to design and build at the best of times.

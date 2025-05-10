@@ -6,9 +6,8 @@ tag:
 - Creation
 - Knowledge-Management
 title: How to stay creative - pop your algorithm bubble
+width: wide
 ---
-
-*A version of this post first appeared in my newsletter. [Subscribe](https://designinsight.substack.com/) to receive posts like this in your inbox every Friday.*
 
 My digital algorithm is severely limiting the knowledge I have access to.
 

@@ -4,6 +4,7 @@ categories:
 date: '2021-01-25'
 tag: Creation
 title: Building A Consistent Writing Habit
+width: wide
 ---
 
 I've been writing quite a bit about goals, reviews, and routines lately as a result of the new year and that's going to continue in today's article.

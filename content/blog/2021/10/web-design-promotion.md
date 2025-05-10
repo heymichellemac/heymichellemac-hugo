@@ -5,6 +5,7 @@ date: '2021-10-11'
 tag:
 - Design
 title: 4 Tactics You Should Be Using To Promote Yourself As A Web Designer
+width: wide
 ---
 
 Do you want to become a full-time web designer but aren't sure where to start?

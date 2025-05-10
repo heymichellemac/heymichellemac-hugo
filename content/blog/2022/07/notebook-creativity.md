@@ -5,6 +5,7 @@ date: '2022-07-11'
 tag:
 - Creation
 title: Here's Why the Notebook Is the Ultimate Tool for Creativity
+width: wide
 ---
 
 In an age where everything happens digitally from interacting with friends, to being able to work from home, I find myself regularly coming back to pen and paper.

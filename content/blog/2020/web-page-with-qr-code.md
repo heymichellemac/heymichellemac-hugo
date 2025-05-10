@@ -5,6 +5,7 @@ date: '2020-04-02'
 tag:
 - Coding
 title: Creating A Recipe Web Page with QR Code
+width: wide
 ---
 
 Each year, the company where I work organizes a bake-off / coffee morning in aid of Temple Street Children's Hospital.

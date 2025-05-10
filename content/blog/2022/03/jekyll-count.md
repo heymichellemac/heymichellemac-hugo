@@ -5,6 +5,7 @@ date: '2022-03-28'
 tag:
 - Coding
 title: Jekyll - How To Display A Count Of Posts Per Tag Or Category
+width: wide
 ---
 
 My Changelog website (as of 20240126 this site has been decomissioned) is where I keep track of all my creative work online. It contains links to every article, newsletter edition, digital product, and project I create. 

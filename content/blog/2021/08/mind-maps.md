@@ -5,6 +5,7 @@ date: '2021-08-02'
 tag:
 - Creation
 title: Mind Maps - The Ultimate Getting Started Tool
+width: wide
 ---
 
 Mind maps are a powerful tool for getting started with project planning, learning something new, or even making decisions. 

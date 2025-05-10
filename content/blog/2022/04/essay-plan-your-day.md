@@ -5,6 +5,7 @@ date: '2022-04-08'
 tag:
 - Productivity
 title: Why You Should Plan Your Day Ahead Of Time
+width: wide
 ---
 
 Planning your day ahead of time is the most beneficial routine you can add to your life. Whether it's the day before or first thing in the morning, knowing what's ahead of you will help you to work more effectively.

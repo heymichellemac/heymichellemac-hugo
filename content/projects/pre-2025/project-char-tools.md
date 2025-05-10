@@ -1,11 +1,12 @@
 ---
-type: "blog"
 categories:
-  - project
+- project
 date: '2022-03-11'
 title: CharTools - Character counter
 tools:
 - coding
+type: blog
+width: wide
 ---
 
 I created this website as a result of a pain point I had at work with needing to count the characters present in a form field. 

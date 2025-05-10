@@ -5,6 +5,7 @@ date: '2021-03-15'
 tag:
 - Knowledge-Management
 title: My Obsidian Setup - Mar 2021
+width: wide
 ---
 
 I have been using [Obsidian](https://obsidian.md/) as my personal knowledge management (PKM) system for the last number of months.

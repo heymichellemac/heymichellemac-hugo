@@ -5,6 +5,7 @@ date: '2020-12-18'
 tag:
 - Book-Notes
 title: The Bullet Journal Method by Ryder Carroll – Book Notes
+width: wide
 ---
 
 Each time I re-read The Bullet Journal Method, I come away with something new that resonates with me.

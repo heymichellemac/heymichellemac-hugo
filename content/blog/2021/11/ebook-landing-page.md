@@ -6,6 +6,7 @@ tag:
 - Creation
 - Coding
 title: The 7 Step Process I Used To Build A Landing Page To Promote My Book
+width: wide
 ---
 
 A custom landing page is an invaluable asset to have as a creator online. 

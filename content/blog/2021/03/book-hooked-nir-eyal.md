@@ -5,6 +5,7 @@ date: '2021-03-19'
 tag:
 - Book-Notes
 title: Hooked by Nir Eyal - Book Notes, Summary, Review
+width: wide
 ---
 
 Hooked by Nir Eyal outlines The Hook Model, a methodology for building habit forming products that improve a user's life in some way.

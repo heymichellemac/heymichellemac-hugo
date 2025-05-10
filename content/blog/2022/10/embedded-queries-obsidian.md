@@ -5,6 +5,7 @@ date: '2022-10-31'
 tag:
 - Knowledge-Management
 title: How I Use Embedded Queries In Obsidian To Simplify My Note Management
+width: wide
 ---
 
 Today I'm going to share with you how I use embedded queries inside of Obsidian. 

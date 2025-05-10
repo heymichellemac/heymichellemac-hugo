@@ -5,9 +5,8 @@ date: '2023-05-15'
 tag:
 - Creation
 title: Song exploder but for x
+width: wide
 ---
-
-_A version of this post first appeared in my newsletter. [Subscribe](https://designinsight.substack.com/){:target="\_blank"}{:rel="noopener noreferrer"} to receive posts like this in your inbox every Friday._
 
 The Song Exploder format is a great way to deconstruct a creative piece of work like a song. I wonder what other things could you deconstruct in this way?
 

@@ -5,6 +5,7 @@ date: '2021-03-29'
 tag:
 - Coding
 title: Keep A Web Dev Notebook To Learn More Effectively
+width: wide
 ---
 
 If you have read my recent post: [You Learn More Effectively By Practicing](/learn-more-effectively-by-practicing/), you'll know that I've consciously made an effort to continue building my web development knowledge.

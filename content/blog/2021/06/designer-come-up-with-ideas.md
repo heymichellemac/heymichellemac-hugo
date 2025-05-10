@@ -5,6 +5,7 @@ date: '2021-06-28'
 tag:
 - Design
 title: 5 Ways For A UI Designer To Come Up With Ideas
+width: wide
 ---
 
 As a UI Designer, you are essentially paid for your ideas. They are your greatest source of value.

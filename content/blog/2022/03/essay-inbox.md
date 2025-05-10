@@ -5,6 +5,7 @@ date: '2022-03-24'
 tag:
 - Knowledge-Management
 title: Use An Inbox For Quick Capture To Avoid Distraction
+width: wide
 ---
 
 Holding lots of things in your head takes up valuable space.

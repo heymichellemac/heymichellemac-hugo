@@ -5,6 +5,7 @@ date: '2022-03-07'
 tag:
 - Creation
 title: These 7 Books Will Change How You Think About Being A Creative
+width: wide
 ---
 
 I read some great books in 2021 that changed completely how I think about my creative practice, how I create, and how I get things done.

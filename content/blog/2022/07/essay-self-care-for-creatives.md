@@ -5,6 +5,7 @@ date: '2022-07-04'
 tag:
 - Productivity
 title: Managing Burnout Is A Life-Long Journey, That's Why I'm Prioritizing Self-Care
+width: wide
 ---
 
 I've had a terrible few weeks with no creative output. 

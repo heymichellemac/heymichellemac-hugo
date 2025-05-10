@@ -5,6 +5,7 @@ date: '2021-04-28'
 tag:
 - Coding
 title: Jekyll - Add Estimated Reading Time To Posts
+width: wide
 ---
 
 Adding the estimated reading time of your article provides valuable context for readers. They can decide if they want to read your article now or bookmark it and save it for later.

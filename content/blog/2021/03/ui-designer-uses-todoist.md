@@ -6,6 +6,7 @@ tag:
 - Productivity
 - Design
 title: How A UI Designer Uses Todoist
+width: wide
 ---
 
 I recently revised the way I use Todoist to manage my work-related tasks as a UI Designer at the company where I work.

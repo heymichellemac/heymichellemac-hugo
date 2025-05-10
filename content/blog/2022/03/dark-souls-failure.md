@@ -6,6 +6,7 @@ tag:
 - Creation
 - Gaming
 title: How Dark Souls Helps You To Think About Failure
+width: wide
 ---
 
 Dark Souls games are punishing for their level of difficulty. 

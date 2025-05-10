@@ -5,6 +5,7 @@ date: '2023-01-30'
 tag:
 - Design
 title: Do you need an emotional support water bottle?
+width: wide
 ---
 
 *This article was re-posted from my weekly newsletter. Want to read it a week early? Subscribe to [Design Insight](https://designinsight.substack.com/).*

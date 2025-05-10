@@ -5,6 +5,7 @@ date: '2023-02-15'
 tag:
 - Creation
 title: When eliminating distractions is a bad thing
+width: wide
 ---
 
 *This article was re-posted from my weekly newsletter. Want to read it a week early? Subscribe to [Design Insight](https://designinsight.substack.com/).*

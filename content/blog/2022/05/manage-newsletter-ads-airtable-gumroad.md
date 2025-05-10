@@ -5,6 +5,7 @@ date: '2022-05-02'
 tag:
 - Creation
 title: How I Manage Ads For My Newsletter With Airtable And Gumroad
+width: wide
 ---
 
 My newsletter [Design Insight](https://designinsight.substack.com/) now features a Classifieds section. For a fee, people can buy an ad spot in my newsletter to promote their product or service.

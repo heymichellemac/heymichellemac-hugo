@@ -5,6 +5,7 @@ date: '2022-07-18'
 tag:
 - Design
 title: RTFM! Users Won't Read Your Documentation, Here's A Better Approach
+width: wide
 ---
 
 It's easy to be optimistic when writing detailed documentation for your product. You want to make sure there's a wealth of knowledge in your user manual anyone can search for and find.

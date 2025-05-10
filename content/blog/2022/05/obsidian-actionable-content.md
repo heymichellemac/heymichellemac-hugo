@@ -5,6 +5,7 @@ date: '2022-05-09'
 tag:
 - Knowledge Management
 title: How I Use Obsidian To Take Action On The Content I Consume
+width: wide
 ---
 
 I consume a lot of articles, podcasts, and videos each week but I would never take action on this content.

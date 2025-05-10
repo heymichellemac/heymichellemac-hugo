@@ -4,6 +4,7 @@ categories:
 date: '2020-11-27'
 tag: Knowledge-Management
 title: Notion Library Tour - How I Capture Knowledge On What I Watch & Read
+width: wide
 ---
 
 In this article, I would like to walk you through my Notion Library setup. 
@@ -170,4 +171,4 @@ Just start taking notes now on single pages and over time start building up the 
 
 ## Conclusion
 
-I really hope you found some value in reading this article. 
+I really hope you found some value in reading this article.

@@ -5,6 +5,7 @@ date: '2022-03-16'
 tag:
 - Productivity
 title: Why You Need A Daily Shutdown Routine
+width: wide
 ---
 
 Here's why a daily shutdown routine is something you should add to your workdays:

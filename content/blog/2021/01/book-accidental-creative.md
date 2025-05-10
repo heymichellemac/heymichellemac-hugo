@@ -5,6 +5,7 @@ date: '2021-01-29'
 tag:
 - Book-Notes
 title: The Accidental Creative by Todd Henry - Book Notes, Summary, Review
+width: wide
 ---
 
 Reading The Accidental Creative by Todd Henry really opened my eyes to the fun and creativity that can be found in the world of designers and creators. As a UI designer, I now have a renewed motivation to continue to improve my craft and to create new things.

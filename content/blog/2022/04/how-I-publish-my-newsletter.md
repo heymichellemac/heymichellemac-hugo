@@ -5,6 +5,7 @@ date: '2022-04-25'
 tag:
 - Creation
 title: This Is How I Publish My Newsletter Every Week Without Fail
+width: wide
 ---
 
 At the time of writing this, I have published an edition of [Design Insight](https://designinsight.substack.com/) every week for the last 49 weeks. Once I'm finished writing this article I'll be scheduling edition 50!

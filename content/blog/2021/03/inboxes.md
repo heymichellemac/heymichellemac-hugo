@@ -5,6 +5,7 @@ date: '2021-03-01'
 tag:
 - Knowledge-Management
 title: Using Inboxes To Manage Your Thoughts And Ideas
+width: wide
 ---
 
 Our brains are always thinking and processing. If each thought was a word, we would be able to generate enough content to produce a whole book every single day.

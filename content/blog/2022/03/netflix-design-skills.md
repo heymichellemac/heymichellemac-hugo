@@ -5,6 +5,7 @@ date: '2022-03-21'
 tag:
 - Design
 title: Use Netflix To Easily Improve Your Design Skills
+width: wide
 ---
 
 Copying good designs is a great way to build your design skills if you're getting started in design.

@@ -5,6 +5,7 @@ date: '2021-05-31'
 tag:
 - Productivity
 title: Life Contexts - Cues To Differentiate Between Work And Home
+width: wide
 ---
 
 As one of the many people now working from home, I found the process difficult at first.

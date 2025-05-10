@@ -5,9 +5,8 @@ date: '2023-06-16'
 tag:
 - Creation
 title: What the heck are those smiley face sponges I keep seeing on TikTok?
+width: wide
 ---
-
-_A version of this post first appeared in my newsletter. [Subscribe](https://designinsight.substack.com/){:target="\_blank"}{:rel="noopener noreferrer"} to receive posts like this in your inbox every Friday._
 
 If you've been on TikTok or YouTube for any length of time and stumbled into the world of cleaning videos, you will have seen these sponges in pretty much every video.
 
@@ -15,7 +14,7 @@ They are in the shape of a smiley face and come in several colors and styles. Yo
 
 This smiley sponge is called the "Scrub Daddy".
 
-![The Original Scrub Daddy with its iconic smiley face and yellow color](https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fba5670d4-bb98-40e4-add8-220cef43bba7_474x474.jpeg){:style="margin: 8px auto"}
+![The Original Scrub Daddy with its iconic smiley face and yellow color](https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fba5670d4-bb98-40e4-add8-220cef43bba7_474x474.jpeg)
 _The Original Scrub Daddy with its iconic smiley face and yellow color_
 
 ## Buying a Scrub Daddy Of My Own
@@ -68,7 +67,7 @@ I previously bought its closest competitor the Scrub Mate by Elbow Grease. It fe
 
 The sponge functions the same way but it's lacking in that spark of joy that makes it something more than just a boring sponge. Yes, I realize I'm talking about a sponge here but there's always something delightful about well-designed products that I really appreciate.
 
-![Scrub Daddy competitor - The Scrub Mate from Elbow Grease](https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F051dc320-4087-425d-bd2c-66f2c29735c0_1150x1150.jpeg){:style="margin: 8px auto"}
+![Scrub Daddy competitor - The Scrub Mate from Elbow Grease](https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F051dc320-4087-425d-bd2c-66f2c29735c0_1150x1150.jpeg)
 _Scrub Daddy competitor - The Scrub Mate from Elbow Grease_
 
 As I re-read this I realize this is more like a promotional piece for the Scrub Daddy than anything else. However, I still think it was worthwhile doing a deep dive on the subject.

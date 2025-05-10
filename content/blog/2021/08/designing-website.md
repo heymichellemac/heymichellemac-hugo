@@ -5,6 +5,7 @@ date: '2021-08-09'
 tag:
 - Design
 title: Design A Website From Scratch In 7 Steps
+width: wide
 ---
 
 Designing an entire website can seem like a big challenge. You need to think about all the pages, the content on each page, how it'll be designed, what colors to use; the list is pretty long.

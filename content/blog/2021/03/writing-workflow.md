@@ -5,6 +5,7 @@ date: '2021-03-08'
 tag:
 - Creation
 title: My Writing Workflow For Content Creation
+width: wide
 ---
 
 I recently revised my content creation workflow to tie in better with my goal to [develop a consistent writing habit](/building-a-consistent-writing-habit/). With that in mind, I thought this would be the perfect opportunity to share with you my simplified writing workflow for content creation. 

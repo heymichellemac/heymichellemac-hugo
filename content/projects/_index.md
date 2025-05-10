@@ -1,4 +1,5 @@
 ---
-title: "Projects"
-type: "blog"
+title: Projects
+type: blog
+width: wide
 ---

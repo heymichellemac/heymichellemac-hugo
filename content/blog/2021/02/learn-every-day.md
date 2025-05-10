@@ -4,6 +4,7 @@ categories:
 date: '2021-02-15'
 tag: Knowledge-Management
 title: A Simple But Effective Way To Learn Every Day
+width: wide
 ---
 
 Just because you've left school doesn't mean that you should stop learning. In fact, I would argue that you should never stop learning new things.
@@ -114,4 +115,3 @@ Here are my key takeaways from this article:
 - Try to learn something new every day. Write down something new you have learned in your "Today I Learned Collection".
 - For learning anything new and complex, use the Feynman Technique to break it down into it's simplest form and explain it in your own words.
 - Seek out others that are continually learning new things.
-

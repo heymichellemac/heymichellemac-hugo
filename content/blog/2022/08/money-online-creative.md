@@ -5,6 +5,7 @@ date: '2022-08-22'
 tag:
 - Creation
 title: A 10 Step Framework For Making Money Online As A Creative In 2022
+width: wide
 ---
 
 I've been creating online for over 2 years and my biggest regret is not starting sooner.

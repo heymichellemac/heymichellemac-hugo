@@ -6,6 +6,7 @@ tag:
 - Creation
 - Design
 title: Creative Constraints Are Good For You
+width: wide
 ---
 
 We all need constraints to operate effectively. In the world of creators, creative constraints allow us to focus our energy and concentration in the right place.

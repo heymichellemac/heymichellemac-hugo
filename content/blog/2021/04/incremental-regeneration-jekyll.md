@@ -5,6 +5,7 @@ date: '2021-04-21'
 tag:
 - Coding
 title: Jekyll - How To Enable Incremental Regeneration To Speed Up Build Times
+width: wide
 ---
 
 A great tip for speeding up the build time of your Jekyll blog is to make use of the incremental regeneration feature.

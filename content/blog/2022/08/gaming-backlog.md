@@ -8,6 +8,7 @@ title: Gaming Backlog Tracker
 tools:
 - coding
 - sheets
+width: wide
 ---
 
 This project is a list of the games in my PlayStation backlog.

@@ -5,6 +5,7 @@ date: '2021-06-21'
 tag:
 - Productivity
 title: Be Consistent - That Is Your One Thing
+width: wide
 ---
 
 It's easy to be bombarded by things you should work on or should do. Things from work, things in your life, things you read on social media.

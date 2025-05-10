@@ -4,6 +4,7 @@ categories:
 date: '2021-01-04'
 tag: Productivity
 title: Don’t Get Overwhelmed By Your Goals – Keep It Simple
+width: wide
 ---
 
 As it's the start of a brand new year, we're all in the throws of reflecting over the last year and setting our new goals for the year ahead.
@@ -181,4 +182,3 @@ Let me summarize my advice for creating goals before we finish:
 3. Set 1 or 2 goals at a time
 4. Don't overcomplicate your system
 5. Follow the SMART Goals technique
-

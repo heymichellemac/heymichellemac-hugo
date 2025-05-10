@@ -5,6 +5,7 @@ date: '2020-11-20'
 tag:
 - Book-Notes
 title: How To Take Smart Notes by Sönke Ahrens – Book Notes, Summary, Review
+width: wide
 ---
 
 How To Take Smart Notes completely changed the way I look at reading books and taking notes based on what I watch, read, and listen to. This is a must-read for anyone that really enjoys reading but wants to get even more value and insight from the books they read.

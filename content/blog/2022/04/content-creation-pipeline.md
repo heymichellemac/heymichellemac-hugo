@@ -5,6 +5,7 @@ date: '2022-04-04'
 tag:
 - Creation
 title: How I Create And Repurpose Content To Have The Most Impact Online
+width: wide
 ---
 
 There are lots of ways to create and distribute content online these days.

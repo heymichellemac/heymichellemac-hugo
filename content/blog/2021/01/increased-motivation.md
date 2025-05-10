@@ -4,6 +4,7 @@ categories:
 date: '2021-01-18'
 tag: Productivity
 title: Determine The Why Behind Your Work For Increased Motivation
+width: wide
 ---
 
 At the start of a fresh new year, or when you're planning out the week ahead during your weekly review, it can be tempting to pile on more and more things to your to-do list. 

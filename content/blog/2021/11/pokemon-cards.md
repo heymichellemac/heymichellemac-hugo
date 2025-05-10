@@ -5,6 +5,7 @@ date: '2021-11-09'
 tag:
 - Design
 title: 6 Things Pokémon Cards Will Teach You About Design
+width: wide
 ---
 
 Pokémon cards are so hot right now!

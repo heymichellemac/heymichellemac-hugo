@@ -5,6 +5,7 @@ date: '2021-11-22'
 tag:
 - Coding
 title: How To Add A Table Of Contents To Jekyll Blog Posts
+width: wide
 ---
 
 A table of contents is a helpful component to include in longer blog posts that have lots of detail. It gives readers an easy way to navigate through your blog post to find exactly what they're looking for.
@@ -26,7 +27,7 @@ They essentially pull all the headings used throughout the blog post and put the
 
 Here's an example of the table of contents for my previous blog post: [The 7 Step Process I Used To Build A Landing Page To Promote My Book](/book-landing-page)
 
-![Table Of Contents Component](/assets/images/2021/table-of-contents.png){:style="border:2px solid #DB2777;"}
+![Table Of Contents Component](/assets/images/2021/table-of-contents.png)
 
 ---
 

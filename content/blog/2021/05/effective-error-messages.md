@@ -5,6 +5,7 @@ date: '2021-05-03'
 tag:
 - Design
 title: UI Design Patterns - How To Write Effective Error Messages
+width: wide
 ---
 
 Any well-designed application should have good error messages. When I say good error messages I'm not talking about a message like *"Critical Error x-299498sdkfjh"*. Let's face it, that helps no one. 

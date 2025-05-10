@@ -5,6 +5,7 @@ date: '2022-04-11'
 tag:
 - Design
 title: This 10 Step Checklist Will Instantly Improve Your Landing Page Design
+width: wide
 ---
 
 ![A bad landing page is like an ugly cake](/assets/images/2022/MXB22014/cakes.jpg)

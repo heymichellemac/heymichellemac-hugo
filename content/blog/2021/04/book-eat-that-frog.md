@@ -5,6 +5,7 @@ date: '2021-04-02'
 tag:
 - Book-Notes
 title: Eat That Frog! by Brian Tracy - Book Notes, Summary, Review
+width: wide
 ---
 
 Eat That Frog is all about doing that one thing, the thing that provides you with the most value in the long-term. If you can Eat That Frog first thing in the morning before anything else, you've set yourself up for success.

@@ -5,6 +5,7 @@ date: '2021-10-04'
 tag:
 - Design
 title: How To Never Run Out Of Ideas As A Designer
+width: wide
 ---
 
 As a designer, your value comes from the things you create. Your "job currency" is creativity.

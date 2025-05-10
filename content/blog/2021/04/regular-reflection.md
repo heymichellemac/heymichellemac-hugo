@@ -5,6 +5,7 @@ date: '2021-04-19'
 tag:
 - Productivity
 title: Why Regular Reflection Can Help You Become More Productive
+width: wide
 ---
 
 It can be easy to fall into the pattern of working from day to day, week to week. Finding the time and motivation to learn how to improve or [become better than you were before](https://youtu.be/snAhsXyO3Ck) can seem like a huge task.

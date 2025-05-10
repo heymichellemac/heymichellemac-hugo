@@ -1,11 +1,12 @@
 ---
-type: "blog"
 categories:
-  - project
+- project
 date: '2023-05-17'
 title: Starter link page templates
 tools:
 - Website Templates
+type: blog
+width: wide
 ---
 
 A selection of three different starter link page templates.
@@ -52,7 +53,7 @@ Then you can deploy using the same method as above or using your own deployment 
 
 ---
 
-I hope you find these templates useful. If you have any feedback for me you can reach me here: [https://pkm.social/@heymichellemac](https://pkm.social/@heymichellemac){:target="\_blank"}{:rel="noopener noreferrer"}
+I hope you find these templates useful. If you have any feedback for me you can reach me here: [https://pkm.social/@heymichellemac](https://pkm.social/@heymichellemac)
 
 ---
 

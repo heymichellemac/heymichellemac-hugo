@@ -5,6 +5,7 @@ date: '2021-02-12'
 tag:
 - Book-Notes
 title: Getting Things Done by David Allen - Book Notes, Summary, Review
+width: wide
 ---
 
 Getting Things Done is widely considered a staple of the productivity world and is the go-to book recommended if you’re looking to become a more productive person. It’s the go-to book that many consider being the start of the “productivity revolution”.

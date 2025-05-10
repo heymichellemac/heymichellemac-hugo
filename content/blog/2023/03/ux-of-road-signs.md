@@ -5,10 +5,9 @@ date: '2023-03-01'
 tag:
 - Design
 title: What's the deal with road signs anyway?
+width: wide
 ---
 
-*A version of this post first appeared in my newsletter. [Subscribe](https://designinsight.substack.com/) to receive posts like this in your inbox every Friday.*
- 
 We rely on road signs to navigate safely in our vehicles. When these signs are missing, obstructed, or poorly designed, it puts our safety at risk.
 
 I was driving home from visiting family the other week and I'm embarrassed to admit it but I almost had an accident. 

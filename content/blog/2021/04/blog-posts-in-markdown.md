@@ -5,6 +5,7 @@ date: '2021-04-05'
 tag:
 - Creation
 title: Why Writing Blog Posts In Markdown Is A Game Changer
+width: wide
 ---
 
 I enjoy writing my articles using Markdown as it offers a lot of benefits. I'm able to write without distraction. Plus my hands never need to leave the keyboard to format what I'm writing. 

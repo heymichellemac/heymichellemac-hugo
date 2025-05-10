@@ -5,6 +5,7 @@ date: '2021-04-16'
 tag:
 - Book-Notes
 title: The 12 Week Year by Brian Moran - Book Notes, Summary, Review
+width: wide
 ---
 
 The 12 Week Year will fundamentally change how you think about goal planning and working towards those goals. 

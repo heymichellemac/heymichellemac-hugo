@@ -5,6 +5,7 @@ date: '2024-03-29'
 tag:
 - Coding
 title: Website updates - a continuous journey
+width: wide
 ---
 
 I've learned a lot over the last 7+ months since starting my new job as a Senior Technical Writer. I'm fortunate enough that part of my role allows me to go down rabbit holes to try and either automate something or make it more efficient.

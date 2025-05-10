@@ -5,6 +5,7 @@ date: '2021-03-24'
 tag:
 - Coding
 title: How To Remove A Post Category From The Blog Page In WordPress
+width: wide
 ---
 
 If you have many different post categories on your WordPress website, you might want to funnel them to different pages. This is especially important to consider if you have included each of your post categories in your navigation menu.

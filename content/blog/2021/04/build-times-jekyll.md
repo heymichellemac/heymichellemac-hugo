@@ -5,6 +5,7 @@ date: '2021-04-14'
 tag:
 - Coding
 title: Jekyll - How To Determine Build Times
+width: wide
 ---
 
 If you're looking to optimize the build time of your Jekyll blog, it's useful to know just how long each part of the build process takes.

@@ -1,11 +1,12 @@
 ---
-type: "blog"
 categories:
-  - project
+- project
 date: '2022-04-25'
 title: Obsidian Code Snippets Repo
 tools:
 - coding
+type: blog
+width: wide
 ---
 
 A GitHub repo of Obsidian code snippets that I use in my Obsidian vault.
