@@ -1,9 +1,3 @@
-:root {
-    --primary-hue: 190deg;  /* Teal Blue */
-    --primary-saturation: 70%;
-    --primary-lightness: 50%;
-    font-size: 18px; /* sets base font size */
-}
 
 /* Center footer content across all screen sizes */
 footer > div a {
