@@ -1,12 +1,14 @@
 ---
 title: Tools I use
+width: wide
 ---
 
 A list of the tools and software I use. 
 
 ## Coding
 - [GitHub](https://github.com/) - For version control of web projects and backup for my content
-- [Jekyll](https://jekyllrb.com/) - For building websites, including this one!
+- [Jekyll](https://jekyllrb.com/) - SSG for building websites
+- [Hugo](https://gohugo.io/) - SSG for building websites
 - [Netlify](https://www.netlify.com/) - For hosting websites
 - [Tailwind CSS](https://tailwindcss.com/) - CSS framework for building websites
 - [Visual Studio Code](https://code.visualstudio.com/) - An IDE for coding and writing
@@ -15,8 +17,6 @@ A list of the tools and software I use.
 ## Creative work
 - [Buy Me A Coffee](https://www.buymeacoffee.com/heymichellemac) - For giving and receiving donations to support work
 - [Lemon Squeezy](https://store.heymichellemac.com/) - Platform for selling digital products
-- [Notion](https://www.notion.so/product) - For project management 
-- [Notion VIP](https://www.notion.vip/icons/) - For consistent Notion icons
 
 ## Design
 - [Canva](https://www.canva.com/) - For creating graphics 
@@ -25,12 +25,11 @@ A list of the tools and software I use.
 ## Media
 - [AntennaPod](https://antennapod.org/) - Open source podcast app for Android
 - [Spotify](https://www.spotify.com/ie/) - Music player
+- [NetNewsWire](https://netnewswire.com/) - RSS reader 
 
 ## Productivity
-- [Brave](https://brave.com/) - Web browser
 - [Espanso](https://espanso.org/) - For text expansion and code snippets
 - [Obsidian](https://obsidian.md/) - Personal knowledge management app
-- [Omnivore](https://omnivore.app/home) - Open source read-it-later app
 - [Pomofocus](https://pomofocus.io/) - Pomodoro timer
 - [Todoist](https://todoist.com/) - Task management app that works across Mac, Windows, and Android
 
