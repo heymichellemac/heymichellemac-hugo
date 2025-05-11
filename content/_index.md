@@ -1,6 +1,6 @@
 ---
 title: 
-width: full
+width: wide
 toc: false
 ---
 
