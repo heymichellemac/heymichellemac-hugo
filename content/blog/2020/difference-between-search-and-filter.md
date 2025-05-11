@@ -2,7 +2,8 @@
 categories:
 - blog
 date: '2020-12-11'
-tag: Design
+tags: 
+- design
 title: UI Design Patterns - What’s The Difference Between Search and Filter?
 width: wide
 ---

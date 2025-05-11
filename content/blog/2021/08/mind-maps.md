@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2021-08-02'
-tag:
-- Creation
+tags:
+- creation
 title: Mind Maps - The Ultimate Getting Started Tool
 width: wide
 ---

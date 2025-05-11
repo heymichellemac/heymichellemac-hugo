@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2021-01-15'
-tag:
-- Book-Notes
+tags:
+- booknotes
 title: The Productivity Project by Chris Bailey – Book Notes, Summary, Review
 width: wide
 ---

@@ -2,9 +2,9 @@
 categories:
 - blog
 date: '2021-02-08'
-tag:
-- Coding
-- Design
+tags:
+- coding
+- design
 title: Don’t Underestimate The Benefits Of A Day Job
 width: wide
 ---

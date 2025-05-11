@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2021-03-26'
-tag:
-- Book-Notes
+tags:
+- booknotes
 title: Cognitive Surplus by Clay Shirky - Book Notes, Summary, Review
 width: wide
 ---

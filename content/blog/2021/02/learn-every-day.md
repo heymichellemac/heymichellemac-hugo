@@ -2,7 +2,8 @@
 categories:
 - blog
 date: '2021-02-15'
-tag: Knowledge-Management
+tags: 
+- pkm
 title: A Simple But Effective Way To Learn Every Day
 width: wide
 ---

@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2021-08-09'
-tag:
-- Design
+tags:
+- design
 title: Design A Website From Scratch In 7 Steps
 width: wide
 ---

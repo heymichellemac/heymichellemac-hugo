@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2021-04-16'
-tag:
-- Book-Notes
+tags:
+- booknotes
 title: The 12 Week Year by Brian Moran - Book Notes, Summary, Review
 width: wide
 ---

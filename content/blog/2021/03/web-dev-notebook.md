@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2021-03-29'
-tag:
-- Coding
+tags:
+- coding
 title: Keep A Web Dev Notebook To Learn More Effectively
 width: wide
 ---

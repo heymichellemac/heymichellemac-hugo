@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2021-11-01'
-tag:
-- Coding
+tags:
+- coding
 title: How To Add A Social Media Share Bar In Jekyll
 width: wide
 ---

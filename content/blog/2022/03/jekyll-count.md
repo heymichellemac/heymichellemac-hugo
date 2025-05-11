@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2022-03-28'
-tag:
-- Coding
+tags:
+- coding
 title: Jekyll - How To Display A Count Of Posts Per Tag Or Category
 width: wide
 ---
@@ -24,11 +24,11 @@ Let's start with a summary of how things are set up on the Changelog site.
 
 I have the following tags:
 
-- Coding
-- Creation
-- Design
+- coding
+- creation
+- design
 - Milestone
-- Productivity
+- productivity
 
 These serve as the main buckets or topics I talk about most often. My niche if you will. 
 

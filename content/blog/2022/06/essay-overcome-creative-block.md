@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2022-06-13'
-tag:
-- Creation
+tags:
+- creation
 title: Here's What Over 100 Creatives on Twitter Taught Me About Overcoming Creative
   Block
 width: wide

@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2022-04-08'
-tag:
-- Productivity
+tags:
+- productivity
 title: Why You Should Plan Your Day Ahead Of Time
 width: wide
 ---

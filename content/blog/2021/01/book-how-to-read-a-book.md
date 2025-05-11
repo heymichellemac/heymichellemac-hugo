@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2021-01-22'
-tag:
-- Book-Notes
+tags:
+- booknotes
 title: How To Read A Book by Mortimer Adler – Book Notes, Summary, Review
 width: wide
 ---

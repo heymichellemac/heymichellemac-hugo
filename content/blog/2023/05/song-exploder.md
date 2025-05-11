@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2023-05-15'
-tag:
-- Creation
+tags:
+- creation
 title: Song exploder but for x
 width: wide
 ---

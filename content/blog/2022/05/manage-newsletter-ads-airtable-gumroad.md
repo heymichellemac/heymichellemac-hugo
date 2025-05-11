@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2022-05-02'
-tag:
-- Creation
+tags:
+- creation
 title: How I Manage Ads For My Newsletter With Airtable And Gumroad
 width: wide
 ---

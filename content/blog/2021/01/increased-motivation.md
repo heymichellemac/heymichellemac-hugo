@@ -2,7 +2,8 @@
 categories:
 - blog
 date: '2021-01-18'
-tag: Productivity
+tags: 
+- productivity
 title: Determine The Why Behind Your Work For Increased Motivation
 width: wide
 ---

@@ -2,9 +2,9 @@
 categories:
 - blog
 date: '2023-04-05'
-tag:
-- Creation
-- Knowledge-Management
+tags:
+- creation
+- pkm
 title: How to stay creative - pop your algorithm bubble
 width: wide
 ---
@@ -33,7 +33,7 @@ When I think about it, this is all like [Confirmation Bias](https://en.wikipedia
 
 Here’s a good video that explains this phenomenon:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/prx9bxzns3g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+{{< youtube prx9bxzns3g >}}
 
 Circé also describes some helpful ways to "pop your algorithm bubble" including trimming your feed, cleaning up your history, and using the "not interested" button.
 
@@ -43,9 +43,17 @@ I let this idea of popping my algorithm bubble sit in my head for the last few m
 
 ### Some advice Circé shares in her piece that resonated with me:
 
-- "*Asking people what they are watching and consuming the content they recommend*". Word of mouth is great when it comes to this sort of thing. I watched Curb Your Enthusiasm on the recommendation of a friend and I never would have watched it otherwise. It's now one of my favorite TV shows.
-- "*Follow and unfollow as your interest change and grow*". It's important to remember your interests change over time so be liberal with follow/unfollow. 
-- "*I like searching for topics by entering keywords I’ve recently learned*". I have a list of research topics I've accumulated over time and every so often I'll spend a few hours going down a Wikipedia/YouTube rabbit hole to see where I end up.
+> _Asking people what they are watching and consuming the content they recommend_. 
+
+Word of mouth is great when it comes to this sort of thing. I watched Curb Your Enthusiasm on the recommendation of a friend and I never would have watched it otherwise. It's now one of my favorite TV shows.
+
+> _Follow and unfollow as your interest change and grow._ 
+
+It's important to remember your interests change over time so be liberal with follow/unfollow. 
+
+> _I like searching for topics by entering keywords I’ve recently learned._ 
+
+I have a list of research topics I've accumulated over time and every so often I'll spend a few hours going down a Wikipedia/YouTube rabbit hole to see where I end up.
 
 ### Consume content attentively:
 
@@ -63,7 +71,7 @@ This list is a great way to look beyond the things you'd normally be exposed to.
 
 ### Look to the past:
 
-"*We have such short memories. You don’t have to go that far back into the past to discover things we’ve already forgotten about. Cracking a book that’s only a quarter of a century old can be like opening a chest of buried treasure. If you want a quick way to escape the noise of contemporary life, break out of your like-minded bubble, and do some good thinking, just visit the past for a bit." - [Austin Kleon](https://austinkleon.com/)
+> _We have such short memories. You don’t have to go that far back into the past to discover things we’ve already forgotten about. Cracking a book that’s only a quarter of a century old can be like opening a chest of buried treasure. If you want a quick way to escape the noise of contemporary life, break out of your like-minded bubble, and do some good thinking, just visit the past for a bit. - [Austin Kleon](https://austinkleon.com/)_
 
 Lots of people get inspiration from people of the past and it certainly would be interesting to dig up content from a world long before the internet.
 

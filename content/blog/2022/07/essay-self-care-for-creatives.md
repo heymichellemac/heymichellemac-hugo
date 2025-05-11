@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2022-07-04'
-tag:
-- Productivity
+tags:
+- productivity
 title: Managing Burnout Is A Life-Long Journey, That's Why I'm Prioritizing Self-Care
 width: wide
 ---

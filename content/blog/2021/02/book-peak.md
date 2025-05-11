@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2021-02-05'
-tag:
-- Book-Notes
+tags:
+- booknotes
 title: Peak by Anders Ericsson - Book Notes, Summary, Review
 width: wide
 ---

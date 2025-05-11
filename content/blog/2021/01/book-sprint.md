@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2021-01-08'
-tag:
-- Book-Notes
+tags:
+- booknotes
 title: Sprint by Jake Knapp – Book Notes, Summary, Review
 width: wide
 ---

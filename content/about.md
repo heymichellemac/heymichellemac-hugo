@@ -1,17 +1,18 @@
 ---
 title: About
 type: about
+width: wide
 ---
 
-Hi, my name is Michelle 👋 I'm a technical writer and front-end developer based in Ireland. I'm currently working as a senior technical writer at Red Hat.
+Hi, I'm Michelle 👋 I'm a technical writer and front-end developer based in Ireland. I'm currently working as a senior technical writer at Red Hat. I specialize in making complex technical concepts clear and useful.
 
-In my own time I write on this website, work on fun web-based projects, contibute to open source, and play video games.
+When I'm not writing documentation, you’ll probably find me playing video games, crocheting something cozy, or tending to my ever-growing collection of plants.
 
-All of my writing can be found under the [Blog](/blog) section. If you want to see all of the projects I've worked on, head over to the [Projects](/projects) section. A list of all the tools I use can be found under [Tools I Use](/tools-i-use).
+You can find all of my articles and notes in the [Blog](/blog), and if you're curious about what I've been building, check out the [Projects](/projects) section. I've also compiled a list of my favorite apps, gear, and workflows under [Tools I Use](/tools-i-use).
 
-If you enjoy my work and find value in the things that I share here or anywhere else on the interwebs, consider supporting me over on [Buy Me A Coffee](https://www.buymeacoffee.com/heymichellemac).
+If you enjoy the things I share, you can [Buy Me A Coffee](https://www.buymeacoffee.com/heymichellemac).
 
-### Other places you can find me:
+Other places you can find me:
 
 - [Github](https://github.com/heymichellemac)
 - [Bluesky](https://bsky.app/profile/heymichellemac.bsky.social)

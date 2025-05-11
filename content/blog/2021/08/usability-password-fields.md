@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2021-08-23'
-tag:
-- Design
+tags:
+- design
 title: How To Improve The Usability Of Password Fields
 width: wide
 ---

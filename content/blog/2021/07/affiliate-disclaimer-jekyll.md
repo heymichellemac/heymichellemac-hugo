@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2021-07-12'
-tag:
-- Coding
+tags:
+- coding
 title: Jekyll - Add An Affiliate Disclaimer To Specific Posts
 width: wide
 ---

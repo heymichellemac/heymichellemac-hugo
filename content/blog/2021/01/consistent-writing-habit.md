@@ -2,7 +2,8 @@
 categories:
 - blog
 date: '2021-01-25'
-tag: Creation
+tags: 
+- creation
 title: Building A Consistent Writing Habit
 width: wide
 ---

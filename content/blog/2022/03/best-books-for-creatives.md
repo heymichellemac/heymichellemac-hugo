@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2022-03-07'
-tag:
-- Creation
+tags:
+- creation
 title: These 7 Books Will Change How You Think About Being A Creative
 width: wide
 ---

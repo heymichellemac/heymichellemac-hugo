@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2022-03-16'
-tag:
-- Productivity
+tags:
+- productivity
 title: Why You Need A Daily Shutdown Routine
 width: wide
 ---

@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2021-10-11'
-tag:
-- Design
+tags:
+- design
 title: 4 Tactics You Should Be Using To Promote Yourself As A Web Designer
 width: wide
 ---

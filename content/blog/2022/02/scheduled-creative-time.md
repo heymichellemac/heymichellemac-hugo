@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2022-02-28'
-tag:
-- Creation
+tags:
+- creation
 title: I Scheduled My Creative Time For The Last 4 Weeks, Here's What I Learned
 width: wide
 ---
@@ -81,7 +81,7 @@ I created the business cards in [Canva](https://www.canva.com/), exported them i
 
 For this week's scheduled creative time, I wanted to create a Core Values page in [Obsidian](https://obsidian.md/). This idea was inspired by this video from Nicole van der Hoeven:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T2Aeaq4sk7M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube T2Aeaq4sk7M >}}
 
 While this might not be the most creative thing I could do with my time, I felt this was a good use of my time. Especially given how the results would help me in the future i.e. a list of my core values that would drive my future goals.
 

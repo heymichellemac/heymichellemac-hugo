@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2022-03-24'
-tag:
-- Knowledge-Management
+tags:
+- pkm
 title: Use An Inbox For Quick Capture To Avoid Distraction
 width: wide
 ---

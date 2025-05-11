@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2021-03-08'
-tag:
-- Creation
+tags:
+- creation
 title: My Writing Workflow For Content Creation
 width: wide
 ---

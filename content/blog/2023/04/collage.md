@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2023-04-12'
-tag:
-- Creation
+tags:
+- creation
 title: The fun world of collage
 width: wide
 ---

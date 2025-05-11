@@ -2,15 +2,13 @@
 categories:
 - blog
 date: '2023-02-22'
-tag:
-- Creation
+tags:
+- creation
 title: The use of color in Better Call Saul
 width: wide
 ---
 
-*This article was re-posted from my weekly newsletter. Want to read it a week early? Subscribe to [Design Insight]  .*
-
-*Spoiler Warning: I will be talking about the TV Show Better Call Saul. I won't be discussing any plotlines but I will be including some shots from the show so depending on how spoiler averse you are here is your warning.*
+**Spoiler Warning: I will be talking about the TV Show Better Call Saul. I won't be discussing any plotlines but I will be including some shots from the show so depending on how spoiler averse you are here is your warning.**
 
 The use of color in Better Call Saul is a really important part of the show.
 
@@ -26,7 +24,7 @@ I remember the use of color being pretty significant in Breaking Bad and the sam
 
 I was always fascinated by the variety of different suits Saul wears throughout the show and wondered why on earth he chose to dress like that.
 
-![Saul Goodman's Colorful Ties - Captured from Netflix](/assets/images/2023/MXA23008/scene-3.jpg)
+{{< images src="scene-3.jpg" alt="Saul Goodman's Colorful Ties - Captured from Netflix" caption="Saul Goodman's Colorful Ties - Captured from Netflix" >}}
 
 I was also curious about the use of black and white to denote scenes set in the future i.e. after the events of Breaking Bad. 
 
@@ -44,8 +42,7 @@ The color palette used in BCS is categorized like this:
 
 I'm using quotes around good and bad because that's the crux of the whole show: legality vs criminality.
 
-![Saul Goodman Speaking To His Clients - Captured from Netflix](/assets/images/2023/MXA23008/scene-2.jpg)
-
+{{< images src="scene-2.jpg" alt="Saul Goodman Speaking To His Clients - Captured from Netflix" caption="Saul Goodman Speaking To His Clients - Captured from Netflix" >}}
 
 One character isn't solely good or bad, they fluctuate between each state depending on the actions they take.
 
@@ -55,8 +52,7 @@ Other characters like Nacho almost always wear red, Don Eladio is gifted a red c
 
 This color chart is a fascinating look at the use of color in Better Call Saul and how it's progressed throughout the show: [Colorizing Jimmy McGill's Fall - Imgur](https://imgur.com/a/J98r28T)
 
-![Each characters colors througout the show - from Imgur](/assets/images/2023/MXA23008/better-call-saul-color.png)
-
+{{< images src="better-call-saul-color.png" alt="Each character's colors througout the show - from Imgur" caption="Each character's colors througout the show - from Imgur" >}}
 
 ## Future scenes are in black and white
 
@@ -68,7 +64,7 @@ This has such an impact because throughout the rest of the show, and in Breaking
 
 All this is captured beautifully in this YouTube video which I highly recommend:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XM0KcMkkdxw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+{{< youtube XM0KcMkkdxw >}}
 
 ## Pay attention to the small details 
 
@@ -80,7 +76,7 @@ I recently re-watched [Fatal Deviation](https://www.imdb.com/title/tt0488046/) a
 
 Anyway, looking back through BCS while writing this gave me the chance to look at single shots from various scenes. So many moments were beautifully constructed and each shot could stand on its own as a photo.
 
-![Saul standing in the desert next to his car - Captured from Netflix](/assets/images/2023/MXA23008/scene-1.jpg)
+{{< images src="scene-1.jpg" alt="Saul standing in the desert next to his car - Captured from Netflix" caption="Saul standing next to his car - Captured from Netflix" >}}
 
 This has definitely encouraged me to appreciate what I'm watching. There's more to a TV show or movie than just a story. I now am also looking for little details in the background, the use of color, and even what characters are wearing.
 

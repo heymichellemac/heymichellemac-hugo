@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2022-07-25'
-tag:
-- Knowledge Management
+tags:
+- pkm
 title: How I Use Todoist As A Creative To Manage My Work And Get More Done
 width: wide
 ---

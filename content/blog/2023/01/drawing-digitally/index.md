@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2023-01-04'
-tag:
-- Creation
+tags:
+- creation
 title: How to get started learning to draw with an iPad and Apple Pencil
 width: wide
 ---
@@ -29,12 +29,11 @@ As I mentioned above, I'm not very good at drawing in any medium but I want to i
 
 My mindset for approaching this new hobby is that I need to practice to get better.
 
-![My first Procreate picture - following a tutorial](/assets/images/2023/MXA23001/Procreate_1.jpg)
+{{< images src="Procreate_1.jpg" alt="My first Procreate sketch" caption="My first Procreate sketch" >}}
 
 Yes, my first few hundred (or more even) drawings will be terrible, but my skills will improve over time. The more hours I put into practicing drawing, the better I'll get.
 
 I'm not aiming for [10,000 hours](https://heymichellemac.com/peak-anders-ericsson) or anything but I know with consistent practice I'll eventually be able to put what's in my brain onto the digital screen.
-
 
 ## Make Getting Started Easy
 
@@ -67,7 +66,7 @@ Use your drawing tools as keywords to refine your YouTube search to make things 
 
 Do some searching and save any interesting videos to a watch-later playlist so you have them to refer to.
 
-![My second Procreate picture](/assets/images/2023/MXA23001/Procreate_2.jpg)
+{{< images src="Procreate_2.jpg" alt="My second Procreate picture" caption="My second Procreate picture" >}}
 
 
 I started my Procreate journey by following the Procreate channel on YouTube and watching the [Procreate Beginners Series](https://youtu.be/fBWR0BpzAnk). 
@@ -80,7 +79,7 @@ During my YouTube research into the hobby, I came across a lot of fun drawing tu
 
 I have been following one tutorial each day for the past week and have found it the perfect way to practice my digital drawing skills in small manageable chunks.
 
-![Hillside scene from a tutorial](/assets/images/2023/MXA23001/Hillside.jpg)
+{{< images src="Hillside.jpg" alt="Hillside scene from a tutorial" caption="Hillside scene from a tutorial" >}}
 
 For some simple but amazing Procreate drawing tutorials, I recommend the channel [Art with Flo](https://www.youtube.com/@ArtwithFlo).
 
@@ -93,7 +92,7 @@ This is how you take your drawing to the next level. You practice developing you
 
 I'm back on the Dragon Ball Z train practicing my sketching and shading abilities and I've found it so much fun to do. Yes, I will move on from DBZ to other fun things but this is what I love doing right now so I'm sticking with it.
 
-![DBZ Drawing](/assets/images/2023/MXA23001/DBZ-Drawing.jpg)
+{{< images src="DBZ-Drawing.jpg" alt="DBZ Drawing" caption="DBZ Drawing" >}}
 
 Practicing my drawing gets me into a flow state pretty much every day. Time passes so quickly when I'm in the zone drawing and the next thing I know its lunchtime!
 
@@ -107,7 +106,7 @@ Here are some ideas I have:
 - I want to be able to do the same for my weekly newsletter.
 - I want to turn this skill into something tangible so I'm considering making stickers and/or digital prints. I already have some really fun ideas for this so be on the lookout for that!
 
-![Another Procreate picture](/assets/images/2023/MXA23001/Procreate_3.jpg)
+{{< images src="Procreate_3.jpg" alt="Another Procreate picture" caption="Another Procreate picture" >}}
 
 **Sign Off**
 

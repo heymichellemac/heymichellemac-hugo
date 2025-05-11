@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2021-04-28'
-tag:
-- Coding
+tags:
+- coding
 title: Jekyll - Add Estimated Reading Time To Posts
 width: wide
 ---

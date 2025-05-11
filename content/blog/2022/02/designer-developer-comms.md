@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2022-02-14'
-tag:
-- Design
+tags:
+- design
 title: These 5 Tips Will Improve Your Designer To Developer Communications Today
 width: wide
 ---

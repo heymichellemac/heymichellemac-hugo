@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2021-04-19'
-tag:
-- Productivity
+tags:
+- productivity
 title: Why Regular Reflection Can Help You Become More Productive
 width: wide
 ---
@@ -45,9 +45,7 @@ For more detail on how others go about this process, I recommend listening to Ep
 
 It provides some great insight into how other people establish their areas of focus or roles.
 
-<div class="youtube-video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/k18K_8T_eHU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
----
+{{< youtube k18K_8T_eHU >}}
 
 ## Identify Your Goals
 

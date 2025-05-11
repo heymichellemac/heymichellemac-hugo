@@ -2,7 +2,8 @@
 categories:
 - blog
 date: '2021-01-04'
-tag: Productivity
+tags: 
+- productivity
 title: Don’t Get Overwhelmed By Your Goals – Keep It Simple
 width: wide
 ---
@@ -80,7 +81,7 @@ They are also flexible enough that you can frame almost any achievement you've m
 
 There's a whole host of great information on this concept in the video below which was created by CGP Grey to outline it in more detail.
 
-<div class="youtube-video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/NVGuFdX5guE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+{{< youtube NVGuFdX5guE >}}
 
 ### #2 Work To A Quarter
 

@@ -2,9 +2,9 @@
 categories:
 - blog
 date: '2022-03-14'
-tag:
-- Creation
-- Gaming
+tags:
+- creation
+- gaming
 title: How Dark Souls Helps You To Think About Failure
 width: wide
 ---

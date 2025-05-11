@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2022-02-07'
-tag:
-- Design
+tags:
+- design
 title: These 7 Newsletters Are A Must Read For All Designers
 width: wide
 ---

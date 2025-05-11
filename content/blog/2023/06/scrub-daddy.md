@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2023-06-16'
-tag:
-- Creation
+tags:
+- creation
 title: What the heck are those smiley face sponges I keep seeing on TikTok?
 width: wide
 ---
@@ -25,7 +25,7 @@ So far I've used it to clean my oven door (inside and outside), my sink, and a f
 
 Anyway, after actually using the product and seeing its many use cases, how it's marketed, and the range of accompanying products on offer, I wanted to go down the rabbit hole on the Scrub Daddy to see what I could learn.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4vqyXF6E7C0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+{{< youtube 4vqyXF6E7C0 >}}
 
 ## Learning About The Scrub Daddy's Creation
 
@@ -41,7 +41,8 @@ Aaron cut two holes in the sponges to allow for a better grip and the idea of a 
 
 In 2012, Aaron decided to go on Shark Tank to pitch the Scrub Daddy. Lori Greiner offered $200,000 for 20% equity in Scrub Daddy and her offer was accepted. To this day it's earned the highest revenue of any product successfully pitched on the show.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ae5MssJ8en4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+{{< youtube ae5MssJ8en4 >}}
 
 ## What's Interesting About The Scrub Daddy And Why It Works
 

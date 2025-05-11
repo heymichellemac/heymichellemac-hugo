@@ -2,7 +2,8 @@
 categories:
 - blog
 date: '2020-12-21'
-tag: Knowledge-Management
+tags: 
+- pkm
 title: How To Build A Flow Diagram In Obsidian Using Mermaid
 width: wide
 ---

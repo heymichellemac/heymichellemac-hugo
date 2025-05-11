@@ -2,7 +2,8 @@
 categories:
 - blog
 date: '2020-11-27'
-tag: Knowledge-Management
+tags: 
+- pkm
 title: Notion Library Tour - How I Capture Knowledge On What I Watch & Read
 width: wide
 ---

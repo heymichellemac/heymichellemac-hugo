@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2022-05-16'
-tag:
-- Knowledge-Management
+tags:
+- pkm
 title: How I Consume Content To Build A Massively Helpful Vault Of Knowledge
 width: wide
 ---

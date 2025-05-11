@@ -2,9 +2,9 @@
 categories:
 - blog
 date: '2022-06-06'
-tag:
-- Creation
-- Gaming
+tags:
+- creation
+- gaming
 title: I Use These Tools to Gamify My Habits so I Can Stay Creative and Healthy
 width: wide
 ---

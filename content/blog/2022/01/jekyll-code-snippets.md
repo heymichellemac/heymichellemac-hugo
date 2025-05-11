@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2022-01-31'
-tag:
-- Coding
+tags:
+- coding
 title: How To Include Jekyll Liquid Tags in Code Snippets
 width: wide
 ---

@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2021-07-19'
-tag:
-- Creation
+tags:
+- creation
 title: How To Never Be Bored Again
 width: wide
 ---

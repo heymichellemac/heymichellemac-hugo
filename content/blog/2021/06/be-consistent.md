@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2021-06-21'
-tag:
-- Productivity
+tags:
+- productivity
 title: Be Consistent - That Is Your One Thing
 width: wide
 ---

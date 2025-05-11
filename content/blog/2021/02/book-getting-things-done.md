@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2021-02-12'
-tag:
-- Book-Notes
+tags:
+- booknotes
 title: Getting Things Done by David Allen - Book Notes, Summary, Review
 width: wide
 ---

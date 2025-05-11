@@ -21,7 +21,7 @@ As a technical writer and front-end developer, I'm always learning, experimentin
 {{< hextra/feature-grid >}}
   {{< hextra/feature-card
     title="More about me"
-    subtitle="Learn who I am and what I love building and writing about."
+    subtitle="What I enjoy creating and writing about."
     class="hx:aspect-auto hx:md:aspect-[1.1/1] hx:max-md:min-h-[340px]"
     imageClass="hx:top-[40%] hx:left-[36px] hx:w-[110%] hx:sm:w-[110%] hx:dark:opacity-80"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(251, 113, 133, 0.15), hsla(0, 0%, 100%, 0));"
@@ -29,7 +29,7 @@ As a technical writer and front-end developer, I'm always learning, experimentin
   >}}
   {{< hextra/feature-card
     title="Writing"
-    subtitle="Read my latest notes, ideas, and tutorials on tech and creativity."
+    subtitle="Read my latest notes and ideas."
     class="hx:aspect-auto hx:md:aspect-[1.1/1] hx:max-md:min-h-[340px]"
     imageClass="hx:top-[40%] hx:left-[24px] hx:w-[180%] hx:sm:w-[110%] hx:dark:opacity-80"
     style="background: radial-gradient(ellipse at 50% 80%,rgba(194,97,254,0.15),hsla(0,0%,100%,0));"
@@ -37,7 +37,7 @@ As a technical writer and front-end developer, I'm always learning, experimentin
   >}}
   {{< hextra/feature-card
     title="Projects"
-    subtitle="Explore the things I’ve built with code, design, and curiosity."
+    subtitle="Explore the projects I've made."
     class="hx:aspect-auto hx:md:aspect-[1.1/1] hx:max-lg:min-h-[340px]"
     imageClass="hx:top-[40%] hx:left-[36px] hx:w-[180%] hx:sm:w-[110%] hx:dark:opacity-80"
     style="background: radial-gradient(ellipse at 50% 80%, rgba(13, 148, 136, 0.15), hsla(0, 0%, 100%, 0));"

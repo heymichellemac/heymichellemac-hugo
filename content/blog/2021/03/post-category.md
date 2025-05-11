@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2021-03-24'
-tag:
-- Coding
+tags:
+- coding
 title: How To Remove A Post Category From The Blog Page In WordPress
 width: wide
 ---

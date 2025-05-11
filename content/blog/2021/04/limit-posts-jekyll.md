@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2021-04-07'
-tag:
-- Coding
+tags:
+- coding
 title: Jekyll - How To Limit Posts During The Build Process
 width: wide
 ---

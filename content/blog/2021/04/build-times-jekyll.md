@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2021-04-14'
-tag:
-- Coding
+tags:
+- coding
 title: Jekyll - How To Determine Build Times
 width: wide
 ---

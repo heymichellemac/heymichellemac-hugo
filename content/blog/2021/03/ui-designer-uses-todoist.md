@@ -2,9 +2,9 @@
 categories:
 - blog
 date: '2021-03-12'
-tag:
-- Productivity
-- Design
+tags:
+- productivity
+- design
 title: How A UI Designer Uses Todoist
 width: wide
 ---

@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2021-04-21'
-tag:
-- Coding
+tags:
+- coding
 title: Jekyll - How To Enable Incremental Regeneration To Speed Up Build Times
 width: wide
 ---

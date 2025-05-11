@@ -2,13 +2,11 @@
 categories:
 - blog
 date: '2023-01-23'
-tag:
-- Creation
+tags:
+- creation
 title: A creative's secret power up - the power of noticing
 width: wide
 ---
-
-*This article was re-posted from my weekly newsletter. Want to read it a week early? Subscribe to [Design Insight](https://designinsight.substack.com/).*
 
 Beauty product design i.e. the design of packaging for cosmetics, beauty products, and even candles is a fascinating world I never thought to explore.
 
@@ -29,8 +27,6 @@ I was particularly struck by videos of shoppers exploring Bath & Body Works. We 
 I spent some time after that looking on the Bath & Body Works website and was captivated by all the uniquely designed perfume bottles, candles, and body care products. 
 
 Who knew hand soap could be so beautiful?
-
-![Bath & Body Works Products](/assets/images/2023/MXA23003/DIN083.png)
 
 ## What I learned from my deep dive
 

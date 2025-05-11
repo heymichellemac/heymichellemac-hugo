@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2021-04-05'
-tag:
-- Creation
+tags:
+- creation
 title: Why Writing Blog Posts In Markdown Is A Game Changer
 width: wide
 ---

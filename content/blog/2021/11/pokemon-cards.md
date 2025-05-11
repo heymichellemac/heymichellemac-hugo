@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2021-11-09'
-tag:
-- Design
+tags:
+- design
 title: 6 Things Pokémon Cards Will Teach You About Design
 width: wide
 ---

@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2022-01-17'
-tag:
-- Knowledge-Management
+tags:
+- pkm
 title: My Obsidian Daily Note Template 2022
 width: wide
 ---
@@ -154,7 +154,7 @@ I know this sounds boring but taking the time to plan things in advance made the
 
 I took a lot of inspiration from this video by Ev Chapman who I credited at the start of this article:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ptg_-jaULk4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube ptg_-jaULk4 >}}
 
 ### Install and enable the plugins
 

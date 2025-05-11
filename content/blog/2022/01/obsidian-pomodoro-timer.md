@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2022-01-24'
-tag:
-- Productivity
+tags:
+- productivity
 title: How To Add A Pomodoro Timer In Obsidian Without A Plugin
 width: wide
 ---

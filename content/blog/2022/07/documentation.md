@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2022-07-18'
-tag:
-- Design
+tags:
+- design
 title: RTFM! Users Won't Read Your Documentation, Here's A Better Approach
 width: wide
 ---

@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2021-03-15'
-tag:
-- Knowledge-Management
+tags:
+- pkm
 title: My Obsidian Setup - Mar 2021
 width: wide
 ---

@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2022-02-21'
-tag:
-- Knowledge-Management
+tags:
+- pkm
 title: How I Do My Weekly Review In Obsidian
 width: wide
 ---

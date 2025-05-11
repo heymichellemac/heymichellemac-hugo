@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2021-05-03'
-tag:
-- Design
+tags:
+- design
 title: UI Design Patterns - How To Write Effective Error Messages
 width: wide
 ---

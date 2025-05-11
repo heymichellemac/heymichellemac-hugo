@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2021-03-19'
-tag:
-- Book-Notes
+tags:
+- booknotes
 title: Hooked by Nir Eyal - Book Notes, Summary, Review
 width: wide
 ---

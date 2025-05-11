@@ -1,0 +1,13 @@
+{{ $src := .Get "src" }}
+{{ $alt := .Get "alt" }}
+{{ $caption := .Get "caption" }}
+
+{{ with .Page.Resources.GetMatch $src }}
+  {{ $img := .Resize "1200x" }}
+  <figure style="margin: 1.5rem 0;">
+    <img src="{{ $img.RelPermalink }}" alt="{{ $alt }}" style="border-radius: 8px; max-width: 100%; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+    {{ with $caption }}
+      <figcaption style="font-size: 0.9em; text-align: center; margin-top: 0.5rem; color: var(--tw-prose-muted);">{{ . }}</figcaption>
+    {{ end }}
+  </figure>
+{{ end }}

@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2021-07-05'
-tag:
-- Productivity
+tags:
+- productivity
 title: Establish A Shut Down Routine For Maximum Clarity
 width: wide
 ---

@@ -2,9 +2,9 @@
 categories:
 - blog
 date: '2021-06-14'
-tag:
-- Creation
-- Design
+tags:
+- creation
+- design
 title: Creative Constraints Are Good For You
 width: wide
 ---
@@ -75,7 +75,7 @@ You can apply constraints to almost any part of your life to work with more focu
 
 - Hint: [Do this during your scheduled creativity time](/schedule-time-for-creativity).
 - Build a website using only the color blue. 
-- Design a UI without using any text. 
+- design a UI without using any text. 
 - Write an article without using the letter A. 
 
 **You can also add constraints to your daily life.**

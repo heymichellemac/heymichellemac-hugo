@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2020-04-02'
-tag:
-- Coding
+tags:
+- coding
 title: Creating A Recipe Web Page with QR Code
 width: wide
 ---

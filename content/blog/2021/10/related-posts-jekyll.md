@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2021-10-25'
-tag:
-- Coding
+tags:
+- coding
 title: How To Add Related Posts In Jekyll To Increase Engagement
 width: wide
 ---

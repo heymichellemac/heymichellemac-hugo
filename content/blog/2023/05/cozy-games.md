@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2023-05-17'
-tag:
-- Gaming
+tags:
+- gaming
 title: Doing nothing but playing cozy games
 width: wide
 ---

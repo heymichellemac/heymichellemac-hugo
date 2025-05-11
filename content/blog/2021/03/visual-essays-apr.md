@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2021-03-29'
-tag:
-- Creation
+tags:
+- creation
 title: Visual Essays - March + April
 width: wide
 ---

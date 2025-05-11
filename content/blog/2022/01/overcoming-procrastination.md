@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2022-01-10'
-tag:
-- Productivity
+tags:
+- productivity
 title: 6 Procrastination Triggers And How To Overcome Them As A Designer
 width: wide
 ---

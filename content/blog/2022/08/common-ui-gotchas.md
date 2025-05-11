@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2022-08-15'
-tag:
-- Design
+tags:
+- design
 title: These 4 Common UI Gotchas Are So Easy To Fix But Cost You Users Right Now!
 width: wide
 ---

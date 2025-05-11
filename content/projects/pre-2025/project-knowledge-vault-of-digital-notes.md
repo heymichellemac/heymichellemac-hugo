@@ -47,7 +47,7 @@ Here are some things you can make use of these notes:
 Some of the topics include: 
 - Content Creation 
 - Personal Development 
-- Productivity 
+- productivity 
 - Reading & Writing 
 - Time Management 
 - UI & UX Design 

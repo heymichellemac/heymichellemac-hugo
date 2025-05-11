@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2022-08-08'
-tag:
-- Design
+tags:
+- design
 title: These 4 Typography-Related UI Issues Are Costing You Money! Here's How To Fix
   Them
 width: wide

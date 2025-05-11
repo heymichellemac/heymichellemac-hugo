@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2023-03-01'
-tag:
-- Design
+tags:
+- design
 title: What's the deal with road signs anyway?
 width: wide
 ---
@@ -25,7 +25,7 @@ Every year it seems the news shows videos of "reckless drivers" who drive throug
 
 With all this in mind, I realized how little I knew about the road signs I see (or don't see!) every day. So a deeper dive was warranted!
 
-![A selection of Irish road signs](/assets/images/2023/MXA23009/din088.png)
+{{< images src="din088.png" alt="A selection of Irish road signs" caption="A selection of Irish road signs" >}}
 
 ## Irish road signs take inspiration from UK road signs
 
@@ -39,13 +39,13 @@ Margaret Calvert is a British graphic designer and typographer. As I learned fro
 
 Back in the 50s as motorways were being introduced into the UK, people quickly realized the road signs at the time just weren't up to the job. With that in mind, Margaret and Jock used their wealth of design and typography knowledge to create a set of road signs that were easy to read as you sped past them in your car. The pair also designed the "[Transport](https://en.wikipedia.org/wiki/Transport_(typeface))" typeface which is used on these road signs.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wTDB3dpe3eg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+{{< youtube wTDB3dpe3eg >}}
 
 Coming back to the signage used in the Republic of Ireland.
 
 Road signs here are specified in the [Traffic Signs Manual 2010 (TSM)](https://www.trafficsigns.ie/tsm-cur) and managed by the Department of Transport. I skimmed the manual and was amazed at the detail in it relating to where signs should be placed, how big they should be, and what signs are required in different places.
 
-![An example of an Irish road sign](/assets/images/2023/MXA23009/irish-road-signs-2.jpg)
+{{< images src="irish-road-signs-2.jpg" alt="An example of an Irish road sign" caption="An example of an Irish road sign" >}}
 
 The typefaces used on our road signs are Transport and Motorway, both designed by Margaret and Jock. 
 
@@ -57,7 +57,7 @@ As someone who learned Irish all the way through primary and secondary school I 
 
 We've veered drastically off-topic here but maybe something to come back to another time 😅
 
-![An example of an older Irish road sign](/assets/images/2023/MXA23009/irish-road-signs.jpg)
+{{< images src="irish-road-signs.jpg" alt="An example of an older Irish road sign" caption="An example of an older Irish road sign" >}}
 
 ## Thinking about how things are made 
 

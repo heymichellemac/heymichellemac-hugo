@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2021-08-30'
-tag:
-- Design
+tags:
+- design
 title: UI Design Patterns - Character Limits
 width: wide
 ---

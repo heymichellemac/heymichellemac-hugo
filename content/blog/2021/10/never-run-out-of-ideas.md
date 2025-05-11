@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2021-10-04'
-tag:
-- Design
+tags:
+- design
 title: How To Never Run Out Of Ideas As A Designer
 width: wide
 ---

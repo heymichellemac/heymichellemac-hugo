@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2021-02-22'
-tag:
-- Productivity
+tags:
+- productivity
 title: Can A Rubik's Cube Help With Your Focus?
 width: wide
 ---

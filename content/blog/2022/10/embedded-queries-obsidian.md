@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2022-10-31'
-tag:
-- Knowledge-Management
+tags:
+- pkm
 title: How I Use Embedded Queries In Obsidian To Simplify My Note Management
 width: wide
 ---

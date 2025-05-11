@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2022-09-14'
-tag:
-- Design
+tags:
+- design
 title: Creating A Great Twitter Header Shouldn't Take Weeks. Here's How To Design
   One In Under An Hour
 width: wide

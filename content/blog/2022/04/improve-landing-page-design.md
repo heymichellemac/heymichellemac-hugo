@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2022-04-11'
-tag:
-- Design
+tags:
+- design
 title: This 10 Step Checklist Will Instantly Improve Your Landing Page Design
 width: wide
 ---

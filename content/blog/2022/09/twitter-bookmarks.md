@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2022-09-28'
-tag:
-- Knowledge-Management
+tags:
+- pkm
 title: Here's How To Get Your Bookmarks Out Of Twitter And Actually Use Them
 width: wide
 ---
@@ -44,7 +44,7 @@ Write down a list of potential categories for your bookmarks. You can use your c
 
 Here are some of the categories I use:
 - Things I want to read, watch, or listen to
-- Design inspiration 
+- design inspiration 
 - Cool design stuff for my weekly thread
 - Recipes I want to try
 
@@ -58,7 +58,7 @@ In Notion, create separate databases for each of the categories you have defined
 
 In my case, I have the following databases:
 - Library
-- Design Inspiration
+- design Inspiration
 - Cool Design Stuff
 - Recipes DB
 

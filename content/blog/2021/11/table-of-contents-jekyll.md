@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2021-11-22'
-tag:
-- Coding
+tags:
+- coding
 title: How To Add A Table Of Contents To Jekyll Blog Posts
 width: wide
 ---

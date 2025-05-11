@@ -2,8 +2,8 @@
 categories:
 - blog
 date: 2020-04-01
-tag:
-- Coding
+tags:
+- coding
 title: How To Make A Digital Photo Frame With A Raspberry Pi
 width: wide
 ---

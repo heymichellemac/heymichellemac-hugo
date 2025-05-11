@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2021-01-29'
-tag:
-- Book-Notes
+tags:
+- booknotes
 title: The Accidental Creative by Todd Henry - Book Notes, Summary, Review
 width: wide
 ---

@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2022-10-05'
-tag:
-- Knowledge-Management
+tags:
+- pkm
 title: How I Reframed My Digital Life After Reading Building a Second Brain
 width: wide
 ---

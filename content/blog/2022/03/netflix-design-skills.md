@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2022-03-21'
-tag:
-- Design
+tags:
+- design
 title: Use Netflix To Easily Improve Your Design Skills
 width: wide
 ---

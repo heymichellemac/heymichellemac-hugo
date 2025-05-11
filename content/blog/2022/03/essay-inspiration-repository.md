@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2022-03-30'
-tag:
-- Knowledge-Management
+tags:
+- pkm
 title: Create An Inspiration Repository To Generate Unique Ideas
 width: wide
 ---

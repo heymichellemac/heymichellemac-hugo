@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2021-06-28'
-tag:
-- Design
+tags:
+- design
 title: 5 Ways For A UI Designer To Come Up With Ideas
 width: wide
 ---

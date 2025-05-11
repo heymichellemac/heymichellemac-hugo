@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2021-05-17'
-tag:
-- Creation
+tags:
+- creation
 title: The Creator's Philosophy - Create Once Use Many Times
 width: wide
 ---

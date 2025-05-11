@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2020-11-20'
-tag:
-- Book-Notes
+tags:
+- booknotes
 title: How To Take Smart Notes by Sönke Ahrens – Book Notes, Summary, Review
 width: wide
 ---

@@ -29,12 +29,12 @@ If people like how your content looks, if it makes people stop scrolling for tha
 
 ### Book Chapters
 
-- Design Concepts
+- design Concepts
 - Idea Generation
 - Learning
 - Mindset
 - Note Taking
-- Productivity
+- productivity
 - Time Management
 - Task Management
 - Usability

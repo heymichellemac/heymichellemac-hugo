@@ -2,16 +2,13 @@
 categories:
 - blog
 date: '2023-02-15'
-tag:
-- Creation
+tags:
+- creation
 title: When eliminating distractions is a bad thing
 width: wide
 ---
 
-*This article was re-posted from my weekly newsletter. Want to read it a week early? Subscribe to [Design Insight](https://designinsight.substack.com/).*
-
-
-![The Isolator](/assets/images/2023/MXA23006/the-isolator.png)
+{{< images src="the-isolator.png" alt="The Isolator" caption="The Isolator" >}}
 
 This is "The Isolator", an anti-distraction device created in 1925. It was designed to allow users to "concentrate with ease upon the subject at hand" by making it "almost impossible to see anything except a sheet of paper in front of the wearer".
 
@@ -35,7 +32,7 @@ I believe documenting things more could be the way out of this anti-distraction 
 
 For example, I was recently looking at old photos of my Bichon Scully and I was amazed at how easy it was to pull up all old photos of her using the Photos app on my phone. It was amazing the number of memories each photo instantly unlocked. I could remember the exact scenario, what we were all doing, and where we were.
 
-![Scully The Bichon Frise](/assets/images/2023/MXA23006/dog-photos.png)
+{{< images src="dog-photos.png" alt="Scully The Bichon Frise" caption="Scully The Bichon Frise" >}}
 
 Today's technology (look no further than Obsidian or Notion) makes data retrieval instantaneous. All we have to do is remember to look back at the things we've collected. 
 

@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2021-04-02'
-tag:
-- Book-Notes
+tags:
+- booknotes
 title: Eat That Frog! by Brian Tracy - Book Notes, Summary, Review
 width: wide
 ---

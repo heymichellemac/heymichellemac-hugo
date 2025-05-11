@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2022-05-09'
-tag:
-- Knowledge Management
+tags:
+- pkm
 title: How I Use Obsidian To Take Action On The Content I Consume
 width: wide
 ---
@@ -62,13 +62,13 @@ As it turns out, I didn't need any fancy plugins or complicated code snippets to
 Here's the query I used for the To Do items:
 
 ```query
-tag:#powerup task-todo: "#powerup"
+tags:#powerup task-todo: "#powerup"
 ```
 
 Here's the query I used for the Done items:
 
 ```query
-tag:#powerup task-done: "#powerup"
+tags:#powerup task-done: "#powerup"
 ```
 
 Here's the end result:

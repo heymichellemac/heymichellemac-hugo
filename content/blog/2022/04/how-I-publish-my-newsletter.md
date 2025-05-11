@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2022-04-25'
-tag:
-- Creation
+tags:
+- creation
 title: This Is How I Publish My Newsletter Every Week Without Fail
 width: wide
 ---

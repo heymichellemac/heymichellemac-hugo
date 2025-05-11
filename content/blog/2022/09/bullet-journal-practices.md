@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2022-09-21'
-tag:
-- Productivity
+tags:
+- productivity
 title: 5 Practices I Follow Consistently After Reading The Bullet Journal Method
 width: wide
 ---

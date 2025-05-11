@@ -2,7 +2,8 @@
 categories:
 - blog
 date: '2021-02-01'
-tag: Productivity
+tags: 
+- productivity
 title: How Task Batching Can Accelerate Your Productivity
 width: wide
 ---

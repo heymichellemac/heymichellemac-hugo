@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2021-09-20'
-tag:
-- Knowledge-Management
+tags:
+- pkm
 title: A Walkthrough Of My Obsidian Setup
 width: wide
 ---
@@ -822,7 +822,7 @@ Some examples include:
 - Agile Development
 - Color Theory
 - Cognitive Bias
-- Design Patterns.
+- design Patterns.
 
 #### **Topics Index**
 

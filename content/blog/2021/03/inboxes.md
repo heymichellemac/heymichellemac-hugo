@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2021-03-01'
-tag:
-- Knowledge-Management
+tags:
+- pkm
 title: Using Inboxes To Manage Your Thoughts And Ideas
 width: wide
 ---

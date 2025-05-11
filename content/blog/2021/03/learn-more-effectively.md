@@ -2,9 +2,9 @@
 categories:
 - blog
 date: '2021-03-22'
-tag:
-- Design
-- Coding
+tags:
+- design
+- coding
 title: You Learn More Effectively By Practicing
 width: wide
 ---

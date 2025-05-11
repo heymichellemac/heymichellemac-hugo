@@ -20,7 +20,7 @@ A list of the tools and software I use.
 
 ## Design
 - [Canva](https://www.canva.com/) - For creating graphics 
-- [Figma](https://www.figma.com/) - Design tool (I use the free version)
+- [Figma](https://www.figma.com/) - design tool (I use the free version)
 
 ## Media
 - [AntennaPod](https://antennapod.org/) - Open source podcast app for Android

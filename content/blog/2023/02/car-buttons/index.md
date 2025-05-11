@@ -2,13 +2,11 @@
 categories:
 - blog
 date: '2023-02-08'
-tag:
-- Design
+tags:
+- design
 title: Button or no button?
 width: wide
 ---
-
-*This article was re-posted from my weekly newsletter. Want to read it a week early? Subscribe to [Design Insight](https://designinsight.substack.com/).*
 
 Buttons in cars are helpful. They allow you to perform a specific action in the car without having to take your eyes away from the road.
 
@@ -26,7 +24,7 @@ Here's why:
 - Navigating through the UI is so slow and clunky it hurts me 😅.
 - There's no audio or haptic feedback when you interact with the device which means you need to rely on visuals i.e. looking away from the road.
 
-![My Car Infotainment System](/assets/images/2023/MXA23005/car-device.png)
+{{< images src="car-device.png" alt="My Car Infotainment System" caption="My Car Infotainment System" >}}
 
 This got me thinking about the importance of physical buttons as a way to interact with our cars in an easier, safer way.
 
@@ -44,7 +42,7 @@ There are advantages to touch screen devices in cars:
 
 The problem with these touchscreen devices is they are rapidly replacing actual buttons, knobs, and switches that drivers are used to. Tesla's cars have one giant screen which controls almost all the car's functions.
 
-![Design Vs Accessibility](/assets/images/2023/MXA23005/design-accessibility.png)
+{{< images src="design-accessibility.png" alt="Design Vs Accessibility" caption="Design Vs Accessibility" >}}
 
 ## The Data Backs Up Buttons
 

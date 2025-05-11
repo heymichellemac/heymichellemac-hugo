@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2024-01-04'
-tag:
-- Gaming
+tags:
+  - gaming
 title: My GOTYs 2023 edition
 width: wide
 ---
@@ -45,4 +45,6 @@ The best games I played in 2023 that were also released in 2023.
 
 ## My PlayStation Wrapped for 2023
 
-![My PlayStation Wrapped for 2023](/assets/images/2024/MXA24001/playstation-wrapped-2023.jpg)
+<!-- ![My PlayStation Wrapped for 2023](playstation-wrapped-2023.jpg) -->
+
+{{< images src="playstation-wrapped-2023.jpg" alt="My PlayStation Wrapped for 2023" caption="My PlayStation Wrapped for 2023" >}}

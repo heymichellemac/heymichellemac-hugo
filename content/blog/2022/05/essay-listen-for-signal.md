@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2022-05-23'
-tag:
-- Creation
+tags:
+- creation
 title: Are You Following Your Life Signals? Here's A Framework To Help You
 width: wide
 ---

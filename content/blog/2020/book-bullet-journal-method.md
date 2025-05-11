@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2020-12-18'
-tag:
-- Book-Notes
+tags:
+- booknotes
 title: The Bullet Journal Method by Ryder Carroll – Book Notes
 width: wide
 ---

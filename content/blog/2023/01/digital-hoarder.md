@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2023-01-11'
-tag:
-- Knowledge-Management
+tags:
+- pkm
 title: Help! I'm a digital hoarder
 width: wide
 ---
@@ -13,8 +13,6 @@ I've been obsessively watching the TV show Hoarders over the last few weeks and 
 One of the traits many hoarders share is the notion of keeping things in case they might need them.
 
 This is something that got me thinking about my digital life and the idea of digital hoarding. 
-
-![My first Procreate picture - following a tutorial](/assets/images/2023/MXA23002/digital-hoarder.jpg)
 
 ## Being A Digital Hoarder
 

@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2021-04-12'
-tag:
-- Creation
+tags:
+- creation
 title: Overcoming The Blank Page As A Creator
 width: wide
 ---

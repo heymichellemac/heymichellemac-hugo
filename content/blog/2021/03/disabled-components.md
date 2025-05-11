@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2021-03-03'
-tag:
-- Design
+tags:
+- design
 title: UI Design Patterns - How To Handle Disabled Components
 width: wide
 ---

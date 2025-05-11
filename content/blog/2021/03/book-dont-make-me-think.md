@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2021-03-05'
-tag:
-- Book-Notes
+tags:
+- booknotes
 title: Don't Make Me Think by Steve Krug - Book Notes, Summary, Review
 width: wide
 ---
@@ -89,7 +89,7 @@ This book has given me renewed motivation to be a testing advocate and to test m
 
 ### Chapter 3 - Billboard Design 101
 
-- Design conventions are your friends - follow conventions or standard design patterns and don't reinvent the wheel with each thing you design.
+- design conventions are your friends - follow conventions or standard design patterns and don't reinvent the wheel with each thing you design.
 - Users have developed mental models as to how certain components of a web page should work:
     - We expect to see a logo on the top left of the screen and the primary navigation to be across the top or down the side of the screen.
     - We expect a shopping cart system to work in a specific way i.e. select your product, add a payment method, etc.
@@ -216,7 +216,7 @@ This book has given me renewed motivation to be a testing advocate and to test m
 
 ### Chapter 10 - Mobile - It's Not Just A City In Alabama Anymore
 
-- Design is made up of constraints (things you have to or shouldn't do) and tradeoffs (choices you must make that aren't ideal)
+- design is made up of constraints (things you have to or shouldn't do) and tradeoffs (choices you must make that aren't ideal)
 - Constraints can be a positive. They can allow you to work in a more focused way.
 - Mobile design is about making good tradeoffs.
 - The Mobile First approach to design is where you design the mobile version of a site and then expand it into the desktop version.

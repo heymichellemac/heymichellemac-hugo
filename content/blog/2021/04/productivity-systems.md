@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2021-04-26'
-tag:
-- Productivity
+tags:
+- productivity
 title: How To Make Your Productivity Systems More Efficient
 width: wide
 ---

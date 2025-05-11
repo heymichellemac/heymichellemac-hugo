@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2021-07-26'
-tag:
-- Coding
+tags:
+- coding
 title: Jekyll - Add Related Posts At The End Of A Post
 width: wide
 ---

@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2022-08-22'
-tag:
-- Creation
+tags:
+- creation
 title: A 10 Step Framework For Making Money Online As A Creative In 2022
 width: wide
 ---
@@ -118,7 +118,7 @@ You can start a newsletter for free using Substack, Revue, or ConvertKit (up to 
 
 Ali Abdaal recently published this excellent video on getting started with newsletters:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ozWseKZV6Ac" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube ozWseKZV6Ac >}}
 
 ## Step 5 - Build Projects
 Here is where you continue to build out your portfolio from step 2. You want to create projects that showcase your skills.

@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2021-03-31'
-tag:
-- Coding
+tags:
+- coding
 title: Jekyll - Creating External Links That Open In A New Tab
 width: wide
 ---

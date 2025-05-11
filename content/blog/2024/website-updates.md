@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2024-03-29'
-tag:
-- Coding
+tags:
+  - coding
 title: Website updates - a continuous journey
 width: wide
 ---

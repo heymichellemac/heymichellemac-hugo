@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2023-03-08'
-tag:
-- Creation
+tags:
+- creation
 title: The desire to document and collect
 width: wide
 ---
@@ -12,11 +12,7 @@ The desire to document and collect must be something in our nature as humans.
 
 I recently watched the [Pamela Anderson documentary on Netflix](https://www.netflix.com/ie/title/81590934) and was struck by everything she kept over the years. Every diary, scrap of paper, videotape, piece of clothing, and shoes (lots of shoes). Every memory was saved and stored away in plastic boxes which she delved through during the filming.
 
-I've also been reading a lot of [Austin Kleon's](https://austinkleon.com/) work recently. He keeps all his diaries on a shelf in his office. When he's stuck for inspiration or what to write, he opens an old diary to a random page and starts reading.
-
-![The days stack up - Austin Kleon](/assets/images/2023/MXA23010/austin-kleon-diaries.jpg)
-
-[The days stack up - Austin Kleon](https://austinkleon.com/2019/04/21/the-days-stack-up/)
+I've also been reading a lot of [Austin Kleon's](https://austinkleon.com/) work recently. He keeps all his diaries on a shelf in his office. When he's stuck for inspiration or what to write, he opens an old diary to a random page and starts reading. See: [The days stack up - Austin Kleon](https://austinkleon.com/2019/04/21/the-days-stack-up/).
 
 Austin also [wrote a piece](https://austinkleon.com/2021/05/20/indexing-filing-systems-and-the-art-of-finding-what-you-have/) about comedians like Joan Rivers keeping all the jokes they'd written in big filing cabinets to use as a reference. If you've ever read [How To Take Smart Notes](https://heymichellemac.com/how-to-take-smart-notes-sonke-ahrens) the filing cabinets will likely remind you a lot of the [Zettelkasten system](https://zettelkasten.de/introduction/).
 
@@ -30,7 +26,7 @@ Now that I've restarted a daily journal practice I wonder if I'll face the same 
 
 As I flick through my [Pink Leuchtterm 1917 Bujo](https://amzn.to/3motdZz) (from the time I got really into bullet journaling), I realize it's a time capsule from the time of the height of the pandemic.
 
-![My bullet journal - now my diary/journal](/assets/images/2023/MXA23010/my-bujo.jpg)
+{{< images src="my-bujo.jpg" alt="My bullet journal - now my diary/journal" caption="My bullet journal - now my diary/journal" >}}
 
 What I was feeling, what I was doing each day, who I was in contact with, as well as various milestones we faced including the period of time when we weren't allowed to travel further than 5kms from our homes. God knows if I'll ever experience that again in my lifetime (no thank you).
 
@@ -58,7 +54,7 @@ This article also helped me to realize that documenting doesn't just have to be 
 
 I already do this it turns out (or at least I used to before the pandemic). I used to put together a fun shadow box after each vacation. When I got home, I'd gather everything I'd collected and create a fun collage inside of a shadow box picture frame bought in Ikea. These still sit in the kitchen and remind me of those trips away. 
 
-![Holiday shadow box](/assets/images/2023/MXA23010/shadow-box.jpg)
+{{< images src="shadow-box.jpg" alt="Holiday shadow box" caption="Holiday shadow box" >}}
 
 ## Documenting your day to help your future self
 
@@ -70,7 +66,7 @@ In digging through my notes on this topic I came across an older article I read:
 
 Inspired by Charley Locke and Austin Kleon ([Inside my commonplace diary - Austin Kleon](https://austinkleon.substack.com/p/inside-my-commonplace-diary?s=09)), I've started a commonplace diary of my own. Once a day I'll add a quote, something I heard, or something I read that I found interesting, funny, or thought-provoking. It's too soon to say what the outcome of this will be but I do find myself listening out for snippets to capture each day which by itself is a benefit for me.
 
-![My commonplace diary](/assets/images/2023/MXA23010/commonplace-diary.jpg)
+{{< images src="commonplace-diary.jpg" alt="My commonplace diary" caption="My commonplace diary" >}}
 
 I'm still pretty consistent at taking [5 photos every day on my phone](https://designinsight.substack.com/p/086) as a way to capture more and improve my photography skills. I'm already seeing the benefits of this practice as now when I'm having a conversation about something I saw that day, I also have the photo to give more context.
 

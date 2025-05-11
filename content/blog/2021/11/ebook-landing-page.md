@@ -2,9 +2,9 @@
 categories:
 - blog
 date: '2021-11-15'
-tag:
-- Creation
-- Coding
+tags:
+- creation
+- coding
 title: The 7 Step Process I Used To Build A Landing Page To Promote My Book
 width: wide
 ---
@@ -50,7 +50,7 @@ It's also important to focus on one goal per landing page. Any more than one goa
 
 Here's the goal I picked: 
 
-*My goal is to create a custom landing page to promote my new eBook - Design Faster, Design Better. I want readers to learn about exactly what my book will help with and allow them to buy it if they would like. I'd like to achieve this at a low cost and I'd like to build the landing page myself from scratch to practice my web dev skills.*
+*My goal is to create a custom landing page to promote my new eBook - design Faster, Design Better. I want readers to learn about exactly what my book will help with and allow them to buy it if they would like. I'd like to achieve this at a low cost and I'd like to build the landing page myself from scratch to practice my web dev skills.*
 
 ---
 
@@ -154,7 +154,7 @@ Here's a sample of my rough copy layout:
 
 ---
 
-## Step 4 - Design + Build The Structure
+## Step 4 - design + Build The Structure
 
 With your copy ready to go, it's time to design and build your landing page structure.
 
@@ -226,7 +226,7 @@ Here's the link to the landing page I made once again if you're interested:
 - A clear goal will help give you the motivation to continue working even when things get tough. 
 - The more time spent researching before design and implementation the better.
 - You may not be good at writing right now but if you never practice, you'll never improve.
-- Design on paper before you build. You wouldn't build a house without blueprints!
+- design on paper before you build. You wouldn't build a house without blueprints!
 - Always test landing pages on more than one device. At the very least test on a phone, a tablet, and a computer.
 - Don't be afraid to hit publish when something is good enough as opposed to perfect.
 - Continue learning!

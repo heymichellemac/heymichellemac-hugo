@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2020-06-04'
-tag:
-- Design
+tags:
+- design
 title: A Starter Guide - Color Theory For Web Designers
 width: wide
 ---
@@ -216,9 +216,7 @@ Now that you are familiar with the principles of color theory, it's time to star
 
 To get some inspiration for this process, check out this super helpful video:
 
-<div class="youtube-video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/yibJDhrVlYk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
-
+{{< youtube yibJDhrVlYk >}}
 
 ## Conclusion
 

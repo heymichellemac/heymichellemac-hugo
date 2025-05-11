@@ -2,15 +2,13 @@
 categories:
 - blog
 date: '2023-01-30'
-tag:
-- Design
+tags:
+- design
 title: Do you need an emotional support water bottle?
 width: wide
 ---
 
-*This article was re-posted from my weekly newsletter. Want to read it a week early? Subscribe to [Design Insight](https://designinsight.substack.com/).*
-
-In a recent conversation with a friend, I discovered the world of water bottles on TikTok. In particular, my friend referenced a hashtag: #emotionalsupportwaterbottle or ESWB. This concept intrigued me so I reactivated my TikTok account to learn more (pray for me 🙏).
+In a recent conversation with a friend, I discovered the world of water bottles on TikTok. In particular, my friend referenced a hashtags: #emotionalsupportwaterbottle or ESWB. This concept intrigued me so I reactivated my TikTok account to learn more (pray for me 🙏).
 
 I learned this week (I'm way behind) there's a web version of TikTok. 
 
@@ -33,8 +31,6 @@ To me, the features plus the aesthetics of a water bottle are the key traits tha
 I can see how the idea of an emotional support water bottle is "kind of a joke", but there's something to having a good water bottle to remind you to drink water. I think that's why this trend has become so popular.
 
 ## The Quencher A.K.A the Stanley cup
-
-![The Stanley Cup](/assets/images/2023/MXA23004/DIN084.png)
 
 I could have continued down this rabbit hole forever but I decided to focus on one type of water bottle: the Stanley cup.
 
@@ -74,7 +70,5 @@ Honestly? Finding ways to drink more water is hard. One way to encourage yoursel
 It sounds silly to say for something like a water bottle but if you like it you're more likely to use it even after the novelty has worn off.
 
 The water bottle I currently use is a simple 1l bottle that has the times of the day and measurements printed on each side. This "gamifies" the water drinking experience for me. Also, because it's so large I don't need to fill it up as often. I keep it at my desk so I always have it nearby when I'm working.
-
-![My water bottle](/assets/images/2023/MXA23004/my-water-bottle.jpeg)
 
 Maybe I'll sign up for the Stanley cup waiting list to see what all the fuss is about 🤔😅

@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2023-03-31'
-tag:
-- Knowledge-Management
+tags:
+- pkm
 title: A simple format to distil what you learn
 width: wide
 ---

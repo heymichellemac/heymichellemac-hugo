@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2021-05-31'
-tag:
-- Productivity
+tags:
+- productivity
 title: Life Contexts - Cues To Differentiate Between Work And Home
 width: wide
 ---

@@ -2,7 +2,8 @@
 categories:
 - blog
 date: '2021-01-11'
-tag: Productivity
+tags: 
+- productivity
 title: Restarting The Weekly Review Process
 width: wide
 ---

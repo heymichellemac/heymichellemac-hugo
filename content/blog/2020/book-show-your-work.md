@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2020-11-25'
-tag:
-- Book-Notes
+tags:
+- booknotes
 title: Show Your Work by Austin Kleon – Book Notes, Summary, Review
 width: wide
 ---

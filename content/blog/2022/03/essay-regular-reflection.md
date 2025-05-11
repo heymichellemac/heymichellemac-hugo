@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2022-03-12'
-tag:
-- Design
+tags:
+- design
 title: How Regular Reflection Makes You A Better Designer
 width: wide
 ---

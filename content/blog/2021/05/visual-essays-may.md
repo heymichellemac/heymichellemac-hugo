@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2021-05-01'
-tag:
-- Creation
+tags:
+- creation
 title: Visual Essays - May
 width: wide
 ---

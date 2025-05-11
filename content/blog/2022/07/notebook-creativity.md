@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2022-07-11'
-tag:
-- Creation
+tags:
+- creation
 title: Here's Why the Notebook Is the Ultimate Tool for Creativity
 width: wide
 ---

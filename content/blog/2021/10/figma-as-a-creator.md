@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2021-10-18'
-tag:
-- Creation
+tags:
+- creation
 title: 10 Ways I Use Figma As A Creator
 width: wide
 ---
@@ -29,7 +29,7 @@ Below is an example of the newsletter cover image in action:
 In addition to the newsletter cover image, there are a number of other types of graphics I create and include in my newsletter:
 
 - Branding assets - logo design, about page images, that sort of thing
-- Design Tips - we'll look at these in more detail further on in the article
+- design Tips - we'll look at these in more detail further on in the article
 - UI review screenshots - from when I used to perform a UI review of a website each week
 
 If you're wondering how I manage all these assets, I have a dedicated Figma file called Newsletter Design Assets. Each type of graphic lives on its own page. For example: newsletter screenshots is one page, newsletter cover images is another page and so on.

@@ -2,8 +2,8 @@
 categories:
 - blog
 date: '2020-12-04'
-tag:
-- Book-Notes
+tags:
+- booknotes
 title: Steal Like An Artist by Austin Kleon – Book Notes, Summary, Review
 width: wide
 ---
