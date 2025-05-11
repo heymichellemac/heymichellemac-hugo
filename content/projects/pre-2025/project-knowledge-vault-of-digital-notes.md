@@ -13,8 +13,6 @@ Jumpstart your Knowledge Management System with my hand-crafted vault of literat
 
 I have developed a knowledge vault of hand-crafted-digital literature notes. These notes summarize and synthesize all of the key ideas and concepts discussed in what I’ve read.
 
----
-
 ## Knowledge Vault Of My Digital Notes
 
 Being an active consumer of books and web articles has allowed me to do so much:
@@ -39,8 +37,6 @@ Here are some things you can make use of these notes:
 - Learn about new topics or concepts that you didn’t know about before
 - Find other interesting recommendations for books or articles to read
 
----
-
 ## Here's What You'll Get
 
 ### Topics
@@ -53,9 +49,6 @@ Some of the topics include:
 - UI & UX Design 
 - Web Development
 
-<a href="/assets/images/2021/knowledge-vault.png"><img class="image-article" src="/assets/images/2021/knowledge-vault.png" alt="knowledge vault"></a>
-
-
 ### Book Notes
 Some of the book notes included are: 
 - How To Read A Book
@@ -63,9 +56,6 @@ Some of the book notes included are:
 - Sprint 
 - Steal Like An Artist 
 - The Accidental Creative
-
-<a href="/assets/images/2021/book-note.png"><img class="image-article" src="/assets/images/2021/book-note.png" alt="book notes"></a>
-
 
 ### Article Notes
 Some of the article notes included are: 
@@ -75,12 +65,6 @@ Some of the article notes included are:
 - The Secret Power of ‘Read It Later’ Apps 
 - The Top 3 Most Effective Ways to Take Notes While Reading
 
-
-<a href="/assets/images/2021/article-note.png"><img class="image-article" src="/assets/images/2021/article-note.png" alt="atrticle notes"></a>
-
-
----
-
 ## Get Access To This Now
 
 As my collection of notes grows, I’m planning on increasing the price. So keep that in mind if this sounds interesting to you.
@@ -88,10 +72,6 @@ As my collection of notes grows, I’m planning on increasing the price. So keep
 Once you purchase this digital product, you’ll get sent a link to access these notes in Notion.
 
 Don’t worry, you don’t need a Notion account to access these notes, just a web browser, so it’s super easy.
-
-Please note: due to the nature of this digital product, I don't offer refunds so please keep this in mind before you make your purchase.
-
-By purchasing this product you'll be supporting me and my work as a creator online. 
 
 Thank you! 💕
 

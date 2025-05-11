@@ -34,8 +34,6 @@ Here are the most common examples:
 - Promote your YouTube/Twitch channel
 - Promote your web design service 
 
-![My brainstorm for my Twitter header goal](/assets/images/2022/MXA22016/MXA22016-twitter-header-goals.png)
-
 Once you've picked one strong goal for your Twitter header, it's time to move on to the next step.
 
 ## Step 2: Gather Inspiration From Other Twitter Profiles (15 mins)
@@ -73,8 +71,6 @@ It should go without saying that you don't want to blindly copy and paste the ex
 Instead, you should take inspiration from other designs and make your header your own by changing up the font, layout, color palette, and wording.
 
 For example, most of the graphics I put out online follow the same color palette. Something as simple as this creates a sense of consistency to the point where you see one of my graphics and say hey, that's something from Michelle, I recognize the colors.
-
-![The design for my article cover images all share the same color and layout](/assets/images/2022/MXA22016/article-layouts.png)
 
 There's no need to be super complex with your design either. 
 
@@ -118,5 +114,3 @@ There may be some aspects of the design you can tweak based on feedback. Or mayb
 - Take the bits you like and re-purpose them (30 mins)
 - Test your design on desktop + mobile (5 mins)
 - Share the update with your audience (bonus points)
-
-**Creatorpreneur Tip:** If you want to take this all to the next level, take what you've learned from this article and start a Twitter header design side hustle. You can offer this service to other people on Twitter if you can showcase your ability to design something quickly and effectively.

@@ -18,8 +18,6 @@ Here are the top 5 practices I learned from reading The Bullet Journal Method th
 
 ## Practice 1: Control
 
-![Control](/assets/images/2022/MXA22017/MXA22017-control.excalidraw.png)
-
 Worrying about deadlines, appointments, and tasks can leave you feeling paralyzed.
 
 All this attention residue builds up in your mind if it's not managed properly. Over time this causes fatigue and can even lead to burnout.
@@ -31,8 +29,6 @@ By identifying what's in your control and forgetting about the things you can't 
 This was a powerful mindset shift for me and it's something I remind myself of every day.
 
 ## Practice 2: Endurance
-
-![Endurance](/assets/images/2022/MXA22017/MXA22017-endurance.excalidraw.png)
 
 It can take anywhere from a few months to 10 years + to become "an overnight success" as a creator.
 
@@ -53,8 +49,6 @@ Underneath that, list out all the benefits doing this thing will bring. Will it 
 
 ## Practice 3: Goal Setting
 
-![Goal Setting](/assets/images/2022/MXA22017/MXA22017-goals.excalidraw.png)
-
 Setting goals is important as it allows you to make progress towards things you want to achieve in life.
 
 Whether it's training for a 5k race or learning a new language, goals are a great way to focus you and to help you make progress step by step.
@@ -72,8 +66,6 @@ Break these parts down into small enough chunks that you can work on them each d
 If you'd like more help on goal setting, here's another article I wrote that you'll find useful: [Don’t Get Overwhelmed By Your Goals – Keep It Simple](https://heymichellemac.com/overwhelmed-by-your-goals-keep-it-simple).
 
 ## Practice 4: Kaizen Mindset
-
-![Kaizen Mindset](/assets/images/2022/MXA22017/MXA22017-kaizen.excalidraw.png)
 
 Kaizen is a Japanese word that means "improvement" or "change for better".
 
@@ -98,8 +90,6 @@ These 3 questions will be the most powerful toolkit in your arsenal if you can t
 
 ## Practice 5: Reflection
 
-![Reflection](/assets/images/2022/MXA22017/MXA22017-reflection.excalidraw.png)
-
 As you constantly move from project to project, day to day, it's hard to remember to stop and reflect.
 
 Without taking stock of where you're at right now, you won't learn from your experiences which means you'll make the same mistakes over and over again.
@@ -113,7 +103,7 @@ Depending on what works for you, you can set up the following times for reflecti
 - Quarterly reflection
 - Yearly reflection
 
-I go into more detail about each of these types of reflection in this article: [Why Regular Reflection Can Help You Become More Productive](/regular-reflection)
+I go into more detail about each of these types of reflection in this article: [Why Regular Reflection Can Help You Become More Productive](/blog/2021/04/regular-reflection)
 
 ## TL;DR
 The top 5 practices I learned from reading The Bullet Journal Method that I apply to my life every day:

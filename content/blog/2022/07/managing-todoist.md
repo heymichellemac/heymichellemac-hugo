@@ -37,7 +37,7 @@ If you use Todoist for task management, do yourself a favor and set up the Quick
 
 I learned this tip from this video by Tiago Forte:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uXdEVeoGRRc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube uXdEVeoGRRc >}}
 
 To do this go to your account > Advanced > Quick Add Task. Then set up a keyboard shortcut; in my case, I use Ctrl + Space.
 

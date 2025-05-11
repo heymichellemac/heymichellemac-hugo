@@ -19,8 +19,6 @@ I needed a way to mitigate the worst effects of creative block when it inevitabl
 
 So, I took to Twitter and researched how other creatives overcome their own creative block. I ended up looking at over 100 creatives during this process and **most of them had these 5 tactics in common**:
 
----
-
 ## 1 Go Outside For A Walk In Nature
 
 It's simple and it works; not just for creative block but also for stress and anxiety. 
@@ -29,7 +27,6 @@ There's something about being outside near green trees and grass that does somet
 
 Even if there's no greenery where you are, the act of changing your attention to something else like being outside for 10 - 15 minutes works wonders for unclogging your mind.
 
----
 
 ## 2 Switch To Pen & Paper
 
@@ -39,8 +36,6 @@ Taking a step back and working with pen and paper removes this friction and allo
 
 Once you've figured it out on paper you can go back to your design tool and knock it out.
 
----
-
 ## 3 Take A Break & Work On Something Else
 
 Switching your attention to something less creatively demanding for a while helps to unclog your thinking. 
@@ -48,8 +43,6 @@ Switching your attention to something less creatively demanding for a while help
 It gives your brain time to work in the background while you're doing something else.
 
 When you return to the original creative work, you'll find you have an abundance of ideas that immediately come to mind.
-
----
 
 ## 4  Ask For Advice
 
@@ -59,7 +52,6 @@ For instance, plenty of creatives ask their audience for videos they should make
 
 Or you could share your idea with a coworker to get some advice on how to proceed.
 
----
 
 ## 5 Break Your Routine 
 
@@ -69,7 +61,6 @@ Go to a coffee shop or a library to do your work for a change, work outside for 
 
 This will stimulate your mind and do a fantastic job of getting your creative juices flowing.
 
----
 
 Is there anything particularly original here? 
 

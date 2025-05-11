@@ -19,9 +19,6 @@ All of the hard work of setting up templates and messing around with artboard si
 
 You just need to focus on building your brand and creating eye-catching visuals.
 
-
----
-
 ## Here's What You'll Get
 
 - PDF Getting Started Guide
@@ -32,20 +29,6 @@ You just need to focus on building your brand and creating eye-catching visuals.
 - Twitter Kit - Profile Pic, Header, Post
 - YouTube Kit - Icon, Cover, Video Thumbnail
 
----
-
-## Screenshots
-
-### Branding Kit
-<a href="/assets/images/2021/branding-kit.png"><img class="image-article" src="/assets/images/2021/branding-kit.png" alt="branding kit"></a>
-
-## Facebook Kit
-<a href="/assets/images/2021/facebook-kit.png"><img class="image-article" src="/assets/images/2021/facebook-kit.png" alt="branding kit"></a>
-
-## Twitter Kit
-<a href="/assets/images/2021/twitter-kit.png"><img class="image-article" src="/assets/images/2021/twitter-kit.png" alt="branding kit"></a>
-
----
 
 ## Get Access To This Now
 

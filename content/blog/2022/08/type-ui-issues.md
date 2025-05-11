@@ -15,7 +15,6 @@ I've been building websites for almost 10 years and I come across the same font/
 
 I'll describe what these issues are and show you how to fix them. This will help you to create a better experience for your users which will ultimately increase your conversions.
 
----
 
 ## Issue 1: Long blocks of text
 
@@ -76,7 +75,7 @@ If you're looking for something more customizable to help you understand how eve
 
 Typographic scale could be a whole article in itself but I really like this video as a quick intro/explainer:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ot-5dQG2v5M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube ot-5dQG2v5M >}}
 
 Also, Pokémon cards are an excellent example of good typographic scale: [6 Things Pokémon Cards Will Teach You About Design](/pokemon-cards-teach-design)
 

@@ -24,8 +24,6 @@ What you get when you purchase this is:
 
 Here's the readme to give you a better idea of how each template works:
 
----
-
 ### Low code approach
 
 To edit the links on the page, open `public > index.html` in a code editor (Visual Studio Code, Sublime Text for example.)
@@ -51,11 +49,6 @@ Build the project for prod
 
 Then you can deploy using the same method as above or using your own deployment process.
 
----
-
-I hope you find these templates useful. If you have any feedback for me you can reach me here: [https://pkm.social/@heymichellemac](https://pkm.social/@heymichellemac)
-
----
 
 ## Get Access To This Now
 
