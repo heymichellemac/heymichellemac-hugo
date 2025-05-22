@@ -53,7 +53,7 @@ If you've ever heard of the [Zeigarnik Effect](https://link.springer.com/chapter
 
 Once you've created something tangible from your thoughts, you can easily share this with others to see what they think.
 
-Capture a screenshot of your diagram and share it on Twitter or on the [Obsidian forums](https://forum.obsidian.md/) to talk about your process with others.
+Capture a screenshot of your diagram and share it on social media or on the [Obsidian forums](https://forum.obsidian.md/) to talk about your process with others.
 
 This is a great way to garner feedback from like-minded people and perhaps it will shed some light on things you hadn't thought about before.
 

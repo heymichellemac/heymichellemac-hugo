@@ -12,7 +12,7 @@ If I didn't have a weekly review process I simply wouldn't make consistent progr
 
 I have been doing my weekly review inside of Obsidian for over a year and have found it to be a really helpful process. It gives me the space to look back at the last week and plan for the next week. 
 
-My weekly review process has evolved considerably [since I wrote about it last](https://www.mishacreatrix.com/restarting-the-weekly-review-process). I recently finished the latest revision of my weekly note template so I thought it would be a great time to share it with others who might find it helpful.
+My weekly review process has evolved considerably since I wrote about it last. I recently finished the latest revision of my weekly note template so I thought it would be a great time to share it with others who might find it helpful.
 
 In this article, I share with you my weekly review note in Obsidian. I go through how everything is set up including the code and the plugins I use.
 
@@ -84,8 +84,6 @@ I try not to have too much here. Otherwise, it would be easier for me to procras
 This section is an embed of last week's Reflections section. I find it helpful to look at the previous week to see what has changed and what has stayed the same. This also helps to get me in the right frame of mind for doing my weekly review.
 
 To achieve this, I include a code snippet with Templater code to generate the link to last week's note. 
-
-This honestly works about half the time so if you can think of a better way to achieve this send me a DM on Twitter!!
 
 ---
 

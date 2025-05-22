@@ -32,13 +32,7 @@ Here's an easy rule-of-thumb for creating a color palette:
 • Pick one accent color (buttons, links, important text, headings)
 • Use two or three tints (lighter versions) and shades (darker versions) of the accent color if needed.
 
-Here's what my website looks like (screenshot below). As you can see the only colors used are black, grey, white, pink.
-
-![Simple Color Palette Example](/assets/images/2022/MXB22014/my-website.png)
-
 If you're looking for color inspiration, I recommend checking out the [Trending section of the Coolors website](https://coolors.co/palettes/trending).
-
-If you want to improve your knowledge of color theory or if you just need a refresher, I wrote [a starter guide for color theory](https://www.mishacreatrix.com/color-theory-for-web-designers) you should bookmark and read later.
 
 ---
 
@@ -94,7 +88,7 @@ Limit your call to action to 1 thing and consider how you can simplify things li
 
 ![Headings and sub-headings are important](/assets/images/2022/MXB22014/hierarchy.png)
 
-You may have seen this image or one like it floating around on Twitter or other design-related forums. 
+You may have seen this image or one like it floating around on social media or other design-related forums. 
 
 It shows the importance of your headline and sub-headline. These are the things your eye is immediately drawn to when looking at a web page.
 

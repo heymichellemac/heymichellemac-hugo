@@ -76,7 +76,7 @@ This convention has become second nature to me now that I automatically type in 
 I can also add a link as I write with the following syntax:
 
 ```
-[Mishacreatrix.com](http://mishacreatrix.com)
+[Heymichellemac Website](http://heymichellemac.com)
 ```
 
 Again, this is something that is second nature to me.

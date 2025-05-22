@@ -32,7 +32,7 @@ I have the following tags:
 
 These serve as the main buckets or topics I talk about most often. My niche if you will. 
 
-Milestone is slightly different. It denotes various markers I want to celebrate like hitting 500 Twitter followers or growing my Medium following.
+Milestone is slightly different. It denotes various markers I want to celebrate.
 
 Then I have categories:
 

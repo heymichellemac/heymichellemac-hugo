@@ -114,7 +114,7 @@ Plus, you'll be guaranteed some feedback on how your ideas could be improved whi
 
 The book that inspired me to write this article is Steal Like An Artist by Austin Kleon. This book really resonated with me and I took a lot of great points away from reading it.
 
-If you'd like to see all of the insights I uncovered from reading this book, you can check out my book notes here: [Steal Like An Artist by Austin Kleon – Book Notes, Summary, Review](/steal-like-an-artist-austin-kleon/)
+If you'd like to see all of the insights I uncovered from reading this book, you can check out my book notes here: [Steal Like An Artist by Austin Kleon – Book Notes, Summary, Review](/blog/2020/book-steal-like-an-artist/).
 
 ---
 

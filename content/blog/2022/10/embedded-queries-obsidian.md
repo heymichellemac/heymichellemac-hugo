@@ -94,11 +94,7 @@ This note contains a list of articles I want to/am writing. As you can see from 
 
 ![Content Creation Hub Note](/assets/images/2022/MXA22020/content-creation-hub.png)
 
-If you need some help using the Obsidian search operators, I made a helpful cheat sheet you can view and download over on Twitter:
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Now that I&#39;m using embedded search queries a lot more in <a href="https://twitter.com/obsdmd?ref_src=twsrc%5Etfw">@obsdmd</a> I needed to get to grips with the search operators so I made a handy cheat sheet to help me out.<br><br>Including it here incase it helps anyone else out 👇<br><br>Of course there&#39;s a light and dark mode option 😅 <a href="https://t.co/0ERnkPOxBx">pic.twitter.com/0ERnkPOxBx</a></p>&mdash; Michelle Mac (@heymichellemac) <a href="https://twitter.com/heymichellemac/status/1585980871248867328?ref_src=twsrc%5Etfw">October 28, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-Or you can download and modify [the Figma file here](https://www.figma.com/community/file/1168867974967146879).
+If you need some help using the Obsidian search operators, I made a helpful cheat sheet you can download and modify [in Figma](https://www.figma.com/community/file/1168867974967146879).
 
 ### 3 - List of Articles To Include In My Weekly Newsletter
 
@@ -136,6 +132,4 @@ So far, I've found that anywhere I have used Dataview previously I can replace i
 
 This approach may not be for everyone but I wanted to share it in the hopes that other people will find it helpful 😄
 
-P.S. If you need some help using the Obsidian search operators, I made a helpful cheat sheet you can view and download [over on Twitter](https://twitter.com/heymichellemac/status/1585980871248867328).
-
-Or you can download and modify [the Figma file here](https://www.figma.com/community/file/1168867974967146879).
+P.S. If you need some help using the Obsidian search operators, I made a helpful cheat sheet you can view and download [on Figma](https://www.figma.com/community/file/1168867974967146879).

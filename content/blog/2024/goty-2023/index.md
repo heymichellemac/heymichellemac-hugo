@@ -45,6 +45,4 @@ The best games I played in 2023 that were also released in 2023.
 
 ## My PlayStation Wrapped for 2023
 
-<!-- ![My PlayStation Wrapped for 2023](playstation-wrapped-2023.jpg) -->
-
 {{< images src="playstation-wrapped-2023.jpg" alt="My PlayStation Wrapped for 2023" caption="My PlayStation Wrapped for 2023" >}}

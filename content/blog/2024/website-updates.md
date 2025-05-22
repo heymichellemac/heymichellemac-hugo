@@ -26,6 +26,4 @@ Some fun things I've been working on:
 
 In addition to all this, open source and the idea of niche creators that aren't SEO and click-bait focused are things that are top of mind for me as I consume content and create web projects.
 
-[Mastodon](https://pkm.social/@heymichellemac) for my social media fix, [Omnivore](https://omnivore.app) for my read-it-later service, and I just discovered [Feedle](https://feedle.world/) for discovering new creators.
-
 A lot has changed but what will always stay the same is this: my website will continue to change and evolve and grow with me over time.

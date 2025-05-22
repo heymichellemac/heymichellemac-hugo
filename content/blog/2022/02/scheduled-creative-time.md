@@ -22,13 +22,11 @@ Here's what I learned about the process, about how I work, and my key takeaways 
 
 ## Background - What Is Scheduled Creative Time And Why Should I Care?
 
-The idea of scheduled creative time as I learned about from [The Accidental Creative](https://www.mishacreatrix.com/accidental-creative-todd-henry) is where you set aside dedicated time each week for the sole purpose of creating.
+The idea of scheduled creative time as I learned about from The Accidental Creative is where you set aside dedicated time each week for the sole purpose of creating.
 
 The reason this works is a regular practice of creation will exercise your brain's creative muscles. So, when it comes time to put together that mockup or presentation you have the creative mojo to produce something great.
 
 Having an outlet like this for your creativity is a great way to try new things and see where your curiosity leads you.
-
-If you want to learn more about how to establish a scheduled creativity routine, I wrote an article you can check out here: [Why You Should Schedule Time For Creativity](https://www.mishacreatrix.com/schedule-time-for-creativity).
 
 ---
 
@@ -40,7 +38,7 @@ Here's what I did to prepare:
 
 - I decided on a day to do this: Friday mornings.
 - I identified and removed any potential bottlenecks that would prevent me from doing this.
-- I created a rough list of things to work on during this time. I took a look at my [projects list in Obsidian](https://www.mishacreatrix.com/obsidian-setup-sep-2021#04-projects) for some inspiration here.
+- I created a rough list of things to work on during this time. I took a look at my projects list in Obsidian for some inspiration here.
 
 ---
 

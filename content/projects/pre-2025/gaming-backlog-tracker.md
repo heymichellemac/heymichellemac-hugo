@@ -29,7 +29,7 @@ Some things I'd like to experiment with adding in the near future:
 
 - Adding PS3 games to the list.
 - More automation to update the list more automatically.
-- Experiment with web scraping a bit more to be able to pull trophy data from PSN profiles (if you have any advice on this part please [send me a message on Twitter](https://twitter.com/heymichellemac)).
+- Experiment with web scraping a bit more to be able to pull trophy data from PSN profiles.
 
 <div class="flex pt-4">
 <a style="text-decoration:none;" href="https://backlog.heymichellemac.com" class="flex items-center bg-pink-500 px-4 py-2 rounded-md font-medium text-white shadow-md transition-all border-2 border-pink-500 hover:border-white" target="_blank" rel="noopener noreferrer">

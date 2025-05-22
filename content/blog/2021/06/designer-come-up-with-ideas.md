@@ -39,7 +39,7 @@ By building a resource of inspiration, you have a go-to place when you feel like
 
 ## #2 Take Different Concepts And Remix Them
 
-Here's a book recommendation if you're any kind of creator: [Steal Like An Artist by Austin Kleon](/steal-like-an-artist-austin-kleon/).
+Here's a book recommendation if you're any kind of creator: [Steal Like An Artist by Austin Kleon](/blog/2020/book-steal-like-an-artist/).
 
 The most important thing I learned from reading this book is that nothing is truly original.
 
@@ -67,7 +67,7 @@ From conversations with friends, something you think about on a long walk, an ob
 
 A great way to come up with new ideas is to look outside of your discipline for inspiration.
 
-In his book, [The Design Of Everyday Things](https://amzn.to/3i9oDHI), Don Norman talks about the usability of doors, kettles, and sinks. 
+In his book, The Design Of Everyday Things, Don Norman talks about the usability of doors, kettles, and sinks. 
 
 While this all fits inside of the realm of usability, it's outside of the discipline of UI Design. 
 

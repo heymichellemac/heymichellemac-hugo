@@ -64,7 +64,7 @@ Here's how it works:
 
 >"The next time you're watching a TV show or listening to a podcast, write down 10 things you want to research deeper on that were mentioned in the episode. This could be something directly quoted by a person on the series or mentioned passively. The purpose of the exercise is to generate ideas to forward thinking."
 
-If you can take the most interesting aspects of different things from the world around you, you'll have an endless supply of inspiration and ideas. I realize this isn't a new concept and if you've read [Steal Like An Artist](https://heymichellemac.com/steal-like-an-artist-austin-kleon) you'll have heard this concept before.
+If you can take the most interesting aspects of different things from the world around you, you'll have an endless supply of inspiration and ideas. I realize this isn't a new concept and if you've read [Steal Like An Artist by Austin Kleon](/blog/2020/book-steal-like-an-artist/) you'll have heard this concept before.
 
 For me though, I found this concept hard to internalize. 
 

@@ -121,5 +121,3 @@ Adopt the creator's philosophy of "create once use many times" and you'll get mo
 Your job as a creator is to collect ideas and connect them to form new ones that serve as blog articles, videos, or podcasts.
 
 There are lots of ways to repurpose your content into different mediums so get creative and see where you end up!
-
-If you enjoyed reading this article or have anything you want to add, reach out to me over on Twitter.

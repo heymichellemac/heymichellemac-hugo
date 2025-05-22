@@ -14,7 +14,7 @@ I recently watched the [Pamela Anderson documentary on Netflix](https://www.netf
 
 I've also been reading a lot of [Austin Kleon's](https://austinkleon.com/) work recently. He keeps all his diaries on a shelf in his office. When he's stuck for inspiration or what to write, he opens an old diary to a random page and starts reading. See: [The days stack up - Austin Kleon](https://austinkleon.com/2019/04/21/the-days-stack-up/).
 
-Austin also [wrote a piece](https://austinkleon.com/2021/05/20/indexing-filing-systems-and-the-art-of-finding-what-you-have/) about comedians like Joan Rivers keeping all the jokes they'd written in big filing cabinets to use as a reference. If you've ever read [How To Take Smart Notes](https://heymichellemac.com/how-to-take-smart-notes-sonke-ahrens) the filing cabinets will likely remind you a lot of the [Zettelkasten system](https://zettelkasten.de/introduction/).
+Austin also [wrote a piece](https://austinkleon.com/2021/05/20/indexing-filing-systems-and-the-art-of-finding-what-you-have/) about comedians like Joan Rivers keeping all the jokes they'd written in big filing cabinets to use as a reference. If you've ever read How To Take Smart Notes the filing cabinets will likely remind you a lot of the [Zettelkasten system](https://zettelkasten.de/introduction/).
 
 The urge to document has always been strong in me too. I used to keep diaries from a young age and write in them every day. 
 
@@ -24,7 +24,7 @@ I suppose the reason is I felt like they weren't good or weren't important enoug
 
 Now that I've restarted a daily journal practice I wonder if I'll face the same decision when I've filled up my current journal. Is any of this work holding on to or should I throw this away?
 
-As I flick through my [Pink Leuchtterm 1917 Bujo](https://amzn.to/3motdZz) (from the time I got really into bullet journaling), I realize it's a time capsule from the time of the height of the pandemic.
+As I flick through my Pink Leuchtterm 1917 Bujo (from the time I got really into bullet journaling), I realize it's a time capsule from the time of the height of the pandemic.
 
 {{< images src="my-bujo.jpg" alt="My bullet journal - now my diary/journal" caption="My bullet journal - now my diary/journal" >}}
 

@@ -48,7 +48,7 @@ I'm not sure if this is true for me.
 
 I have started to look through my vault of over 1000 notes to see what actually holds value for me. Do my notes "spark joy", as Marie Kondo would say? (Yes that's a corny reference at this point but it's still suitable here!)
 
-One of my Evergreen notes is [[PEEL technique for persuasive writing]]. I captured this note when reading the article [[{a} Persuasive Writing Techniques - A Step-By-Step Approach]]. Honestly, I haven't looked at it since nor do I find the information in any way useful for what I'm currently working on.
+One of my Evergreen notes is `[[PEEL technique for persuasive writing]]`. I captured this note when reading the article `[[{a} Persuasive Writing Techniques - A Step-By-Step Approach]]`. Honestly, I haven't looked at it since nor do I find the information in any way useful for what I'm currently working on.
 
 If the goal of a notes system is learning, idea generation, and content creation, this note isn't accomplishing any of those things for me. That's not to say this information isn't useful to someone, just not for me and my current interests.
 

@@ -163,7 +163,7 @@ Let's examine the most popular colors in web design and what feelings and emotio
 - The use of blue can create a sense of order.
 - Research has found blue to be the most popular color used in design for education.
 - Lots of professional companies choose blues not only in their websites but in their logos also.
-- Think about it: Facebook, Twitter, LinkedIn, Skype, Behance, Mashable.
+- Think about it: Facebook, LinkedIn, Behance, Mashable.
 - What do all of these have in common? The color blue!
 
 ### Green

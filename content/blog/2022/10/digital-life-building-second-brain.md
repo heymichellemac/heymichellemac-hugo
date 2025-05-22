@@ -72,8 +72,6 @@ I can then move my notes into Obsidian, my longer-term storage system, as needed
 
 Now I don't have to think about where something goes, I just clip it into Notion to process later.
 
-Here's my system if you're looking for ways to optimize your own: [Here's How To Get Your Bookmarks Out Of Twitter And Actually Use Them](https://heymichellemac.com/twitter-bookmarks)
-
 ## Way 4: My new mantra for note-taking is "how can I make this as useful as possible for my future self?"
 
 ![Way 4](/assets/images/2022/MXA22019/4.png)

@@ -21,7 +21,7 @@ So, if you're interested to learn what Pokémon cards will teach you about desig
 
 Color is used to convey the Pokémon type. 
 
-I'm going to assume you have some level of knowledge of Pokémon and you know about types of Pokémon and their strengths and weaknesses. If this is completely new to you, here's a resource you can check out: [Pokémon Types & Type Chart](https://Pokémondb.net/type). 
+I'm going to assume you have some level of knowledge of Pokémon and you know about types of Pokémon and their strengths and weaknesses. 
 
 As a very high level overview, Pokémon are assigned a certain type (fire, water, normal etc) and each type can have strengths and weaknesses.
 

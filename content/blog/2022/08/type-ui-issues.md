@@ -88,9 +88,6 @@ Also, Pokémon cards are an excellent example of good typographic scale: [6 Thin
 There are too many visually different fonts used on the web page. 
 
 ### Why This Is An Issue
-Need a quick refresher on fonts?
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Typography Essentials <a href="https://t.co/ooN1LqTuDD">pic.twitter.com/ooN1LqTuDD</a></p>&mdash; Michelle Mac (@heymichellemac) <a href="https://twitter.com/heymichellemac/status/1392421929911472131?ref_src=twsrc%5Etfw">May 12, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Using too many different font families on a web page increases the user's cognitive load (the amount of brain power required to understand and effectively interact with the web page).
 

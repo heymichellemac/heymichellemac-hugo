@@ -52,7 +52,7 @@ Author: Austin Kleon
 2. Garbage in, garbage out. It is up to you to consume interesting and high-quality content as this will shape what you create.
 3. Use a blog as an incubator for great ideas. There are people that will find this content motivating and useful.
 
-Want to learn more: [here are my book notes](/steal-like-an-artist-austin-kleon/)
+Want to learn more: [here are my book notes](/blog/2020/book-steal-like-an-artist/)
 
 ---
 
@@ -151,11 +151,3 @@ Author: Sönke Ahrens
 3. Creating a system that is organized for easy content retrieval will help you to achieve the "mind like water" that David Allen talks about in [Getting Things Done](/getting-things-done-david-allen/).
 
 Want to learn more: [here are my book notes](/how-to-take-smart-notes-sonke-ahrens/)
-
----
-
-If you enjoyed this article, please consider sharing it with someone else who might find it useful 🤗
-
-P.S. This article started out as a thread on Twitter:
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">There are over 70,000 books for creatives on Amazon 📚<br><br>That&#39;s more than you could read in a lifetime 🤯<br><br>Here are the top 7 books for creatives I recommend to save you some time 😉<br><br>🧵 <a href="https://t.co/hPPLBhke5Y">pic.twitter.com/hPPLBhke5Y</a></p>&mdash; Michelle The Creative 💎 (@MishaCreatrix) <a href="https://twitter.com/MishaCreatrix/status/1488899021225660418?ref_src=twsrc%5Etfw">February 2, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

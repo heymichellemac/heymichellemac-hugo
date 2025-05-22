@@ -74,7 +74,7 @@ Seriously, read that again: **there are no new ideas**.
 
 Understand this and you'll be able to concentrate on building great designs. You'll be free from the burden of producing something new every time.
 
-Don't believe me? Well, the heading for this section came from a book I read called [Steal Like An Artist by Austin Kleon.](https://mishacreatrix.com/steal-like-an-artist-austin-kleon/)
+Don't believe me? Well, the heading for this section came from a book I read called [Steal Like An Artist by Austin Kleon](/blog/2020/book-steal-like-an-artist/)
 
 If you've read some of my articles before you'll see this book referenced all over the place. It truly changed the way I think about my creativity.
 
@@ -136,12 +136,6 @@ The nitty-gritty details of the inspiration repository are up to you to develop 
 Now that you have a stacked inspiration repository, the next step is to practice your design skills regularly.
 
 Remember, if you don't work your creativity muscles , they will shrink!
-
-Here are some practices I recommend to keep your skills fresh:
-
-- [Design Challenges](https://twitter.com/MishaCreatrix/status/1420850628176359436)
-- [Schedule Time For Creativity](https://www.mishacreatrix.com/schedule-time-for-creativity)
-- [Schedule Time For Weekly Idea Generation](https://www.mishacreatrix.com/designer-come-up-with-ideas#5-schedule-time-for-weekly-idea-generation)
 
 ---
 

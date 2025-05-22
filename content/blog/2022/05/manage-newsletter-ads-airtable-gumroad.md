@@ -124,7 +124,7 @@ I ensured the product URL was clear, created a cover image and thumbnail, and se
 
 The final step was to include the URL to the Design Insight Ad Spot form in the Content section of the product listing. To do this I put the URL into a text file and uploaded that to Gumroad. This allows me to add a short message after the purchase to thank the user for buying an ad spot.
 
-I hit publish and then viewed the new listing to make sure everything looked good including the Airtable embed. You can see the live Gumroad listing here: [Design Insight - Ad Spot](https://heymichellemac.gumroad.com/l/design-insight-ad).
+I hit publish and then viewed the new listing to make sure everything looked good including the Airtable embed.
 
 ---
 

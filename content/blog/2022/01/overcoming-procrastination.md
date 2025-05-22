@@ -10,7 +10,7 @@ width: wide
 
 Procrastination can strike at any time. 
 
-Whether it's [staring at a blank page](https://www.mishacreatrix.com/blank-page-as-a-creator) first thing in the morning or drinking a third cup of coffee to face organizing your emails at 3 pm, the urge to procrastinate is always hiding. It's our lizard brain in action trying to keep us on the easiest path possible.
+Whether it's staring at a blank page first thing in the morning or drinking a third cup of coffee to face organizing your emails at 3 pm, the urge to procrastinate is always hiding. It's our lizard brain in action trying to keep us on the easiest path possible.
 
 The result of procrastination is that your work doesn't get done. 
 
@@ -30,7 +30,7 @@ Here are some things to try if a task is boring:
 
 - Go someplace else to do your work. Go outside, go to a nearby Café, or literally just go to a different room in your house.
 - Listen to music. If the task doesn't need your full concentration, play a Lo-fi playlist on Spotify and bop along (here's what I listen to: [Pokemon Lofi](https://open.spotify.com/playlist/59OrkYvGv0oM1KgPABU7nw?si=58639f8162ed4cd5) ).
-- [Task batching](https://mishacreatrix.com/task-batching-accelerate-your-productivity/) - Group a lot of small "boring" tasks together and work on them in one go.
+- Task batching- Group a lot of small "boring" tasks together and work on them in one go.
 
 ---
 
@@ -53,9 +53,8 @@ A task can be frustrating for lots of reasons. For me, it's when I don't know wh
 With all that in mind, here are some things to try:
 
 - Try gamifying your work - there are lots of fun to-do lists like [Habitica](https://habitica.com/) that make tracking and completing tasks much more enjoyable.
-- Use the Pomodoro Technique to block out your work sessions. I wrote about how I use this technique to write more articles here: [My Writing Workflow For Content Creation](https://www.mishacreatrix.com/writing-workflow-Creation).
-- Take steps to alleviate your frustration. If it's not getting clarity from your boss, send them a message. If you're working with someone challenging that might be a bigger rabbit hole but here's an article that might help: [10 Tips for Dealing With Difficult People at Work](https://www.thebalancecareers.com/dealing-with-difficult-people-at-work-1917903)
-
+- Use the Pomodoro Technique to block out your work sessions. 
+- Take steps to alleviate your frustration. If it's not getting clarity from your boss, send them a message.
 
 ---
 
@@ -105,6 +104,6 @@ Make a boring task more exciting, make an unstructured task more structured, etc
 
 Before we finish, here's a little bit of homework for you. I highly recommend making your own list of procrastination triggers and techniques you can apply to overcome them. This would be a great resource to have the next time you feel the urge to procrastinate.
 
-Most of what I learned to write this article came from the book: [The Productivity Project by Chris Bailey](https://www.mishacreatrix.com/productivity-project-chris-bailey). I highly recommend this book if you're totally new to productivity (after you read [Getting Things Done](https://www.mishacreatrix.com/getting-things-done-david-allen) of course - you should read that first).
+Most of what I learned to write this article came from the book: The Productivity Project by Chris Bailey. I highly recommend this book if you're totally new to productivity (after you read Getting Things Done of course - you should read that first).
 
 This article started life as a Twitter thread which you can find here: [Original Thread](https://twitter.com/MishaCreatrix/status/1441115652987576321)

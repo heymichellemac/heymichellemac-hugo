@@ -58,7 +58,7 @@ These lists are populated with the Dataview plugin.
 
 ![Things I'm Creating](/assets/images/2022/MXB22002/4-creating.png)
 
-The Things I'm Creating section is where I manage my content creation. This includes articles for my blog, upcoming editions of Design Insight (my newsletter), and Twitter thread ideas.
+The Things I'm Creating section is where I manage my content creation. This includes articles for my blog, and upcoming editions of Design Insight (my newsletter).
 
 #### Article Ideas
 
@@ -80,22 +80,6 @@ I usually try to prepare the newsletter at least 2-3 weeks in advance even if I 
 
 This list is generated using the Dataview plugin.
 
-#### Twitter Thread Ideas
-
-This is a list of Twitter thread ideas I would like to create. 
-
-As Ideas come to me for great threads to write I add them to my daily log. I then process them into the Twitter Thread Ideas bucket at the end of the day so they're all nice and organized.
-
-Again, by having the list right in front of me, there's less friction to getting started so I'm more likely to start writing.
-
-This list is generated using the Dataview plugin.
-
-Underneath the list is a button that opens a note in Obsidian. This note contains useful info for my social media content creation strategies like useful links and resources.
-
-If you'd be interested to get this useful info. as a swipe file just let me know over on Twitter 😄
-
-This button is created with the Buttons plugin and styled with some custom CSS.
-
 ### 👩‍💻 Things I'm Consuming
 
 ![Things I'm Consuming](/assets/images/2022/MXB22002/5-consuming.png)
@@ -104,13 +88,13 @@ Process Notion Inbox - this button opens up Notion to my Inbox page.
 
 This reminds me to process my inbox each day which keeps things organized. 
 
-Here's why I love the inbox system so much: [Using Inboxes To Manage Your Thoughts And Ideas](https://www.mishacreatrix.com/inboxes-to-manage-thoughts-and-ideas)
+Here's why I love the inbox system so much: [Using Inboxes To Manage Your Thoughts And Ideas](/blog/2021/03/inboxes)
 
 This button is created with the Buttons plugin and styled with some custom CSS.
 
 Open Notion Library - this button opens up Notion to my Library page. Notion is where the first iteration of my content consumption happens.
 
-I wrote more about that process here: [Notion Library Tour - How I Capture Knowledge On What I Watch & Read](https://www.mishacreatrix.com/notion-library-tour)
+I wrote more about that process here: [Notion Library Tour - How I Capture Knowledge On What I Watch & Read](/blog/2020/notion-library-tour)
 
 This button is created with the Buttons plugin and styled with some custom CSS.
 
@@ -122,7 +106,7 @@ This button is created with the Buttons plugin and styled with some custom CSS.
 
 This section contains a list of in progress literature notes. It helps me to keep on top of my content consumption and ensures I get the most value out of my notes.
 
-All my literature notes eventually end up in [My Knowledge Vault Of Digital Notes](https://www.mishacreatrix.com/knowledge-vault-digital-notes) which is available to buy so it's important to me that I'm always topping it up with more valuable entries.
+All my literature notes eventually end up in My Knowledge Vault Of Digital Notes which is available to buy so it's important to me that I'm always topping it up with more valuable entries.
 
 This list is generated using the Dataview plugin. 
 
@@ -142,7 +126,7 @@ OK so now we've covered the 'front-end' or end result of the Daily Notes templat
 
 Something important to note is the Dataview code snippets in particular are catered towards my personal Obsidian vault setup. 
 
-If you'd like to see more about how it all works in detail here's the article you should read: [A Walkthrough Of My Obsidian Setup](https://www.mishacreatrix.com/obsidian-setup-sep-2021).
+If you'd like to see more about how it all works in detail here's the article you should read: [A Walkthrough Of My Obsidian Setup](/blog/2021/09/obsidian-setup).
 
 Hold onto your hats, this will be fun!
 
@@ -240,19 +224,6 @@ This is the Dataview code used to retrieve files in the "05-Creation/03-newslett
 ```
 list
 from "05-Creation/03-newsletter" and #inprogress  
-sort file.name asc
-Limit 5
-```
-
-#### Twitter Thread Ideas
-
-This is the Dataview code used to retrieve files in the "05-Creation/02-social-media/thread-ideas" directory that have the label # towrite. I've limited the results to 5 so I don't get overwhelmed with ideas:
-
-![Twitter Thread Ideas](/assets/images/2022/MXB22002/13-thread.png)
-
-```
-list
-from "05-Creation/02-social-media/thread-ideas" and #towrite  
 sort file.name asc
 Limit 5
 ```
@@ -396,7 +367,3 @@ You can read more about adding CSS in Obsidian here: [Customizing CSS](https://h
 - Try lots of plugins and see what works for you. I went through between 10 and 20 plugins throughout the course of this process to end up with the ones I currently use. I would never have thought to use Templater for instance without actually trying it out for myself.
 - Instead of directly copying a workflow or implementation, think about what would work for you, then implement that approach. This will give you a custom system tailored to you which you'll be more likely to continue using.
 - Things won't be perfect right off the bat. I'm prepared for this system to evolve as I continue to use it which is really exciting to think about. As I explore new techniques and stop following older ones this Daily Note process will continue to change.
-
-I hope you found this article useful and you learned something from it. If you did, please consider sharing it on Twitter so others can find it 😊
-
-If you want to read more about Obsidian and Knowledge Management in general, there are some related articles below 👇

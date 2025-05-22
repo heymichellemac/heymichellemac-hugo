@@ -130,8 +130,6 @@ I don't store the fully written blog article here, that's in another system, but
 
 I also store my content creation checklist on each note so I can work through my content creation process for each article.
 
-If you'd like to learn more about my Content Creation process as it exists in Notion, you can purchase my Notion templates pack here: [Notion Templates Pack - Gumroad](https://gum.co/notion-templates)
-
 ### Resources
 
 The resources directory is used to store notes that aren't literature or evergreen notes.

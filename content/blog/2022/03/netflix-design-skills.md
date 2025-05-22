@@ -76,7 +76,3 @@ Over time and with continued practice, you'll be able to create brand new design
 ## Consider other mediums
 
 This exercise doesn't just have to apply to Netflix. Consider what other mediums you could take inspiration from: book covers, music artwork, video game box art. Any design medium that interests you will work perfectly.
-
-If you enjoyed this article, please consider sharing it with someone else who might find it useful 🤗
-
-This article started out as a Twitter thread which you can check out here: [Original Twitter Thread](https://twitter.com/MishaCreatrix/status/1429834068930097154)

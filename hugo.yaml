@@ -51,20 +51,17 @@ params:
   theme:
     default: system
     displayToggle: true
-    
   navbar:
     displayTitle: true
     displayLogo: false
-
   footer:
     displayCopyright: true
     displayPoweredBy: false
-
   editURL:
     enable: false
-
   displayUpdatedDate: true
   dateFormat: "January 2, 2006"
+  favicon: /favicon.ico
 
   blog:
     list:

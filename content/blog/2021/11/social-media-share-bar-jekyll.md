@@ -98,5 +98,3 @@ Also, be sure to test each button for yourself to make sure it works as you expe
 ## Conclusion
 
 I hope you found this article helpful and you were able to follow along and add a social media share bar to your own Jekyll website.
-
-If you learned something from this article and want to read more about Jekyll, I've written a number of other Jekyll-related articles below that you should check out:

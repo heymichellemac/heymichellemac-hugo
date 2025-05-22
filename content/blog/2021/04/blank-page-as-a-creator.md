@@ -158,8 +158,8 @@ There is a tremendous value associated with creating and sharing your ideas and 
 
 If you're struggling to get started doing this or if you're a little unsure about putting yourself out there, I would recommend reading these books by Austin Kleon:
 
-- [Show Your Work by Austin Kleon](/show-your-work-austin-kleon/)
-- [Steal Like An Artist by Austin Kleon](/steal-like-an-artist-austin-kleon/) 
+- [Show Your Work by Austin Kleon](/blog/2020/book-show-your-work/)
+- [Steal Like An Artist by Austin Kleon](/blog/2020/book-steal-like-an-artist/)
 
 Many people including YouTuber [Ali Abdaal](https://aliabdaal.com/) credit these books with providing them the motivation to go out and create a presence online.
 

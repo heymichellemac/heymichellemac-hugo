@@ -141,7 +141,7 @@ Anyway, some recurring tasks I have are:
 - My weekly review, every Friday
 - Publish my newsletter every Friday
 - Fill out my budget every month
-- Review my Twitter + Medium stats every month
+- Review my stats every month
 - My quarterly review, every quarter
 
 ## Someday/Maybe

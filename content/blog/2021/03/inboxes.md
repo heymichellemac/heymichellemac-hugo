@@ -80,7 +80,7 @@ Another place I track my thoughts throughout the day is in my Bullet Journal.
 
 I follow a fairly traditional Bullet Journal setup so my daily log acts as a capture system that I can review at the end of each day.
 
-If you want to learn more about the Bullet Journal, I highly recommend you read [The Bullet Journal Method by Ryder Carrol](https://amzn.to/3g6FtoZ) or you can check out my book notes: [The Bullet Journal Method by Ryder Carrol - Book Notes, Summary, Review](/bullet-journal-method-ryder-carroll/).
+If you want to learn more about the Bullet Journal, I highly recommend you read The Bullet Journal Method by Ryder Carrol.
 
 ### Inbox 3: Notion
 

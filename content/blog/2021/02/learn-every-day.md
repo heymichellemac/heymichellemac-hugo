@@ -98,7 +98,7 @@ Now I have them all over the house and can solve them in under 2 minutes pretty 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DDqh8DZjf-4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-With all of that being said, the inspiration for this article came from reading the book [Steal Like An Artist by Austin Kleon](steal-like-an-artist-austin-kleon/). 
+With all of that being said, the inspiration for this article came from reading the book [Steal Like An Artist by Austin Kleon](/blog/2020/book-steal-like-an-artist/). 
 
 In the book, the author encourages the reader to be curious and willing to learn new things. 
 

@@ -48,7 +48,7 @@ However, when you click on these links, they open in the same tab.
 To add the target and rel attributes you need to add the following:
 
 ```markdown
-[Mishacreatrix Website](https://mishacreatrix.com/)
+[Mishacreatrix Website](https://heymichellemac.com/)
 ```
 
 This will give you links that open in a new tab.

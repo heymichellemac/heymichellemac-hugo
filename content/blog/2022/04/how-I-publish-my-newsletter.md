@@ -49,7 +49,7 @@ If you want to see how the Library Notion dashboard works, I wrote an article de
 
 Essentially the Library is my hub for content consumption. 
 
-Any interesting articles, videos, or podcasts I save to read later end up in here for processing. I find this content from other newsletters, Twitter, Medium, and general online browsing.
+Any interesting articles, videos, or podcasts I save to read later end up in here for processing. I find this content from other newsletters, social media, Medium, and general online browsing.
 
 The output of my content consumption practice is [My Knowledge Vault of Digital Notes](/knowledge-vault-digital-notes) digital product which you may already be familiar with.
 
@@ -59,7 +59,7 @@ I'm essentially repurposing the work I already do for my Knowledge Vault and fun
 
 Each edition of Design Insight has 2 tools or resources relevant to the world of design, productivity, or creativity.
 
-I find useful tools and resources pretty frequently from scrolling through my Twitter timeline. I'm lucky enough to be connected with some talented creators who are building really useful things so I'm happy to promote them in my newsletter.
+I find useful tools and resources pretty often from scrolling through social media. I'm lucky enough to be connected with some talented creators who are building really useful things so I'm happy to promote them in my newsletter.
 
 Other places I find useful tools and resources include other newsletters and general online browsing.
 
@@ -73,7 +73,7 @@ Each edition of Design Insight has 1 design tip.
 
 I try to find practical and useful design tips that people can learn from each week. It might be something you never thought to try before or something you know but probably could be better at practicing.
 
-Right now I find design tips through Twitter. 
+Right now I find design tips through social media. 
 
 I save useful tips to my bookmarks then at the end of each week export those into an Obsidian file entitled "Design Tips". 
 
@@ -141,13 +141,7 @@ I schedule the newsletter for Friday at 5 pm GMT and everything is ready to go!
 
 ## Post-Publishing
 
-After hitting schedule, I create a tweet about this week's edition to get people hyped up.
-
-I try to vary this tweet each week but it generally gives you a sneak peek about what you'll find in this week's Design Insight.
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">What you&#39;ll learn in this week&#39;s Design Insight:<br><br>• How to generate more ideas<br>• Cognitive bias and the design process<br>• Chaos in product design<br>• A free tool for recoloring SVG images<br>• Battle to see who knows their typefaces better<br><br>👇👇 <a href="https://t.co/FcEbGDdB6z">pic.twitter.com/FcEbGDdB6z</a></p>&mdash; Michelle (38/100) (@MishaCreatrix) <a href="https://twitter.com/MishaCreatrix/status/1513637187232837632?ref_src=twsrc%5Etfw">April 11, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-Once that's done, I update the [Design Insight Tools + Resources](/design-insight-tools) digital product with the current resources. This resource gives people a way to access everything I mention in Design Insight in one place.
+After hitting schedule, I update the [Design Insight Tools + Resources](/design-insight-tools) digital product with the current resources. This resource gives people a way to access everything I mention in Design Insight in one place.
 
 ---
 
@@ -156,7 +150,6 @@ Once that's done, I update the [Design Insight Tools + Resources](/design-insigh
 - I have published an edition of Design Insight every week for the last 49 weeks with this system, so I must be doing something right :P
 - Content curation is an enjoyable process for me because I have a trusted system in place to manage everything. I use Notion to manage my Library of content to consume.
 - Work smarter not harder. I was already curating content for another digital product so it wasn't much more work to repurpose that work for my newsletter.
-- Twitter is a great network to find things worth amplifying in a newsletter. I'm convinced you could just use Twitter to curate content for your newsletter.
 - Having a standardized newsletter format allows me to use a template that speeds up my workflow.
 - Batching multiple editions at once has been a game-changer for my level of output. 
 - A tip I learned from [Dylan @growthcurrency](https://twitter.com/growthcurrency) early on in my newsletter journey is to have the URL of the newsletter denote the edition. For instance, this week's edition will be https://designinsight.substack.com/p/050. This is much simpler than having the URL default to the title.

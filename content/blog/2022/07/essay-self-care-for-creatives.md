@@ -16,7 +16,7 @@ So I'm writing this to my future self as much as I'm writing to you, dear reader
 
 ## Signs Of Burnout
 
-1. **Always trying to fill your mental space with something**.  You can't just watch TV, you have to also be scrolling Twitter. You can't just sit an enjoy a cup of coffee, you also have to listen to a podcast or watch a video.
+1. **Always trying to fill your mental space with something**.  You can't just watch TV, you have to also be scrolling social media. You can't just sit an enjoy a cup of coffee, you also have to listen to a podcast or watch a video.
 
 2. **Overdoing it on social media**. You infinitely scroll all available social media platforms every chance you get. You're not looking for anything but you still scroll until you can tear yourself away and do something else.
 

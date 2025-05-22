@@ -75,7 +75,7 @@ Making use of this model can be a force for good to ultimately improve a user's 
     - This is the behavior that's done in anticipation of a reward.
     - If the action is easy to do and holds enough motivation for a user, they'll be more likely to perform that action.
 3. Variable Reward
-    - A reward awaits the user when they perform an action. Whether it be seeing the latest updates on Twitter or the newest YouTube video from our favorite channel.
+    - A reward awaits the user when they perform an action. Whether it be seeing the latest updates on Instagram or the newest YouTube video from our favorite channel.
     - When we're awaiting the reward, our levels of dopamine surge as we anticipate it.
     - Over time, this might get a bit predictable; that's where the variable reward comes in. When the reward is varied, we don't know exactly what to expect. This increases our dopamine levels even further increasing our desire for the reward.
 4. Investment
@@ -163,7 +163,7 @@ Making use of this model can be a force for good to ultimately improve a user's 
         - Being connected with others via social media offers this interaction with others.
         - We become hooked on what updates from others we'll find when we refresh our feed. We don't know what to expect so we keep coming back for more.
     2. Rewards Of The Hunt 
-        - The feed (Twitter, Facebook, Reddit) is this reward in action.
+        - The social media feed is this reward in action.
         - We are compelled to hunt for new, exciting, fun things throughout our feed which is why we can end up endlessly scrolling for ages without realizing.
     3. Rewards Of The Self
         - Rewards we seek to make us happier or more satisfied.

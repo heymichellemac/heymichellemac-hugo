@@ -36,7 +36,7 @@ If you're wondering how I manage all these assets, I have a dedicated Figma file
 
 ## Way #2: eBook Cover Image
 
-I recently used Figma to create the cover for my latest eBook: [Design Faster, Design Better](https://heymichellemac.gumroad.com/l/design-faster-design-better).
+I recently used Figma to create the cover for my latest eBook: [Design Faster, Design Better](https://store.heymichellemac.com/buy/c9ff2818-b47e-4b40-bad7-e6b377140cd1).
 
 Before using Figma, I would have battled with Photoshop, Illustrator, or InDesign (which I actually tried to use initially) to design an eBook cover. I would have gotten bogged down trying to use the tools to accomplish what was in my head. So instead, I switched to Figma for this task because I was familiar with it and could easily re-create the idea that was in my brain.
 
@@ -53,10 +53,6 @@ In addition to creating the covers for eBooks, I also write shorter eBooks direc
 To add a bit of context here, I initially write the content for all my shorter eBooks in Typora and then migrate it into Figma. With that said, once I have a Figma eBook template created, I can simply copy the content over, include imagery, design a cover image, then export the whole thing as a PDF. 
 
 If you think about it, this process is something that could be done across many different tools which would require more mental overhead. With something like a short, simple eBook, why overcomplicate the process?
-
-If you want to see what an eBook created totally in Figma looks like, you can download my free eBook: [Blank Screen - How To Overcome The Blank Page As A Creator](https://heymichellemac.gumroad.com/l/blank-screen).
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Did you know I have a free eBook?<br><br>It shows you how to overcome the blank page as a creator ⭐<br><br>Check it out over on <a href="https://twitter.com/gumroad?ref_src=twsrc%5Etfw">@gumroad</a>: <a href="https://t.co/DPIm2yf9uY">https://t.co/DPIm2yf9uY</a></p>&mdash; Michelle (@MishaCreatrix) <a href="https://twitter.com/MishaCreatrix/status/1439577270226612230?ref_src=twsrc%5Etfw">September 19, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Way #4: Design Tips
 
@@ -116,7 +112,7 @@ I use Figma to design digital product imagery to include with my digital product
 
 You've likely seen these types of mockups across Twitter and I'm sure they make you stop and take a second look. Creating a visual representation of that product is a great way to make it more tangible to people. I believe it's what ultimately adds more sales to each of my digital products. 
 
-Take [My Knowledge Vault of Digital Notes](https://heymichellemac.gumroad.com/l/digital-notes) as an example. 
+Take [My Knowledge Vault of Digital Notes](https://store.heymichellemac.com/buy/c595023a-f2c5-4151-9fcb-94727e01e8f7) as an example. 
 
 It's a Notion Database of all the notes I take on articles, videos, podcasts, etc. I believe it provides a lot of value to people but it's difficult to tangibly understand what this is using just visuals.
 
@@ -142,7 +138,7 @@ Here's a great example of a daily visual I created in Figma:
 
 A lot of people say you should build things that solve a problem you yourself have. 
 
-A recent problem I had was scheduling Tweets in an analog format. I don't use a paid scheduling tool so I wanted a way to easily keep track of posts and when I was scheduling them. With that problem fresh in my mind, I feverishly spent a whole morning designing what would ultimately become my [Twitter Posting Schedule Printable](https://heymichellemac.gumroad.com/l/twitterSchedulePrintable).
+A recent problem I had was scheduling Tweets in an analog format. I don't use a paid scheduling tool so I wanted a way to easily keep track of posts and when I was scheduling them. With that problem fresh in my mind, I feverishly spent a whole morning designing what would ultimately become my Twitter Posting Schedule Printable.
 
 It made my life so much easier and to this day I still don't need to pay for a paid scheduling tool as a result.
 

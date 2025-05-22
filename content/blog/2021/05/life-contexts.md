@@ -97,9 +97,3 @@ This way, you'll create a physical separation that will make it easier for your 
 While I said this isn't something I do, the fact that I have a dedicated office space in my house means that when I'm not in that room, I don't really think about work tasks. 
 
 Once I've shut down my computer and closed the door, I'm done for the day.
-
----
-
-## Conclusion
-
-I hope you found some value from reading this article. If you did, please let me know over on Twitter.

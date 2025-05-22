@@ -15,8 +15,6 @@ More specifically, we needed to verify form validation and needed an easy way to
 
 I thought this would be a great little project to work on during my [weekly scheduled creative time](/scheduled-creative-time).
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">For this week&#39;s creative time I built a small character counter tool.<br><br>Of course, it expanded to include a character generator + lorem ipsum generator as well 😅<br><br>I built this based on a pain point we had at work testing out form validation.<br><br>Couldn&#39;t be happier with the result! <a href="https://t.co/4ItTBirYIi">pic.twitter.com/4ItTBirYIi</a></p>&mdash; Michelle The Creative 💎 (@MishaCreatrix) <a href="https://twitter.com/MishaCreatrix/status/1494730193834954755?ref_src=twsrc%5Etfw">February 18, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 The end result is a character counter, character generator, and Lorem Ipsum generator.
 
 I built this site using HTML, Tailwind CSS, and vanilla JavaScript. It's deployed to GitHub and hosted on Netlify.

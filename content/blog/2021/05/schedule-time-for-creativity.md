@@ -180,5 +180,3 @@ If you're consistent with your creative time and leverage it in the right way, t
 I hope you enjoyed reading what I had to share on the concept of scheduled creativity. 
 
 I find a lot of value in this concept and have found the process beneficial in my work and creative endeavors.
-
-If you found some value in reading this article, let me know over on Twitter.

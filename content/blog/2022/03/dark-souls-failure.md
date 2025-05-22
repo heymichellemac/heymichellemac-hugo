@@ -57,7 +57,7 @@ This is what it's like when you learn from your own failure in life.
 
 You take the time to reflect on your failure, identify what could be better next time, then action those improvements. This is how you continuously get better. In fact, this is the practice of Kaizen in action.
 
-[Regular reflection](https://www.mishacreatrix.com/regular-reflection) is the best way to improve over time. I reflect on my failures during my [weekly review process](https://www.mishacreatrix.com/weekly-review-obsidian).
+Regular reflection is the best way to improve over time. I reflect on my failures during my weekly review process.
 
 ---
 
