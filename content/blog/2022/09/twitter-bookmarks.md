@@ -34,8 +34,6 @@ The solution to this is to get your bookmarks out of Twitter and into a system y
 
 Here's the step-by-step system:
 
-![Twitter Bookmarks Export System](/assets/images/2022/MXA22018/MXA22018-overview.excalidraw.png)
-
 ## Step 1: Categorize what you want to do with your bookmarks
 
 There's no point saving bookmarks if you don't know what to do with them.
@@ -58,7 +56,7 @@ In Notion, create separate databases for each of the categories you have defined
 
 In my case, I have the following databases:
 - Library
-- design Inspiration
+- Design Inspiration
 - Cool Design Stuff
 - Recipes DB
 
@@ -90,15 +88,7 @@ Install the browser extension and for each category/Notion database, create a ne
 
 This process in the extension is pretty straightforward and you can tailor what you capture to link in with the fields you created in each Notion database.
 
-Here's what my Cool Design Stuff form looks like: 
-
-![Cool Design Stuff Form Template](/assets/images/2022/MXA22018/form-template.png)
-
-As you can see I've defined what database to save to, it also captures the page title and URL into existing fields in my Notion database so I don't have to manually capture them.
-
 Now when I see a bookmark I want to add to my Cool Design Stuff DB, I click the Save To Notion browser icon and select Add New Page.
-
-![Cool Design Stuff Form Example](/assets/images/2022/MXA22018/example-form.png)
 
 That's it, job done. I can then delete the bookmark because I know it's saved in Notion.
 
@@ -106,7 +96,7 @@ That's it, job done. I can then delete the bookmark because I know it's saved in
 
 Once you've set up each form in the Save To Notion browser extension, it's time to start processing your bookmarks.
 
-If you're like me, this will be the really fun and magical part of the process as you decide where each bookmark should go and move it there with the click of a button.
+If you're like me, this will be the really fun and magical part of the process. You decide where each bookmark should go and move it there with the click of a button.
 
 Here's the workflow:
 - Step through each bookmark and hit the Save To Notion browser extension.
@@ -115,7 +105,7 @@ Here's the workflow:
 - Delete the bookmark from your Twitter bookmarks list.
 - Repeat
 
-I like to do this clear-out once a week before or after my weekly review as it gives me a chance to clear everything up and have a fresh start next week.
+I like to do this clear-out once a week before or after my weekly review. It gives me a chance to clear everything up and have a fresh start next week.
 
 A useful feature of this extension is if you've already saved the same page recently it will let you know. This is a great way to prevent duplicate entries from appearing in your databases.
 

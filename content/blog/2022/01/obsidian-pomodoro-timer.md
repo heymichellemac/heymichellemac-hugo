@@ -12,7 +12,6 @@ This article outlines how to set up a Pomodoro timer in Obsidian without install
 
 I'll also explain what a Pomodoro timer is and how you can start using one to focus and get more work done.
 
----
 
 ## What Is A Pomodoro Timer?
 
@@ -20,7 +19,6 @@ A Pomodoro timer is a timer that allows you to make use of the [Pomodoro Techniq
 
 The Pomodoro Technique itself is a time management technique designed to help manage your workload and improve your concentration.
 
----
 
 ## How To Start Using The Pomodoro Technique?
 
@@ -35,7 +33,6 @@ Here's how to try it for yourself:
 5. When the timer goes off, take a 5-minute break. Then start into another Pomodoro.
 6. After 4 Pomodoros, take a longer 15-30 min break.
 
----
 
 ## What Are The Benefits Of A Pomodoro Timer?
 
@@ -67,7 +64,6 @@ With practice, you'll get better at breaking down complex tasks into simpler one
 
 This becomes a useful skill to have when you need to estimate the time it'll take you to complete a project or task.
 
----
 
 ## How To Implement A Pomodoro Timer In Obsidian Without Using A Plugin
 
@@ -79,20 +75,8 @@ Simply embed your favorite Pomodoro timer web app into an Obsidian note and you'
 
 You can pin it to the sidebar or leave it visible in a corner of the screen while working through each Pomodoro session.
 
-Here's what it looks like in practice in my Obsidian vault:
-
-![Pomodoro Timer In Obdisian](/assets/images/2022/MXB22003/pomodoro-timer-screenshot.png)
-
-Here's the code:
+Here's the code I use in my Obsidian vault:
 
 ```
 <iframe width="100%" height="700" src="https://pomofocus.io/app" frameborder="0"></iframe>
 ```
-
----
-
-## Conclusion
-
-I hope this article helped you to add a Pomodoro timer to your own Obsidian vault. 
-
-If you learned something I'd really appreciate you sharing this article with someone else who might find it useful.

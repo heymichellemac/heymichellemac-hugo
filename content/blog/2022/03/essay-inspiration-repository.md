@@ -14,7 +14,7 @@ There can be pressure to create a unique design that looks stunning every time. 
 
 If you're in that boat, here's something you should know:
 
-> **There are no new ideas. Everything has been done before.**
+> There are no new ideas. Everything has been done before.
 
 Understand this and you'll be able to concentrate on building great designs. You'll be free from the burden of producing something new.
 
@@ -33,4 +33,4 @@ You should include things like:
 
 Review your inspiration repository often. Add things and remove things as your tastes develop. Once you have developed your repository, you won't be stuck for inspiration the next time you're working on a design.
 
-> **Tools for creating your inspiration repository: Figma, Notion, Pinterest, Behance**
+Note: Tools for creating your inspiration repository: Figma, Notion, Pinterest, Behance.

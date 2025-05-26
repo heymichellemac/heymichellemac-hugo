@@ -16,7 +16,6 @@ My weekly review process has evolved considerably since I wrote about it last. I
 
 In this article, I share with you my weekly review note in Obsidian. I go through how everything is set up including the code and the plugins I use.
 
----
 
 ## Plugins Used
 
@@ -27,31 +26,17 @@ Here are the plugins I use in Obsidian to make my weekly review note work:
 - [Templater](https://github.com/SilentVoid13/Templater) - This allows me to use some code snippets to pull in dates that I can use for file referencing.
 - [Dataview](https://github.com/blacksmithgu/obsidian-dataview) - This allows me to query my Obsidian vault and retrieve my list of OKRs and projects.
 
----
 
 ## Note Metadata
 
-![Weekly Note Metadata](/assets/images/2022/MXB22007/weekly-note-metadata.png)
-
-
-The naming convention for my weekly note is: 
-
-- W-202202-09
-- W to denote this is a weekly note
-- 202202 - the year and the month
-- 09 - the week number 
-
-Here's how I have the weekly note set up in Periodic Notes: 
-
-![Periodic Notes Setup](/assets/images/2022/MXB22007/periodic-plugin-setup.png)
+The naming convention for my weekly note is `W-202202-09`:
+- `W` to denote this is a weekly note
+- `202202` - the year and the month
+- `09` - the week number 
 
 Below the note name/note title I have links to my yearly note and my quarterly note. This allows for quick access to those notes when necessary.
 
----
-
 ## This Week's Goals
-
-![This Week's Goals](/assets/images/2022/MXB22007/this-weeks-goals.png)
 
 This section contains my top 3 goals/action items for the week. 
 
@@ -65,13 +50,9 @@ My previous weekly review note template didn't have a section for weekly action 
 
 Now I have a system to keep my goals and current action items top of mind, I know what my priorities are each week. P.S. I've read the 12 Week Year probably 3 times now and the fact that I haven't been doing this already is pretty embarrassing... 😳
 
----
-
 ## Weekly Review Prep
 
 ### Prep Tasks
-
-![Prep Tasks](/assets/images/2022/MXB22007/prep-tasks.png)
 
 This section contains a checklist of things I should do to get me in the right frame of mind to do my weekly review. For instance, I have checkboxes for cleaning my desk and for tidying up my inboxes.
 
@@ -79,17 +60,12 @@ I try not to have too much here. Otherwise, it would be easier for me to procras
 
 ### Last Week
 
-![Last Week](/assets/images/2022/MXB22007/last-week.png)
-
 This section is an embed of last week's Reflections section. I find it helpful to look at the previous week to see what has changed and what has stayed the same. This also helps to get me in the right frame of mind for doing my weekly review.
 
 To achieve this, I include a code snippet with Templater code to generate the link to last week's note. 
 
----
 
 ## Reflections
-
-![Reflections](/assets/images/2022/MXB22007/weekly-reflections.png)
 
 The first three questions here are taken from this article I read: [The Retrospective: A Personal Review Template](https://alphaprep.medium.com/the-retrospective-a-personal-review-template-c7e9fd9c55e1). 
 
@@ -110,7 +86,6 @@ For the things that drain me each week, I want to make sure I do less of that.
 
 Sounds simple, but it works really well for me.
 
----
 
 ## Next Week Planning
 
@@ -128,7 +103,6 @@ I am currently looking at moving to OKRs from SMART goals so this is still a lit
 
 I use a Dataview query to retrieve goals/OKRs that have a status of in progress.
 
-![OKRs Code Snippet](/assets/images/2022/MXB22007/okr-code-snippet.png)
 
 ### Projects
 
@@ -136,10 +110,6 @@ This section contains a list of my current in progress projects.
 
 I use a Dataview query to retrieve projects that have a status of in progress.
 
-![Projects Code Snippet](/assets/images/2022/MXB22007/projects-code-snippet.png)
-
----
-
-So there you have it; my weekly review process inside of Obsidian. If you enjoyed this article, please consider sharing it with someone else who might find it useful 🤗
+So there you have it; my weekly review process inside of Obsidian. 
 
 Oh and one last thing: I'm thinking about putting together all of my Obsidian templates into a GitHub repo so if that's something you'd be interested in just let me know so I can get working on it!

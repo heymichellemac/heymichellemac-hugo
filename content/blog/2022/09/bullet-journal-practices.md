@@ -8,7 +8,7 @@ title: 5 Practices I Follow Consistently After Reading The Bullet Journal Method
 width: wide
 ---
 
-Every time I read **[The Bullet Journal Method by Ryder Carroll](/bullet-journal-method-ryder-carroll)**, I come away with a new nugget of insight that changes my mindset around my creative practice.
+Every time I read [The Bullet Journal Method by Ryder Carroll](/bullet-journal-method-ryder-carroll), I come away with a new nugget of insight that changes my mindset around my creative practice.
 
 Most people will read a book, put it back on the shelf, and never think about it again. This used to be me too until I started to actively take notes on what I read, starting with The Bullet Journal Method. 
 
@@ -63,8 +63,6 @@ As part of the goal write down the various parts of the goal that you need to ac
 
 Break these parts down into small enough chunks that you can work on them each day/week until you've completed your goal.
 
-If you'd like more help on goal setting, here's another article I wrote that you'll find useful: [Don’t Get Overwhelmed By Your Goals – Keep It Simple](https://heymichellemac.com/overwhelmed-by-your-goals-keep-it-simple).
-
 ## Practice 4: Kaizen Mindset
 
 Kaizen is a Japanese word that means "improvement" or "change for better".
@@ -102,8 +100,6 @@ Depending on what works for you, you can set up the following times for reflecti
 - Monthly reflection
 - Quarterly reflection
 - Yearly reflection
-
-I go into more detail about each of these types of reflection in this article: [Why Regular Reflection Can Help You Become More Productive](/blog/2021/04/regular-reflection)
 
 ## TL;DR
 The top 5 practices I learned from reading The Bullet Journal Method that I apply to my life every day:

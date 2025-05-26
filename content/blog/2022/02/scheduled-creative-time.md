@@ -18,7 +18,6 @@ So, over the last 4 weeks, I scheduled 1-3 hours on a Friday into my calendar fo
 
 Here's what I learned about the process, about how I work, and my key takeaways from this experiment.
 
----
 
 ## Background - What Is Scheduled Creative Time And Why Should I Care?
 
@@ -28,7 +27,6 @@ The reason this works is a regular practice of creation will exercise your brain
 
 Having an outlet like this for your creativity is a great way to try new things and see where your curiosity leads you.
 
----
 
 ## Preparation - Scheduled Creative Time Set Up
 
@@ -40,7 +38,6 @@ Here's what I did to prepare:
 - I identified and removed any potential bottlenecks that would prevent me from doing this.
 - I created a rough list of things to work on during this time. I took a look at my projects list in Obsidian for some inspiration here.
 
----
 
 ## Week 1
 
@@ -66,14 +63,13 @@ I created the business cards in [Canva](https://www.canva.com/), exported them i
 ### What I Didn't Enjoy
 
 - There were no strict time limits set at this point. This meant I worked on this until it was finished. While that can be a good thing, in my case, I would work better within a set time limit.
-- I didn't have any pre-defined ideas for what I would do with the results of my creative time. Should I share on social media or keep to myself? Should I publish on my website? Should I just share with my family and friends? I needed to decide on this going forward.
+- I didn't have any predefined ideas for what I would do with the results of my creative time. Should I share on social media or keep to myself? Should I publish on my website? Should I just share with my family and friends? I needed to decide on this going forward.
 
 ### What I Learned
 
 - I work better within defined time blocks as I know where the edges are in my day.
 - I work well when a lot of the decision-making is already done so I can focus on simply creating. Taking time to plan my creative time in advance helps me to feel more free when creating.
 
----
 
 ## Week 2
 
@@ -102,7 +98,6 @@ I highly recommend watching the video above for some inspiration if you're think
 - OKRs might be a good alternative to SMART goals.
 - Not everything you do during scheduled creative time will fit into a defined period of time. There may be weeks where something will spill over into next week's creative time and that's OK.
 
----
 
 ## Week 3
 
@@ -129,8 +124,6 @@ The end result of this creative time was a new Notion dashboard I call: Tweet HU
 - Not to simply copy and paste something, but to take what works for me and use that to make it my own. 
 - The value of repurposing content - from one tweet it's not that hard to generate 4-5 new tweets or ideas.
 
----
-
 ## Week 4
 
 This week I worked on a fun little website that came about from a pain point at work. It's a character counter and character generator.
@@ -156,7 +149,6 @@ Here's the web page if you want to see how it turned out: [https://chartools.net
 
 - It helps to vary what you do during scheduled creativity time each week. This keeps you interested and engaged with what you're doing.
 
----
 
 ## My Key Take-Aways From This Experiment
 
@@ -169,5 +161,3 @@ If you're still with me, here's an overview of what I learned from doing this ex
 - Once you have the schedule and the preparation done, it becomes less about the process and more about creating. After 1-2 weeks, I could sit down and work on something without worrying about tracking my time, other work I needed to do, how long I should spend on the task.
 
 As a result of this experiment, I've decided to continue with my scheduled creative time each Friday. I really enjoy this time each week and I feel that it's a great creative outlet.
-
-Thank you so much for reading all the way to the end. If you enjoyed this article, please consider sharing it with someone else who might find it useful 🤗

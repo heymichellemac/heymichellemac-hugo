@@ -171,6 +171,3 @@ Use more visuals. More graphics. More types of media in general in the content y
 
 If you're not sure where to start, create something that solves a problem you have. Think of my printable example. I'm not making big money on this digital product but the learning experience it gave me was super helpful when it came to eventually launching my eBook.
 
-I really enjoyed putting together this article and I hope you found it helpful. If you learned something today, please consider sharing this article on Twitter, or LinkedIn, or Facebook to let others know about it. That would really help me out 🙏
-
-Finally, if you enjoyed this article here's the original Twitter thread I wrote: [Original Twitter Thread](https://twitter.com/MishaCreatrix/status/1421575401252397063)

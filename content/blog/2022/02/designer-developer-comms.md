@@ -16,7 +16,6 @@ While remote communication can seem frustrating, there are a lot of benefits. It
 
 If you're looking for ways to quickly and easily improve your designer to developer communication then this article is for you. I'm going to share with you the 5 tips that have helped me improve my design to developer communications over the last 3 years.
 
----
 
 ## 1 Take Into Account Other People's Work Habits 
 
@@ -30,7 +29,6 @@ With this in mind, it's helpful to try and accommodate everyone when setting up 
 
 If you're not sure, ask the person what their preferred method of communication is and make note of it for future reference. If you use a [personal CRM](https://www.notion.so/templates/intentional-relationship-aid) or something similar, this would be a good thing to make note of there.
 
----
 
 ## 2 Use The Most Effective Tools
 
@@ -65,7 +63,6 @@ Here's a quick summary:
 - [Trello](https://trello.com/)
 - [Jira](https://www.atlassian.com/software/jira)
 
----
 
 ## 3 Schedule Meetings Ahead Of Time
 
@@ -82,7 +79,6 @@ At a minimum here's what should be included in a meeting invite:
 - Location - where the meeting will be. If it's remote, include the link to the Google Hangout or Zoom meeting. Google Calendar gives you the option to [generate a Hangouts meeting room from within the calendar event](https://support.google.com/meet/answer/9302870?hl=en&co=GENIE.Platform%3DDesktop).
 - Agenda - To add more info. it's helpful to include a short bulleted list including what the meeting is about, what your goal for the meeting is, and any relevant reading material people should read before the meeting. Include links to the design file, the project ticket, any documentation that would be helpful.
 
----
 
 ## 4 Do Your Prep + Take Notes
 
@@ -98,7 +94,6 @@ Before the call, I spend 5-10 mins reviewing my goals for the meeting and any re
 
 There is nothing worse than showing up for a meeting 5 minutes late, then not knowing what the meeting is even about.. it doesn't really inspire confidence. It also sends a bad message to the other people in the meeting that you don't value their time enough to  know what the meeting is about.
 
----
 
 ## 5 Take Time To Chat
 
@@ -114,7 +109,6 @@ I've learned a lot about my colleagues simply by chatting with them during meeti
 
 You never know unless you ask.
 
----
 
 ## My Key Take Aways
 
@@ -126,4 +120,3 @@ I hope you found this article helpful. In case you missed anything let's summari
 - Do Your Prep + Take Notes - Spend up to 15 minutes before the meeting preparing and up to 15 minutes after writing up your notes from the meeting.
 - Take Time To Chat - As important as it is to get right to the point in a meeting, it's also a good opportunity to build positive relationships with the people you work with.
 
-If you enjoyed this article, please consider sharing it with someone else who might find it useful 🤗

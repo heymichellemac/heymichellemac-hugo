@@ -165,8 +165,3 @@ This means I don't have to manually review every form submission and change the 
 
 ![Automation 2.4](/assets/images/2022/MXB22016/automation-2-4.png)
 
----
-
-I've discussed a lot in this article I know. So if you have any questions for me on how any of this works, just let me know 🙂
-
-If you enjoyed this, please consider sharing it with someone else who might find it useful 🤗

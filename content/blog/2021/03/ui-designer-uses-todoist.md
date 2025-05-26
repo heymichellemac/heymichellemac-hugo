@@ -231,7 +231,3 @@ I hope you found this article helpful in finding some useful ways you can use th
 Whether you are a UI Designer or not, there is so much value in having some kind of task management system to hold your thoughts, ideas, and tasks. 
 
 I personally use Todoist, but something as simple as a written shopping list or as complex as a digital system that manages every moment of your day can provide tremendous value providing you are using something that works for you.
-
-Thank you for reading this article all the way to the end! 
-
-If you enjoyed reading this article, please consider sharing it on social media. It will help others to find it and that would really help me out.

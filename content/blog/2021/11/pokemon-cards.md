@@ -139,8 +139,3 @@ As you can see from this list, there are lots of things you can learn about desi
 
 With that in mind, I hope this opens your mind up to the possibility of learning about design from other areas outside of traditional mediums like websites, mockups, tutorials etc. Design is everywhere, you just need to stop and take notice of it to learn from it.
 
-I hope you learned something from this article and it inspires you to delve into the world of Pokémon cards or even consider other places you can learn about design.
-
-If you have any insights you'd like to share on this topic, please let me know over on [Twitter](https://twitter.com/MishaCreatrix) :)
-
-Finally, if you enjoyed this article here's the original Twitter thread I wrote: [Original Twitter Thread](https://twitter.com/MishaCreatrix/status/1430559353019387906)

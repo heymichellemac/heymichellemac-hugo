@@ -76,23 +76,26 @@ It's basically just a list of every note tagged with #inbox.
 
 Here's the query:
 
-![Inbox Query](/assets/images/2022/MXA22020/inbox-query.png)
+```
+tag:#inbox -path:99-templates
+```
 
-And here's what that produces:
-
-![Inbox Result](/assets/images/2022/MXA22020/inbox-results.png)
-
-Note: "-path:99-templates" is used to exclude anything that lives in the "99-templates" directory.
+Note: `-path:99-templates` is used to exclude anything that lives in the "99-templates" directory.
 
 To process my notes I simply open this note, click on a note that seems interesting to me and start processing. 
 
-Note: I'd love to be able to return a random ordering of these results but it's something I'm still working on. If you know of a way to return a random ordering of results I'd love to hear from you!
+Note: I'd love to be able to return a random ordering of these results but it's something I'm still working on. 
 
 ### 2 - Content Creation Hub
 
-This note contains a list of articles I want to/am writing. As you can see from the screenshot below, it's broken out into In Progress, Up Next, and Backlog.
+This note contains a list of articles I want to/am writing. 
 
-![Content Creation Hub Note](/assets/images/2022/MXA22020/content-creation-hub.png)
+Here's my query for my backlog of ideas:
+
+```
+tag:#cc/article #status/backlog
+-path:99-templates
+```
 
 If you need some help using the Obsidian search operators, I made a helpful cheat sheet you can download and modify [in Figma](https://www.figma.com/community/file/1168867974967146879).
 
@@ -106,22 +109,22 @@ Articles I read that I'd like to include in my newsletter are tagged with #Desig
 
 This quickly and easily lets me pick which articles to include in that week's newsletter edition which saves me lots of time and effort.
 
-![Design Insight Articles List](/assets/images/2022/MXA22020/design-insight-query.png)
+```
+tag:#DesignInsight
+```
 
 
 ### 4 - In my Yearly, Quarterly, Weekly, Daily notes
 
 Full disclosure I haven't fully overhauled my time-based notes yet to make use of embedded queries but I've tried it with a few that previously relied on Dataview and everything works perfectly.
 
-Let's look at my yearly note. You can see below I have a section to retrieve all the Quarterly notes in the current year.
+Let's look at my yearly note. I have a section to retrieve all the Quarterly notes in the current year.
 
-Here's the query:
+Here's the query for all the quarterly notes:
 
-![Yearly Note Query](/assets/images/2022/MXA22020/years-query.png)
-
-And here's the result:
-
-![Yearly Note Result](/assets/images/2022/MXA22020/years-results.png)
+```
+path:00-life-os/02-quarters/ "2022"
+```
 
 Simple!
 

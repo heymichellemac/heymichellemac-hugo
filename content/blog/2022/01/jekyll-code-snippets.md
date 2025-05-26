@@ -14,18 +14,13 @@ However when you include Jekyll specific code in default code snippets you'll no
 
 In this quick how to guide I'm going to show you how to include Jekyll-specific code into code snippets without breaking your Jekyll website.
 
----
 
 ## Here's How To Do It
 
 Inside of the code snippet, wrap the code block with the following two tags: raw, endraw.
 
-Here's what it looks like in my code editor:
 
-![Code Editor Screenshot](/assets/images/2022/MXB22004/code-editor-screenshot.png)
-
-
-Here's what it looks like in the front end:
+Here's what it looks like:
 
 ```
 {% raw %}

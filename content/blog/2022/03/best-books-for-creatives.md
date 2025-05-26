@@ -14,8 +14,6 @@ Before reading these books I had no system for creating, no way of managing my w
 
 Here are 7 of the best books all creatives should read this year:
 
----
-
 ## 1 The Accidental Creative
 
 Author: Todd Henry
@@ -31,10 +29,6 @@ Author: Todd Henry
 1. Creative productivity comes in ebbs and flows. Some days we can be very creative but other days we can't think of anything creative or worthwhile.
 2. A regular creative practice will help to develop your creativity muscle so you can generate creative insights on demand.
 3. True freedom is healthy constraints.
-
-Want to learn more: [here are my book notes](/accidental-creative-todd-henry/)
-
----
 
 ## 2 Steal Like An Artist
 
@@ -52,10 +46,6 @@ Author: Austin Kleon
 2. Garbage in, garbage out. It is up to you to consume interesting and high-quality content as this will shape what you create.
 3. Use a blog as an incubator for great ideas. There are people that will find this content motivating and useful.
 
-Want to learn more: [here are my book notes](/blog/2020/book-steal-like-an-artist/)
-
----
-
 ## 3 A Whack On The Side Of The Head
 
 Author: Roger Von Oech
@@ -71,8 +61,6 @@ Author: Roger Von Oech
 1. Simply knowing something doesn't make you creative. What makes you creative is what you do with that knowledge.
 2. In school, we are taught to find the right answer. This implies there is only one right answer. However, in life, there are many right answers.
 3. Sometimes a failure can serve as a stepping stone to the right idea. Focus on what worked and understand what didn't.
-
----
 
 ## 4 Peak
 
@@ -90,10 +78,6 @@ Author: Anders Ericsson
 2. The key to deliberate practices is to focus on what you're learning, observe where you are falling down, and fix it by trying different methods.
 3. Well-defined and accurate mental representations are what separates beginners from experts. An expert's mental models will allow them to more effectively tackle a problem or perform a certain activity.
 
-Want to learn more: [here are my book notes](/peak-anders-ericsson/)
-
----
-
 ## 5 Getting Things Done
 
 Author: David Allen
@@ -109,10 +93,6 @@ Author: David Allen
 1. Having a system you trust to hold your thoughts will give you peace of mind. This allows your mind to focus on your current task.
 2. A "productivity system" will be different for everyone. The key is to take the parts that work for you and implement those.
 3. Regular reflection of your systems and lists is necessary to stay clear and current. 
-
-Want to learn more: [here are my book notes](/getting-things-done-david-allen/)
-
----
 
 ## 6 The Bullet Journal Method
 
@@ -130,9 +110,6 @@ Author: Ryder Carrol
 2. Writing things down and getting them out of your mind will allow you to think more clearly.
 3. Writing by hand allows you to slow down and carefully consider what you're writing. This allows you to write in your own words and makes remembering what you write down more effective.
 
-Want to learn more: [here are my book notes](/bullet-journal-method-ryder-carroll/)
-
----
 
 ## 7 How To Take Smart Notes
 
@@ -148,6 +125,4 @@ Author: Sönke Ahrens
 
 1. Cultivating a library of knowledge means you'll never have to start from a blank page. Creating becomes more enjoyable.
 2. By writing book notes in your own words you cement your understanding of what you've read. This will help you learn information more effectively.
-3. Creating a system that is organized for easy content retrieval will help you to achieve the "mind like water" that David Allen talks about in [Getting Things Done](/getting-things-done-david-allen/).
-
-Want to learn more: [here are my book notes](/how-to-take-smart-notes-sonke-ahrens/)
+3. Creating a system that is organized for easy content retrieval will help you to achieve the "mind like water" that David Allen talks about in Getting Things Done.

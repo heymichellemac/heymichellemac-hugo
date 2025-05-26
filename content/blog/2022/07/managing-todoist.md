@@ -39,9 +39,7 @@ I learned this tip from this video by Tiago Forte:
 
 {{< youtube uXdEVeoGRRc >}}
 
-To do this go to your account > Advanced > Quick Add Task. Then set up a keyboard shortcut; in my case, I use Ctrl + Space.
-
-![Quick Add Task](/assets/images/2022/MXA22012/quick-add-task.png)
+To do this go to your account > `Advanced` > `Quick Add Task`. Then set up a keyboard shortcut; in my case, I use `Ctrl + Space`.
 
 When you hit this magic keyboard shortcut a quick add window appears. 
 
@@ -51,7 +49,7 @@ If you take nothing else away from this article let it be that tip.
 
 Back to the Inbox. 
 
-Each day or [during my weekly review](https://heymichellemac.com/weekly-review-obsidian) I process the inbox to determine:
+Each day or during my weekly review I process the inbox to determine:
 - If the task is still relevant
 - Where it belongs in my task system
 - What priority the task is
@@ -66,9 +64,6 @@ This bucket is for tasks related to projects I'm actively working on (taken from
 
 Inside this page, I've further broken things down by creating sections for each of my projects. This makes things much easier to find and organize.
 
-![Projects](/assets/images/2022/MXA22012/projects.png)
-
-
 Some of my projects include: 
 - My Newsletter - [Design Insight](https://designinsight.substack.com/)
 - My eBook - [Design Faster, Design Better](https://designfaster.netlify.app/)
@@ -79,9 +74,6 @@ Some of my projects include:
 This bucket is for tasks related to my areas of responsibility (taken from PARA method). 
 
 Like the projects page, this page is also subdivided into different sections for clearer organization.
-
-![Areas](/assets/images/2022/MXA22012/areas.png)
-
 
 Some of my areas include: 
 - Content Creation
@@ -125,8 +117,6 @@ This bucket is where I put recurring tasks that happen each day, week, month, or
 
 This is one of the few buckets that I have set up in a Kanban view.
 
-![Routines](/assets/images/2022/MXA22012/routines.png)
-
 The columns are:
 - Daily
 - Weekly
@@ -154,7 +144,7 @@ I review these quarterly to see if they're still relevant or if they should just
 ## To Sum Up
 So there you have it, my system for organizing and managing tasks in Todoist. 
 
-As I mentioned earlier in the article, this system is always evolving. [If you saw my system from last year](https://heymichellemac.com/ui-designer-uses-todoist), it would be noticeably different from what it is now.
+As I mentioned earlier in the article, this system is always evolving. If you saw my system from last year, it would be noticeably different from what it is now.
 
 With that said, this current iteration has really helped to clear my mind of tasks immediately and has made it easier to find and organize the tasks on my plate.
 

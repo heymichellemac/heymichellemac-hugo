@@ -25,8 +25,6 @@ There's also something to it that translates to how you should think about failu
 
 With that in mind, let's explore what Dark Souls can teach you about failure.
 
----
-
 ## You Learn From The Failure Of Others
 
 When a player dies in Dark Souls, they leave behind a bloodstain.
@@ -45,7 +43,6 @@ A lot of people are open about sharing how/why they failed at something. Whether
 
 Remember this the next time you see someone talk about a failure they experienced.
 
----
 
 ## You Learn From Your Own Failure
 
@@ -59,7 +56,6 @@ You take the time to reflect on your failure, identify what could be better next
 
 Regular reflection is the best way to improve over time. I reflect on my failures during my weekly review process.
 
----
 
 ## You Normalize Failure
 
@@ -72,8 +68,6 @@ It also makes finally slaying the bosses so much more satisfying.
 This is how you should think about failure in life. It shouldn't be the end of the world but an opportunity to learn.
 
 That's not to say that you're going to fail all the time in life, but when you inevitably do fail, you'll learn from it and move on without difficulty.
-
----
 
 ## You Think About The Advice You Take From Others
 
@@ -89,18 +83,10 @@ Just because something worked for someone else, doesn't mean it will work for yo
 
 Of course, learning from others is how we get better and I'm not saying to disregard everyone who gives you advice. Just remember you could be pointed in the wrong direction or tricked into jumping off a roof!
 
----
 
 ## My Key Takeaways
-
-This was a fun article to write so I hope you enjoyed it. Here are my main takeaways:
 
 - Take the time to learn from the failure of others. Learn where they went wrong and avoid making the same mistakes.
 - Make sure you reflect often on your own failure. Ask yourself: what went wrong, what could I do better next time? This is how you improve.
 - Failure is normal. Not to say you'll fail all the time but when you do fail, you'll realize it isn't the end of the world.
 - Consider the advice you accept from others. Be sure to try things out for yourself and don't be afraid to fail.
-
-Is there anything you would add?
-
-
-If you enjoyed this article, please consider sharing it with someone else who might find it useful 🤗

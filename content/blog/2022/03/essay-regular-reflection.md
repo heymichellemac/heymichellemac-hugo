@@ -18,10 +18,14 @@ Without a practice of reflection, you forget about the great accomplishments you
 
 Instead, you give in to your negativity bias and only remember the slip-ups and mistakes you made.
 
-> **Here's why regular reflection makes you a better designer:**
+**Here's why regular reflection makes you a better designer:**
 
-- Documenting your accomplishments will motivate you. When work gets tough you can look to your positive experiences to light a fire under you.
-- Journaling at the end of each day can lead to new insights. You'll find interesting insights in old journal entries that you can use in current projects.
-- Noting your workload, stress, and energy levels help to manage them. You can remove things that cause stress and learn when your energy levels are at their highest.
-- Over time you will learn how much work you can get done in a day. This allows you to plan your day in advance.
-- If you've had a bad week, you can course-correct to improve next week. Small but intentional improvements over time will help you become even more successful.
+Documenting your accomplishments will motivate you. When work gets tough you can look to your positive experiences to light a fire under you.
+
+Journaling at the end of each day can lead to new insights. You'll find interesting insights in old journal entries that you can use in current projects.
+
+Noting your workload, stress, and energy levels help to manage them. You can remove things that cause stress and learn when your energy levels are at their highest.
+
+Over time you will learn how much work you can get done in a day. This allows you to plan your day in advance.
+
+If you've had a bad week, you can course-correct to improve next week. Small but intentional improvements over time will help you become even more successful.

@@ -16,7 +16,6 @@ Copying websites will improve how you design websites. However, looking at desig
 
 Let's look at how you can improve your design skills with Netflix.
 
----
 
 ## Netflix for design inspiration
 
@@ -26,7 +25,6 @@ Each movie or TV show has a range of cover art that entices users to watch. With
 
 Let's dive into the process to see how it works.
 
----
 
 ## Collect designs that are eye-catching
 
@@ -36,7 +34,6 @@ Do this until you have 5-10 good examples to work from.
 
 The idea here is when something catches your eye, you want to understand why to be able to emulate that spark in your own designs.
 
----
 
 ## Examine what makes each design effective
 
@@ -57,7 +54,6 @@ These questions will help you understand the design elements used and how they w
 
 You can spend as much or as little time as you want on this process but if you want to reign things in you can use a [Pomodoro timer](https://pomofocus.io/) for each design.
 
----
 
 ## Replicate the designs from scratch
 
@@ -71,7 +67,6 @@ These copied designs will never see the light of day but they are incredibly val
 
 Over time and with continued practice, you'll be able to create brand new designs that take inspiration from what you learned from this creative exercise.
 
----
 
 ## Consider other mediums
 

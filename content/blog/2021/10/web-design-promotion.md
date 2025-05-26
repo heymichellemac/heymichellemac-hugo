@@ -49,5 +49,3 @@ Don't over-complicate this one with lots of different email addresses and funnel
 **If you implement these 4 tactics today, you'll become a more credible web designer.**
 
 As you can see, they aren't overly complicated and can all be done for FREE.
-
-If you enjoyed this article here's the original Twitter thread I wrote: [Original Twitter Thread](https://twitter.com/MishaCreatrix/status/1440028493442469888)

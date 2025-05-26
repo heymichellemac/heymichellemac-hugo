@@ -149,4 +149,3 @@ Here are the key takeaways from this article, the TL;DR:
 - Create an inspiration repository today
 - Incorporate regular practice into your week
 
-Finally, if you enjoyed this article here's the original Twitter thread I wrote: [Original Twitter Thread](https://twitter.com/MishaCreatrix/status/1423387596051279872)

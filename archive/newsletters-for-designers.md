@@ -203,6 +203,6 @@ I highly recommend you check out my favorite edition included below for a great 
 
 Thank you for taking the time to read through this list of great newsletters. I hope you found one or two more to add to your subscription list 😃
 
-If you enjoyed this article, please consider sharing it with someone else who might find it useful 🤗
+
 
 Thanks for reading!

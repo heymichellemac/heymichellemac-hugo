@@ -10,19 +10,17 @@ width: wide
 
 **Building A Second Brain by Tiago Forte** is an excellent distillation of the methodology of the same name.
 
-This book is up there with [Getting Things Done](https://heymichellemac.com/getting-things-done-david-allen) and [How To Take Smart Notes](https://heymichellemac.com/how-to-take-smart-notes-sonke-ahrens) for how transformative it was for me.
+This book is up there with Getting Things Done and How To Take Smart Notes for how transformative it was for me.
 
 Here are the 4 ways this book reframed how I manage my digital life: 
 
 ## Way 1: I manage my digital data with projects, not topics
 
-![Way 1](/assets/images/2022/MXA22019/1.png)
-
 After resisting it for the longest time, I've finally embraced [the PARA method](https://fortelabs.com/blog/para/) for managing my digital data.
 
 It didn't click with me until I watched this video by vaexperience:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-EGjENtvKT8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube -EGjENtvKT8 >}}
 
 Watching that video prompted me to read Building A Second Brain in the first place which in turn lead to me reorganizing how I manage my digital data.
 
@@ -40,9 +38,7 @@ I follow this practice with my note-taking tool (Obsidian), my digital file mana
 
 ## Way 2: I created an archive folder for finished projects
 
-![Way 2](/assets/images/2022/MXA22019/2.png)
-
-The A in PARA stands for archive.
+The `A` in PARA stands for `archive`.
 
 This is a folder for finished, closed, or inactive things you're no longer working on.
 
@@ -52,17 +48,15 @@ This keeps things clean digitally and mentally.
 
 If I do need to refer to something from an old article I wrote, for example, I know it's still there in the archive. I can easily search for it too because I can usually associate what I'm looking for with a past project. 
 
-I go through my active projects list during [my weekly review](https://heymichellemac.com/weekly-review-obsidian) and nothing gives me more satisfaction than moving closed projects into the archive!
+I go through my active projects list during my weekly review and nothing gives me more satisfaction than moving closed projects into the archive!
 
 ## Way 3: My capture process is simpler
-
-![Way 3](/assets/images/2022/MXA22019/3.png)
 
 My capture and consumption system is something I'm constantly tinkering with.
 
 I'm always looking for ways to make it easier to use, more portable (can be interacted with on any device anywhere), and ways to do it without breaking the bank.
 
-After reading Building A Second Brain, I took another look at my system and was able to consolidate my capture process a great deal.
+After reading Building A Second Brain, I took another look at my system and was able to simplify my capture process a great deal.
 
 I now save almost everything into Notion. Articles, design inspiration, ideas for projects, recipes, tools & resources, pretty much everything I want to "collect" and save for later. 
 
@@ -73,8 +67,6 @@ I can then move my notes into Obsidian, my longer-term storage system, as needed
 Now I don't have to think about where something goes, I just clip it into Notion to process later.
 
 ## Way 4: My new mantra for note-taking is "how can I make this as useful as possible for my future self?"
-
-![Way 4](/assets/images/2022/MXA22019/4.png)
 
 I've been taking book notes on and off now for the last 3 years, thanks in part to [The Bookworm podcast](https://bookworm.fm/) which really helped kick this off for me.
 
@@ -92,5 +84,3 @@ This might look like:
 - Adding more detail to notes based on my own thoughts
 
 I've already seen the benefits and am looking forward to continuing.
-
-P.S. Like the images I used in this post? I made them using [Playground](https://playgroundai.com/create) - not sponsored or anything I've just been exploring AI art for the last week or so and am finding it fascinating :)

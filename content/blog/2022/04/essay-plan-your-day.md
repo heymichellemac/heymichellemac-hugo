@@ -10,7 +10,7 @@ width: wide
 
 Planning your day ahead of time is the most beneficial routine you can add to your life. Whether it's the day before or first thing in the morning, knowing what's ahead of you will help you to work more effectively.
 
-> **Here's why planning your day ahead of time has so much value:**
+Here's why planning your day ahead of time has so much value:
 
 **You can focus on the work, not what to work on**
 
@@ -32,4 +32,4 @@ Planning your day ahead of time is the most beneficial routine you can add to yo
 - Without having a plan to work on, you'll fall into the trap of reacting to work that's sent your way.
 - This type of work generally has little meaning and doesn't move you towards your goals.
 
-> **Add daily planning into your life operating system and I guarantee you'll see noticeable improvements to your productivity and mind.**
+Add daily planning into your life operating system and you should see noticeable improvements to your productivity and mind.

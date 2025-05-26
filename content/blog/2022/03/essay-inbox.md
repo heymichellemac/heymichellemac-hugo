@@ -32,4 +32,4 @@ You can overcome distractions by writing things down to come back to later.
 Process Your Inbox Often To Stay Up To Date.
 - A daily or weekly review of your inbox will help you clear out the clutter and process the valuable nuggets of information.
 
-> **Some Examples Of Inboxes: Bullet journal, Todoist, Notion, Obsidian**
+Note: Some Examples Of Inboxes: Bullet journal, Todoist, Notion, Obsidian

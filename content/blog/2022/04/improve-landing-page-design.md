@@ -8,8 +8,6 @@ title: This 10 Step Checklist Will Instantly Improve Your Landing Page Design
 width: wide
 ---
 
-![A bad landing page is like an ugly cake](/assets/images/2022/MXB22014/cakes.jpg)
-
 Having a poorly designed landing page is like choosing between an ugly-looking cake and a beautiful-looking cake. Sure the "ugly" cake might taste nice, but you're less inclined to try it in case it tastes like it looks. Chances are you'll pick the pretty-looking cake with the sprinkles, piped-icing, and striking colors (note to self: order some cake for lunch).
 
 A well-designed landing page is more likely to convert users into customers.
@@ -18,7 +16,6 @@ Your landing page doesn't have to be a visual masterpiece, but there are some si
 
 The goal of this article is to give you a checklist of actionable steps to improve the design of your landing page.
 
----
 
 ## #1 Use a simple color palette
 
@@ -34,7 +31,6 @@ Here's an easy rule-of-thumb for creating a color palette:
 
 If you're looking for color inspiration, I recommend checking out the [Trending section of the Coolors website](https://coolors.co/palettes/trending).
 
----
 
 ## #2 Design in black and white
 
@@ -46,9 +42,6 @@ The downside of adding color too early is it will distract you from getting the 
 
 Only add color when you're happy with the layout and the content of your landing page.
 
-![Only add color when you're happy with layout + content](/assets/images/2022/MXB22014/design-black-white.png)
-
----
 
 ## #3 Use 1 (max 2) easy to read fonts
 
@@ -68,7 +61,6 @@ A good example of font choice affecting readability:
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">How Wild Wild Country Ruined Me With Their Choice Of Font<br><br>👇 <a href="https://t.co/A14DQ2IEH4">pic.twitter.com/A14DQ2IEH4</a></p>&mdash; Michelle (32/100) (@MishaCreatrix) <a href="https://twitter.com/MishaCreatrix/status/1403880306965237761?ref_src=twsrc%5Etfw">June 13, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
----
 
 ## #4 Limit options to avoid information overload
 
@@ -82,11 +74,8 @@ If you're like me, you spent more time scrolling through the thousands of TV Sho
 
 Limit your call to action to 1 thing and consider how you can simplify things like pricing options.
 
----
 
 ## #5 Have a clear and concise headline and sub-headline
-
-![Headings and sub-headings are important](/assets/images/2022/MXB22014/hierarchy.png)
 
 You may have seen this image or one like it floating around on social media or other design-related forums. 
 
@@ -96,27 +85,20 @@ An effective headline showcases the value your audience is getting rather than j
 
 Here are some great examples of headlines and sub-headlines:
 
-![Grayscale font landing page from Charli Marie](/assets/images/2022/MXB22014/charli-marie.png)
+- [Grayscale font landing page from Charli Marie](https://charlimarie.com/shop/grayscale)
 
-[Grayscale font landing page from Charli Marie](https://charlimarie.com/shop/grayscale)
+- [ChartMogul's landing page](https://chartmogul.com/)
 
-![ChartMogul's landing page](/assets/images/2022/MXB22014/chart-mogul.png)
-
-[ChartMogul's landing page](https://chartmogul.com/)
-
-![Buy Me A Coffee's landing page](/assets/images/2022/MXB22014/buy-me-a-coffee.png)
-
-[Buy Me A Coffee's landing page](https://www.buymeacoffee.com/)
+- [Buy Me A Coffee's landing page](https://www.buymeacoffee.com/)
 
 
 There is a whole lot more I could say about how to write the perfect headline and sub-headline but that would be an article in itself.
 
-Instead, here are some excellent resources if you want to level up your copywriting game:
+Instead, here are some excellent resources if you want to improve your copywriting skills:
 
 - [7 Formulas for Landing Page Headlines(With Examples)](https://unbounce.com/landing-page-examples/formulas-for-landing-page-headlines-with-examples/)
 - [20 Easy Ways to Practice Getting Better at Copywriting](https://copywritingcourse.com/copywriting-practice/)
 
----
 
 ## #6 Use a better call to action than Sign Up
 
@@ -128,10 +110,6 @@ Instead, you want to help people understand the value they receive by signing up
 
 There's a fine line here between fun and overcomplicated so be mindful of keeping things clear instead of clever.
 
-![Better CTA](/assets/images/2022/MXB22014/better-cta.png)
-
----
-
 ## #7 Use good-quality photos of real people for your testimonials
 
 Testimonials build trust in your product or service. This is why any well-designed landing page features testimonials in some shape or form. 
@@ -139,10 +117,6 @@ Testimonials build trust in your product or service. This is why any well-design
 However, if you have fake or inauthentic testimonials you are doing more harm than good to your credibility.
 
 An effective way to improve your testimonials is to include high-quality images of the people behind them. People respond more positively when they see actual people beside something. Use this to your advantage by including photos of those people rather than a stock avatar, a generic image, or worse, no image at all.
-
-![Better testimonials](/assets/images/2022/MXB22014/better-testimonial.png)
-
----
 
 ## #8 Show your product in action
 
@@ -178,7 +152,6 @@ It gives you more space to showcase your product and show off what it can do. Pl
 
 [The Tweet100 landing page does this really well](https://tweet100.com/).
 
----
 
 ## #9 Highlight the recommended pricing plan
 
@@ -192,15 +165,12 @@ To make the recommended option stand out, you could:
 • Make it taller than the others
 • Make the CTA more noticeable by making it larger, or a different color
 
-![Highlight the recommended pricing plan](/assets/images/2022/MXB22014/pricing-highlight.png)
-
 [ConvertKit does this well](https://convertkit.com/pricing).
 
 [Airtable also does this well](https://airtable.com/pricing).
 
 Also, if your product is free or offers a free trial be sure to say that so people know what to expect. Some people may want to try before they buy.
 
----
 
 ## #10 Test your website on mobile, tablet, and desktop
 
@@ -212,7 +182,6 @@ If a landing page doesn't look well on a mobile device, it's so easy for someone
 
 Most web browsers have a [built in way to test the responsiveness of your website](https://developer.chrome.com/docs/devtools/device-mode/) so if you don't have a variety of different devices to test on this works pretty well. At the very least you should test your landing page on your computer and your phone.
 
----
 
 ## Landing Page Checklist Summary
 
@@ -226,7 +195,3 @@ Most web browsers have a [built in way to test the responsiveness of your websit
 8. Show your product in action
 9. Highlight the recommended pricing plan
 10. Test your website on mobile, tablet, and desktop
-
----
-
-If you enjoyed this, please consider sharing it with someone else who might find it useful 🤗
