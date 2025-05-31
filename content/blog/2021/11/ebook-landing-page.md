@@ -23,7 +23,6 @@ You can follow along with this post to learn how to create your own landing page
 
 Here's the landing page I created to promote my [Design Faster, Design Better - Landing Page](https://designfaster.netlify.app/).
 
----
 
 ## Step 1 - Define A Goal
 
@@ -51,8 +50,6 @@ It's also important to focus on one goal per landing page. Any more than one goa
 Here's the goal I picked: 
 
 *My goal is to create a custom landing page to promote my new eBook - design Faster, Design Better. I want readers to learn about exactly what my book will help with and allow them to buy it if they would like. I'd like to achieve this at a low cost and I'd like to build the landing page myself from scratch to practice my web dev skills.*
-
----
 
 ## Step 2 - Perform Research
 
@@ -124,7 +121,6 @@ Here are some great sources of inspiration I used to find great landing page des
 - [Tailwind UI - @tailwindui](https://twitter.com/tailwindui)
 - [11 Landing page examples that convert - ConvertKit](https://convertkit.com/product-landing-pages)
 
----
 
 ## Step 3 - Write The Copy 
 
@@ -152,8 +148,6 @@ Here's a sample of my rough copy layout:
   - Improve your design skills, learn how to prevent burnout, and unlock unlimited creativity with Design Faster, Design Better.
   - Get My Copy
 
----
-
 ## Step 4 - design + Build The Structure
 
 With your copy ready to go, it's time to design and build your landing page structure.
@@ -173,7 +167,6 @@ Don't over-complicate things by trying to learn a completely new piece of softwa
 
 If you have no clue where to start, Carrd is a great option.
 
----
 
 ## Step 5 - Deploy + Test
 
@@ -191,8 +184,6 @@ It's also a good idea to sanity check for spelling and grammar just in case ther
 
 Don't be afraid to make changes on the fly, it's your landing page and you can do what you want with it.
 
----
-
 ## Step 6 - Iterate 
 
 If you've been following along you should now have a brand new live landing page. Congrats!
@@ -204,8 +195,6 @@ Keep in mind though, your work doesn't necessarily end here.
 Your first iteration should be good enough to publish. But over time you'll see things that can be improved, things that can be added, and things that should be removed from your landing page.
 
 Don't be afraid to make updates based on what you continue to learn about landing page design.
-
----
 
 ## Step 7 - Continually Improve Over Time
 
@@ -219,7 +208,6 @@ Here's the link to the landing page I made once again if you're interested:
 
 [Design Faster, Design Better - Landing Page](https://designfaster.netlify.app/)
 
----
 
 ## My Key Take Aways
 

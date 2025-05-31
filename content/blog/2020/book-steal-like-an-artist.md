@@ -10,12 +10,7 @@ width: wide
 
 From reading Steal Like An Artist, I learned how to become more confident in sharing the work that I create. By learning that nothing is truly original, simply a mashup of other ideas, I learned how to harness my creativity to generate ideas that are unique to me.
 
-This is the second book I’ve read by Austin Kleon. The first was [Show Your Work](/show-your-work-austin-kleon), which I found to be equally as insightful and as motivating as this book.
-
-
-[Read This Book On Amazon](https://www.amazon.com/gp/product/0761169253/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=mishacreatrix-20&linkId=78a7f25d022fb0a98af50a9de735e28f&language=en_US)
-
----
+This is the second book I’ve read by Austin Kleon. The first was Show Your Work, which I found to be equally as insightful and as motivating as this book.
 
 ## Who Should Read This Book?
 
@@ -42,8 +37,6 @@ Garbage in, garbage out was another point in this book that resonated with me.
 With that in mind, I have been very much encouraged to prune and manage the content feeds that I consume. I’d like to build up a list of small but high-quality content sources across platforms like YouTube (videos), Feedly (articles), and Podcasts.
 
 I hope that by doing this I can become a “conscious consumer” and be able to learn more by engaging with high-quality media sources.
-
-In fact, I recently shared an article on my blog about how I consciously consume content like books, articles, and videos using Notion. You can read that article here: [Notion Library Tour: How I Capture Knowledge On What I Watch & Read](/notion-library-tour/).
 
 
 

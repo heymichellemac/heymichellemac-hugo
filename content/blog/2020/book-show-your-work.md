@@ -27,7 +27,7 @@ If you are someone looking to build a loyal audience for your work, then there a
 
 ## How This Book Changed Me
 
-This book didn’t necessarily resonate with me as much as the last book I read ([How To Take Smart Notes](/how-to-take-smart-notes-sonke-ahrens/)), but I did find some valuable information from it.
+This book didn’t necessarily resonate with me as much as the last book I read (How To Take Smart Notes), but I did find some valuable information from it.
 
 The fact that it was nice and short was very helpful for me to get through it quickly.
 

@@ -23,7 +23,7 @@ Even if you’re not a passionate reader but want to become a better learner thi
 - I am now super motivated to want to read books and to learn more. I certainly hope this motivation lasts!!
 - As I come across topics that I know little about or that seem interesting to me, I am highlighting them as potential learning topics and I look forward to researching and learning more about them.
 - I am hoping that over time if I continue reading that I will get faster but also become better able to understand the key points and messages of books or articles.
-- I am also fascinated by the idea of a knowledge management system that holds insightful thoughts and ideas that can be drawn upon to create articles or videos. I am actively building this system in Notion which you can read about here: [Notion Library Tour: How I Capture Knowledge On What I Watch & Read](/notion-library-tour/).
+- I am also fascinated by the idea of a knowledge management system that holds insightful thoughts and ideas that can be drawn upon to create articles or videos.
 
 
 ## My Top 3 Quotes That Resonated With Me
@@ -81,11 +81,7 @@ To really be able to understand something you need to be able to put it in your 
 
 2. Make literature notes – from anything you read, watch, or listen to. Make notes of thoughts or ideas that resonate with you or sound interesting. Keep it concise and use your own words.
 
-3. Make permanent or “
-
-   evergreen notes
-
-   ” – these go into the “slip-box”
+3. Make permanent or evergreen notes; these go into the slip-box.
 
    - go through the notes from step one and two
    - think about how they relate to what is relevant to your own thoughts or ideas

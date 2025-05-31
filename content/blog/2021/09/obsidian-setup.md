@@ -71,7 +71,6 @@ Here is my current directory setup:
 - 99-daily-notes
 - 99-templates
 
----
 
 ## The perfect system doesn't exist
 

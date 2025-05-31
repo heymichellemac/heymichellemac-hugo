@@ -14,7 +14,6 @@ I use a table of contents for most of the blog posts on this Jekyll blog and it 
 
 In this post, I'll walk you through the process of setting up and adding a table of contents to blog posts in Jekyll.
 
----
 
 ## Anatomy Of Table Of Contents
 
@@ -25,11 +24,6 @@ They essentially pull all the headings used throughout the blog post and put the
 1. Give you a sense of the overall structure and content of the blog post
 2. Allow you to navigate to different sections of the blog post.
 
-Here's an example of the table of contents for my previous blog post: [The 7 Step Process I Used To Build A Landing Page To Promote My Book](/book-landing-page)
-
-![Table Of Contents Component](/assets/images/2021/table-of-contents.png)
-
----
 
 ## Configuring Table Of Contents In Jekyll
 
@@ -43,7 +37,7 @@ To add this plugin to your Jekyll project add the following to your **Gemfile**:
 gem 'jekyll-toc'
 ```
 
-Next, to the **_config.yml** file add:
+Next, to the `_config.yml` file add:
 
 ```
 plugins:
@@ -60,7 +54,7 @@ toc:
 
 You can read more about the TOC settings in the [readme file in the jekyll-toc repo](https://github.com/toshimaru/jekyll-toc) but this is the configuration I use.
 
-Once you've added these lines of code, run  ```bundle install``` which will add the necessary dependencies to the project.	
+Once you've added these lines of code, run  `bundle install` which will add the necessary dependencies to the project.	
 
 For actually styling the table of contents, here's what I added to my styles.css:
 
@@ -101,7 +95,6 @@ You're mileage may vary here so feel free to style this how you like. In the con
 
 This allowed me to target those elements specifically to style them.
 
----
 
 ## Adding A Table Of Contents To A Blog Post
 
@@ -134,9 +127,3 @@ This will display a table of contents for that blog post.
 Everything should be setup and ready to go so simply start up your Jekyll project and see how things work. You should see a table of contents has been added to the blog posts you've specified.
 
 You can of course tweak the toc configuration in config.yml and the CSS styling to suit your needs but this implementation works very well for me.
-
----
-
-## Wrap Up
-
-I hope this walkthrough helped you to add a table of contents to your Jekyll website. If you have any questions or comments, let me know! I also have a number of other Jekyll related blog posts you can read down below 👇
